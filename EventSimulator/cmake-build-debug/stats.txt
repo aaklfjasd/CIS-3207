@@ -1,0 +1,10 @@
+Queue Sizes:
+CPU Average: 0.394320 CPU Max: 3 Disk1 Average: 148.224813 Disk1 Max: 300 Disk2 Average: 148.732138 Disk2 Max: 301
+Response Time:
+CPU Average: 0.388582 CPU Max: 14 Disk1 Average: 32675.738562 Disk1 Max: 65387 Disk2 Average: 33902.176471 Disk2 Max: 67895
+Processing Time:
+CPU: 12.422120 Disk1: 656.644737 Disk2: 740.185185
+Througput:
+CPU: 0.010850 Disk1: 0.001520 Disk2: 0.001350
+Utilization:
+CPU: 0.134780 Disk1: 0.998100 Disk2: 0.999250

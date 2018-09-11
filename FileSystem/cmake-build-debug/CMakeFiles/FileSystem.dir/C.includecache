@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/angry/CLionProjects/FileSystem/filesystem.h
+
+/cygdrive/c/Users/angry/CLionProjects/FileSystem/main.c
+stdio.h
+-
+memory.h
+-
+unistd.h
+-
+stdlib.h
+-
+sys/mman.h
+-
+sys/fcntl.h
+-
+filesystem.h
+/cygdrive/c/Users/angry/CLionProjects/FileSystem/filesystem.h
+

@@ -1,0 +1,4 @@
+"C:\Program Files\JetBrains\CLion 2017.3.2\bin\cmake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_C_COMPILER=C:/MinGW/bin/gcc.exe -G "CodeBlocks - MinGW Makefiles" C:\Users\angry\CLionProjects\EventSimulator
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/angry/CLionProjects/EventSimulator/cmake-build-debug

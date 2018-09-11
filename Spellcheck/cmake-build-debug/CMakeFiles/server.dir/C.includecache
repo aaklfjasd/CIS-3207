@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/angry/CLionProjects/Spellcheck/queue.c
+stdlib.h
+-
+queue.h
+/cygdrive/c/Users/angry/CLionProjects/Spellcheck/queue.h
+
+/cygdrive/c/Users/angry/CLionProjects/Spellcheck/queue.h
+
+/cygdrive/c/Users/angry/CLionProjects/Spellcheck/server.c
+stdio.h
+-
+sys/types.h
+-
+sys/socket.h
+-
+netinet/in.h
+-
+strings.h
+-
+stdlib.h
+-
+unistd.h
+-
+memory.h
+-
+pthread.h
+-
+search.h
+-
+queue.h
+/cygdrive/c/Users/angry/CLionProjects/Spellcheck/queue.h
+

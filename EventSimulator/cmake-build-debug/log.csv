@@ -1,0 +1,6091 @@
+Time,PID,Event
+0,0,Job arrived at CPU.
+0,0,Job started at CPU.
+14,0,Job finished at CPU.
+14,0,Going to disk
+14,0,Arrived at disk 2
+14,0,Job started at disk 2.
+115,1,Job arrived at CPU.
+115,1,Job started at CPU.
+125,1,Job finished at CPU.
+125,1,Going to disk
+125,1,Arrived at disk 1
+125,1,Job started at disk 1.
+217,2,Job arrived at CPU.
+217,2,Job started at CPU.
+227,2,Job finished at CPU.
+227,2,Going to disk
+227,2,Arrived at disk 2
+340,3,Job arrived at CPU.
+340,3,Job started at CPU.
+353,3,Job finished at CPU.
+353,3,Going to disk
+353,3,Arrived at disk 1
+441,4,Job arrived at CPU.
+441,4,Job started at CPU.
+454,4,Job finished at CPU.
+454,4,Going to disk
+454,4,Arrived at disk 2
+565,5,Job arrived at CPU.
+565,5,Job started at CPU.
+580,5,Job finished at CPU.
+580,5,Going to disk
+580,5,Arrived at disk 1
+691,0,Job finished at disk 2.
+691,0,Returning to CPU
+691,2,Job started at disk 2.
+691,0,Job arrived at CPU.
+691,0,Job started at CPU.
+698,1,Job finished at disk 1.
+698,1,Returning to CPU
+698,3,Job started at disk 1.
+698,1,Job arrived at CPU.
+703,0,Job finished at CPU.
+703,0,Job complete.
+703,1,Job started at CPU.
+711,6,Job arrived at CPU.
+716,1,Job finished at CPU.
+716,1,Going to disk
+716,6,Job started at CPU.
+716,1,Arrived at disk 2
+729,6,Job finished at CPU.
+729,6,Job complete.
+846,7,Job arrived at CPU.
+846,7,Job started at CPU.
+856,7,Job finished at CPU.
+856,7,Going to disk
+856,7,Arrived at disk 1
+996,8,Job arrived at CPU.
+996,8,Job started at CPU.
+1009,8,Job finished at CPU.
+1009,8,Going to disk
+1009,8,Arrived at disk 2
+1112,9,Job arrived at CPU.
+1112,9,Job started at CPU.
+1122,9,Job finished at CPU.
+1122,9,Job complete.
+1232,3,Job finished at disk 1.
+1232,3,Returning to CPU
+1232,5,Job started at disk 1.
+1232,3,Job arrived at CPU.
+1232,3,Job started at CPU.
+1238,10,Job arrived at CPU.
+1244,3,Job finished at CPU.
+1244,3,Going to disk
+1244,10,Job started at CPU.
+1244,3,Arrived at disk 1
+1259,10,Job finished at CPU.
+1259,10,Going to disk
+1259,10,Arrived at disk 1
+1348,11,Job arrived at CPU.
+1348,11,Job started at CPU.
+1363,11,Job finished at CPU.
+1363,11,Going to disk
+1363,11,Arrived at disk 2
+1374,2,Job finished at disk 2.
+1374,2,Returning to CPU
+1374,4,Job started at disk 2.
+1374,2,Job arrived at CPU.
+1374,2,Job started at CPU.
+1386,2,Job finished at CPU.
+1386,2,Going to disk
+1386,2,Arrived at disk 2
+1450,12,Job arrived at CPU.
+1450,12,Job started at CPU.
+1465,12,Job finished at CPU.
+1465,12,Going to disk
+1465,12,Arrived at disk 1
+1562,13,Job arrived at CPU.
+1562,13,Job started at CPU.
+1573,13,Job finished at CPU.
+1573,13,Going to disk
+1573,13,Arrived at disk 2
+1677,14,Job arrived at CPU.
+1677,14,Job started at CPU.
+1691,14,Job finished at CPU.
+1691,14,Job complete.
+1812,15,Job arrived at CPU.
+1812,15,Job started at CPU.
+1824,15,Job finished at CPU.
+1824,15,Job complete.
+1850,5,Job finished at disk 1.
+1850,5,Returning to CPU
+1850,7,Job started at disk 1.
+1850,5,Job arrived at CPU.
+1850,5,Job started at CPU.
+1860,5,Job finished at CPU.
+1860,5,Going to disk
+1860,5,Arrived at disk 1
+1934,16,Job arrived at CPU.
+1934,16,Job started at CPU.
+1944,16,Job finished at CPU.
+1944,16,Going to disk
+1944,16,Arrived at disk 1
+2042,17,Job arrived at CPU.
+2042,17,Job started at CPU.
+2052,17,Job finished at CPU.
+2052,17,Going to disk
+2052,17,Arrived at disk 2
+2114,4,Job finished at disk 2.
+2114,4,Returning to CPU
+2114,1,Job started at disk 2.
+2114,4,Job arrived at CPU.
+2114,4,Job started at CPU.
+2127,4,Job finished at CPU.
+2127,4,Job complete.
+2154,18,Job arrived at CPU.
+2154,18,Job started at CPU.
+2168,18,Job finished at CPU.
+2168,18,Going to disk
+2168,18,Arrived at disk 2
+2288,19,Job arrived at CPU.
+2288,19,Job started at CPU.
+2299,19,Job finished at CPU.
+2299,19,Job complete.
+2438,20,Job arrived at CPU.
+2438,20,Job started at CPU.
+2449,20,Job finished at CPU.
+2449,20,Going to disk
+2449,20,Arrived at disk 1
+2583,21,Job arrived at CPU.
+2583,21,Job started at CPU.
+2595,21,Job finished at CPU.
+2595,21,Going to disk
+2595,21,Arrived at disk 2
+2597,7,Job finished at disk 1.
+2597,7,Returning to CPU
+2597,3,Job started at disk 1.
+2597,7,Job arrived at CPU.
+2597,7,Job started at CPU.
+2612,7,Job finished at CPU.
+2612,7,Going to disk
+2612,7,Arrived at disk 1
+2717,22,Job arrived at CPU.
+2717,22,Job started at CPU.
+2732,22,Job finished at CPU.
+2732,22,Going to disk
+2732,22,Arrived at disk 1
+2792,1,Job finished at disk 2.
+2792,1,Returning to CPU
+2792,8,Job started at disk 2.
+2792,1,Job arrived at CPU.
+2792,1,Job started at CPU.
+2804,1,Job finished at CPU.
+2804,1,Job complete.
+2837,23,Job arrived at CPU.
+2837,23,Job started at CPU.
+2848,23,Job finished at CPU.
+2848,23,Going to disk
+2848,23,Arrived at disk 2
+2971,24,Job arrived at CPU.
+2971,24,Job started at CPU.
+2984,24,Job finished at CPU.
+2984,24,Going to disk
+2984,24,Arrived at disk 2
+3110,25,Job arrived at CPU.
+3110,25,Job started at CPU.
+3124,25,Job finished at CPU.
+3124,25,Going to disk
+3124,25,Arrived at disk 1
+3211,26,Job arrived at CPU.
+3211,26,Job started at CPU.
+3222,26,Job finished at CPU.
+3222,26,Going to disk
+3222,26,Arrived at disk 2
+3230,3,Job finished at disk 1.
+3230,3,Returning to CPU
+3230,10,Job started at disk 1.
+3230,3,Job arrived at CPU.
+3230,3,Job started at CPU.
+3242,3,Job finished at CPU.
+3242,3,Going to disk
+3242,3,Arrived at disk 1
+3338,27,Job arrived at CPU.
+3338,27,Job started at CPU.
+3351,27,Job finished at CPU.
+3351,27,Going to disk
+3351,27,Arrived at disk 1
+3438,28,Job arrived at CPU.
+3438,28,Job started at CPU.
+3453,28,Job finished at CPU.
+3453,28,Job complete.
+3534,8,Job finished at disk 2.
+3534,8,Returning to CPU
+3534,11,Job started at disk 2.
+3534,8,Job arrived at CPU.
+3534,8,Job started at CPU.
+3547,8,Job finished at CPU.
+3547,8,Going to disk
+3547,8,Arrived at disk 2
+3574,29,Job arrived at CPU.
+3574,29,Job started at CPU.
+3589,29,Job finished at CPU.
+3589,29,Going to disk
+3589,29,Arrived at disk 2
+3692,30,Job arrived at CPU.
+3692,30,Job started at CPU.
+3703,30,Job finished at CPU.
+3703,30,Job complete.
+3778,10,Job finished at disk 1.
+3778,10,Returning to CPU
+3778,12,Job started at disk 1.
+3778,10,Job arrived at CPU.
+3778,10,Job started at CPU.
+3791,10,Job finished at CPU.
+3791,10,Going to disk
+3791,10,Arrived at disk 1
+3806,31,Job arrived at CPU.
+3806,31,Job started at CPU.
+3821,31,Job finished at CPU.
+3821,31,Job complete.
+3914,32,Job arrived at CPU.
+3914,32,Job started at CPU.
+3925,32,Job finished at CPU.
+3925,32,Going to disk
+3925,32,Arrived at disk 1
+4030,33,Job arrived at CPU.
+4030,33,Job started at CPU.
+4044,33,Job finished at CPU.
+4044,33,Job complete.
+4154,34,Job arrived at CPU.
+4154,34,Job started at CPU.
+4169,34,Job finished at CPU.
+4169,34,Going to disk
+4169,34,Arrived at disk 2
+4170,11,Job finished at disk 2.
+4170,11,Returning to CPU
+4170,2,Job started at disk 2.
+4170,11,Job arrived at CPU.
+4170,11,Job started at CPU.
+4184,11,Job finished at CPU.
+4184,11,Going to disk
+4184,11,Arrived at disk 2
+4259,35,Job arrived at CPU.
+4259,35,Job started at CPU.
+4274,35,Job finished at CPU.
+4274,35,Going to disk
+4274,35,Arrived at disk 1
+4368,36,Job arrived at CPU.
+4368,36,Job started at CPU.
+4379,36,Job finished at CPU.
+4379,36,Going to disk
+4379,36,Arrived at disk 2
+4467,12,Job finished at disk 1.
+4467,12,Returning to CPU
+4467,5,Job started at disk 1.
+4467,12,Job arrived at CPU.
+4467,12,Job started at CPU.
+4479,37,Job arrived at CPU.
+4482,12,Job finished at CPU.
+4482,12,Job complete.
+4482,37,Job started at CPU.
+4497,37,Job finished at CPU.
+4497,37,Going to disk
+4497,37,Arrived at disk 1
+4607,38,Job arrived at CPU.
+4607,38,Job started at CPU.
+4619,38,Job finished at CPU.
+4619,38,Job complete.
+4757,39,Job arrived at CPU.
+4757,39,Job started at CPU.
+4769,39,Job finished at CPU.
+4769,39,Going to disk
+4769,39,Arrived at disk 1
+4883,2,Job finished at disk 2.
+4883,2,Returning to CPU
+4883,13,Job started at disk 2.
+4883,2,Job arrived at CPU.
+4883,2,Job started at CPU.
+4893,2,Job finished at CPU.
+4893,2,Going to disk
+4893,2,Arrived at disk 2
+4899,40,Job arrived at CPU.
+4899,40,Job started at CPU.
+4910,40,Job finished at CPU.
+4910,40,Going to disk
+4910,40,Arrived at disk 2
+5044,41,Job arrived at CPU.
+5044,41,Job started at CPU.
+5057,41,Job finished at CPU.
+5057,41,Going to disk
+5057,41,Arrived at disk 1
+5178,5,Job finished at disk 1.
+5178,5,Returning to CPU
+5178,16,Job started at disk 1.
+5178,5,Job arrived at CPU.
+5178,5,Job started at CPU.
+5185,42,Job arrived at CPU.
+5190,5,Job finished at CPU.
+5190,5,Going to disk
+5190,42,Job started at CPU.
+5190,5,Arrived at disk 1
+5203,42,Job finished at CPU.
+5203,42,Going to disk
+5203,42,Arrived at disk 2
+5309,43,Job arrived at CPU.
+5309,43,Job started at CPU.
+5322,43,Job finished at CPU.
+5322,43,Going to disk
+5322,43,Arrived at disk 1
+5421,44,Job arrived at CPU.
+5421,44,Job started at CPU.
+5435,44,Job finished at CPU.
+5435,44,Going to disk
+5435,44,Arrived at disk 2
+5485,13,Job finished at disk 2.
+5485,13,Returning to CPU
+5485,17,Job started at disk 2.
+5485,13,Job arrived at CPU.
+5485,13,Job started at CPU.
+5496,13,Job finished at CPU.
+5496,13,Going to disk
+5496,13,Arrived at disk 2
+5549,45,Job arrived at CPU.
+5549,45,Job started at CPU.
+5559,45,Job finished at CPU.
+5559,45,Going to disk
+5559,45,Arrived at disk 1
+5661,46,Job arrived at CPU.
+5661,46,Job started at CPU.
+5671,46,Job finished at CPU.
+5671,46,Going to disk
+5671,46,Arrived at disk 2
+5780,47,Job arrived at CPU.
+5780,47,Job started at CPU.
+5795,47,Job finished at CPU.
+5795,47,Going to disk
+5795,47,Arrived at disk 1
+5856,16,Job finished at disk 1.
+5856,16,Returning to CPU
+5856,20,Job started at disk 1.
+5856,16,Job arrived at CPU.
+5856,16,Job started at CPU.
+5871,16,Job finished at CPU.
+5871,16,Going to disk
+5871,16,Arrived at disk 1
+5923,48,Job arrived at CPU.
+5923,48,Job started at CPU.
+5938,48,Job finished at CPU.
+5938,48,Job complete.
+6071,49,Job arrived at CPU.
+6071,49,Job started at CPU.
+6086,49,Job finished at CPU.
+6086,49,Going to disk
+6086,49,Arrived at disk 2
+6217,50,Job arrived at CPU.
+6217,50,Job started at CPU.
+6231,50,Job finished at CPU.
+6231,50,Going to disk
+6231,50,Arrived at disk 1
+6337,51,Job arrived at CPU.
+6337,51,Job started at CPU.
+6345,17,Job finished at disk 2.
+6345,17,Returning to CPU
+6345,18,Job started at disk 2.
+6345,17,Job arrived at CPU.
+6347,51,Job finished at CPU.
+6347,51,Going to disk
+6347,17,Job started at CPU.
+6347,51,Arrived at disk 2
+6361,17,Job finished at CPU.
+6361,17,Going to disk
+6361,17,Arrived at disk 2
+6484,52,Job arrived at CPU.
+6484,52,Job started at CPU.
+6494,52,Job finished at CPU.
+6494,52,Going to disk
+6494,52,Arrived at disk 1
+6554,20,Job finished at disk 1.
+6554,20,Returning to CPU
+6554,7,Job started at disk 1.
+6554,20,Job arrived at CPU.
+6554,20,Job started at CPU.
+6564,20,Job finished at CPU.
+6564,20,Going to disk
+6564,20,Arrived at disk 1
+6612,53,Job arrived at CPU.
+6612,53,Job started at CPU.
+6625,53,Job finished at CPU.
+6625,53,Going to disk
+6625,53,Arrived at disk 2
+6741,54,Job arrived at CPU.
+6741,54,Job started at CPU.
+6755,54,Job finished at CPU.
+6755,54,Job complete.
+6871,55,Job arrived at CPU.
+6871,55,Job started at CPU.
+6886,55,Job finished at CPU.
+6886,55,Going to disk
+6886,55,Arrived at disk 1
+6990,56,Job arrived at CPU.
+6990,56,Job started at CPU.
+7000,56,Job finished at CPU.
+7000,56,Going to disk
+7000,56,Arrived at disk 2
+7094,18,Job finished at disk 2.
+7094,18,Returning to CPU
+7094,21,Job started at disk 2.
+7094,18,Job arrived at CPU.
+7094,18,Job started at CPU.
+7108,18,Job finished at CPU.
+7108,18,Job complete.
+7132,57,Job arrived at CPU.
+7132,57,Job started at CPU.
+7145,57,Job finished at CPU.
+7145,57,Going to disk
+7145,57,Arrived at disk 2
+7277,58,Job arrived at CPU.
+7277,58,Job started at CPU.
+7291,58,Job finished at CPU.
+7291,58,Going to disk
+7291,58,Arrived at disk 1
+7341,7,Job finished at disk 1.
+7341,7,Returning to CPU
+7341,22,Job started at disk 1.
+7341,7,Job arrived at CPU.
+7341,7,Job started at CPU.
+7355,7,Job finished at CPU.
+7355,7,Going to disk
+7355,7,Arrived at disk 1
+7418,59,Job arrived at CPU.
+7418,59,Job started at CPU.
+7429,59,Job finished at CPU.
+7429,59,Going to disk
+7429,59,Arrived at disk 2
+7539,60,Job arrived at CPU.
+7539,60,Job started at CPU.
+7550,60,Job finished at CPU.
+7550,60,Going to disk
+7550,60,Arrived at disk 1
+7644,61,Job arrived at CPU.
+7644,61,Job started at CPU.
+7659,61,Job finished at CPU.
+7659,61,Going to disk
+7659,61,Arrived at disk 2
+7763,62,Job arrived at CPU.
+7763,62,Job started at CPU.
+7777,62,Job finished at CPU.
+7777,62,Going to disk
+7777,62,Arrived at disk 1
+7883,63,Job arrived at CPU.
+7883,63,Job started at CPU.
+7897,63,Job finished at CPU.
+7897,63,Going to disk
+7897,63,Arrived at disk 2
+7913,22,Job finished at disk 1.
+7913,22,Returning to CPU
+7913,25,Job started at disk 1.
+7913,22,Job arrived at CPU.
+7913,22,Job started at CPU.
+7923,22,Job finished at CPU.
+7923,22,Going to disk
+7923,22,Arrived at disk 1
+7970,21,Job finished at disk 2.
+7970,21,Returning to CPU
+7970,23,Job started at disk 2.
+7970,21,Job arrived at CPU.
+7970,21,Job started at CPU.
+7985,21,Job finished at CPU.
+7985,21,Job complete.
+8013,64,Job arrived at CPU.
+8013,64,Job started at CPU.
+8024,64,Job finished at CPU.
+8024,64,Going to disk
+8024,64,Arrived at disk 2
+8161,65,Job arrived at CPU.
+8161,65,Job started at CPU.
+8171,65,Job finished at CPU.
+8171,65,Going to disk
+8171,65,Arrived at disk 1
+8302,66,Job arrived at CPU.
+8302,66,Job started at CPU.
+8316,66,Job finished at CPU.
+8316,66,Going to disk
+8316,66,Arrived at disk 2
+8436,67,Job arrived at CPU.
+8436,67,Job started at CPU.
+8451,67,Job finished at CPU.
+8451,67,Going to disk
+8451,67,Arrived at disk 1
+8545,68,Job arrived at CPU.
+8545,68,Job started at CPU.
+8557,68,Job finished at CPU.
+8557,68,Going to disk
+8557,68,Arrived at disk 2
+8604,25,Job finished at disk 1.
+8604,25,Returning to CPU
+8604,3,Job started at disk 1.
+8604,25,Job arrived at CPU.
+8604,25,Job started at CPU.
+8619,25,Job finished at CPU.
+8619,25,Going to disk
+8619,25,Arrived at disk 1
+8663,69,Job arrived at CPU.
+8663,69,Job started at CPU.
+8675,69,Job finished at CPU.
+8675,69,Going to disk
+8675,69,Arrived at disk 1
+8759,23,Job finished at disk 2.
+8759,23,Returning to CPU
+8759,24,Job started at disk 2.
+8759,23,Job arrived at CPU.
+8759,23,Job started at CPU.
+8770,23,Job finished at CPU.
+8770,23,Going to disk
+8770,23,Arrived at disk 2
+8775,70,Job arrived at CPU.
+8775,70,Job started at CPU.
+8787,70,Job finished at CPU.
+8787,70,Going to disk
+8787,70,Arrived at disk 2
+8888,71,Job arrived at CPU.
+8888,71,Job started at CPU.
+8901,71,Job finished at CPU.
+8901,71,Going to disk
+8901,71,Arrived at disk 1
+9015,72,Job arrived at CPU.
+9015,72,Job started at CPU.
+9026,72,Job finished at CPU.
+9026,72,Going to disk
+9026,72,Arrived at disk 2
+9124,73,Job arrived at CPU.
+9124,73,Job started at CPU.
+9135,73,Job finished at CPU.
+9135,73,Going to disk
+9135,73,Arrived at disk 1
+9234,74,Job arrived at CPU.
+9234,74,Job started at CPU.
+9246,74,Job finished at CPU.
+9246,74,Going to disk
+9246,74,Arrived at disk 2
+9351,75,Job arrived at CPU.
+9351,75,Job started at CPU.
+9362,75,Job finished at CPU.
+9362,75,Job complete.
+9388,3,Job finished at disk 1.
+9388,3,Returning to CPU
+9388,27,Job started at disk 1.
+9388,3,Job arrived at CPU.
+9388,3,Job started at CPU.
+9403,3,Job finished at CPU.
+9403,3,Going to disk
+9403,3,Arrived at disk 1
+9488,76,Job arrived at CPU.
+9488,76,Job started at CPU.
+9500,76,Job finished at CPU.
+9500,76,Going to disk
+9500,76,Arrived at disk 1
+9628,77,Job arrived at CPU.
+9628,77,Job started at CPU.
+9633,24,Job finished at disk 2.
+9633,24,Returning to CPU
+9633,26,Job started at disk 2.
+9633,24,Job arrived at CPU.
+9640,77,Job finished at CPU.
+9640,77,Going to disk
+9640,24,Job started at CPU.
+9640,77,Arrived at disk 2
+9651,24,Job finished at CPU.
+9651,24,Job complete.
+9732,78,Job arrived at CPU.
+9732,78,Job started at CPU.
+9744,78,Job finished at CPU.
+9744,78,Going to disk
+9744,78,Arrived at disk 2
+9835,79,Job arrived at CPU.
+9835,79,Job started at CPU.
+9848,79,Job finished at CPU.
+9848,79,Going to disk
+9848,79,Arrived at disk 1
+9974,80,Job arrived at CPU.
+9974,80,Job started at CPU.
+9983,27,Job finished at disk 1.
+9983,27,Returning to CPU
+9983,10,Job started at disk 1.
+9983,27,Job arrived at CPU.
+9985,80,Job finished at CPU.
+9985,80,Going to disk
+9985,27,Job started at CPU.
+9985,80,Arrived at disk 1
+9996,27,Job finished at CPU.
+9996,27,Job complete.
+10079,81,Job arrived at CPU.
+10079,81,Job started at CPU.
+10091,81,Job finished at CPU.
+10091,81,Going to disk
+10091,81,Arrived at disk 2
+10184,82,Job arrived at CPU.
+10184,82,Job started at CPU.
+10199,82,Job finished at CPU.
+10199,82,Job complete.
+10249,26,Job finished at disk 2.
+10249,26,Returning to CPU
+10249,8,Job started at disk 2.
+10249,26,Job arrived at CPU.
+10249,26,Job started at CPU.
+10259,26,Job finished at CPU.
+10259,26,Going to disk
+10259,26,Arrived at disk 2
+10312,83,Job arrived at CPU.
+10312,83,Job started at CPU.
+10324,83,Job finished at CPU.
+10324,83,Going to disk
+10324,83,Arrived at disk 1
+10447,84,Job arrived at CPU.
+10447,84,Job started at CPU.
+10457,84,Job finished at CPU.
+10457,84,Going to disk
+10457,84,Arrived at disk 2
+10565,85,Job arrived at CPU.
+10565,85,Job started at CPU.
+10579,85,Job finished at CPU.
+10579,85,Going to disk
+10579,85,Arrived at disk 1
+10710,86,Job arrived at CPU.
+10710,86,Job started at CPU.
+10722,10,Job finished at disk 1.
+10722,10,Returning to CPU
+10722,32,Job started at disk 1.
+10722,10,Job arrived at CPU.
+10725,86,Job finished at CPU.
+10725,86,Going to disk
+10725,10,Job started at CPU.
+10725,86,Arrived at disk 1
+10739,10,Job finished at CPU.
+10739,10,Going to disk
+10739,10,Arrived at disk 2
+10857,87,Job arrived at CPU.
+10857,87,Job started at CPU.
+10871,87,Job finished at CPU.
+10871,87,Going to disk
+10871,87,Arrived at disk 1
+10898,8,Job finished at disk 2.
+10898,8,Returning to CPU
+10898,29,Job started at disk 2.
+10898,8,Job arrived at CPU.
+10898,8,Job started at CPU.
+10912,8,Job finished at CPU.
+10912,8,Going to disk
+10912,8,Arrived at disk 2
+10964,88,Job arrived at CPU.
+10964,88,Job started at CPU.
+10975,88,Job finished at CPU.
+10975,88,Going to disk
+10975,88,Arrived at disk 2
+11083,89,Job arrived at CPU.
+11083,89,Job started at CPU.
+11093,89,Job finished at CPU.
+11093,89,Going to disk
+11093,89,Arrived at disk 1
+11206,90,Job arrived at CPU.
+11206,90,Job started at CPU.
+11216,90,Job finished at CPU.
+11216,90,Going to disk
+11216,90,Arrived at disk 2
+11338,91,Job arrived at CPU.
+11338,91,Job started at CPU.
+11351,91,Job finished at CPU.
+11351,91,Going to disk
+11351,91,Arrived at disk 1
+11417,32,Job finished at disk 1.
+11417,32,Returning to CPU
+11417,35,Job started at disk 1.
+11417,32,Job arrived at CPU.
+11417,32,Job started at CPU.
+11427,32,Job finished at CPU.
+11427,32,Going to disk
+11427,32,Arrived at disk 1
+11438,92,Job arrived at CPU.
+11438,92,Job started at CPU.
+11451,92,Job finished at CPU.
+11451,92,Going to disk
+11451,92,Arrived at disk 2
+11524,29,Job finished at disk 2.
+11524,29,Returning to CPU
+11524,34,Job started at disk 2.
+11524,29,Job arrived at CPU.
+11524,29,Job started at CPU.
+11536,29,Job finished at CPU.
+11536,29,Job complete.
+11581,93,Job arrived at CPU.
+11581,93,Job started at CPU.
+11593,93,Job finished at CPU.
+11593,93,Going to disk
+11593,93,Arrived at disk 2
+11727,94,Job arrived at CPU.
+11727,94,Job started at CPU.
+11737,94,Job finished at CPU.
+11737,94,Going to disk
+11737,94,Arrived at disk 1
+11846,95,Job arrived at CPU.
+11846,95,Job started at CPU.
+11859,95,Job finished at CPU.
+11859,95,Going to disk
+11859,95,Arrived at disk 2
+11993,96,Job arrived at CPU.
+11993,96,Job started at CPU.
+12008,96,Job finished at CPU.
+12008,96,Going to disk
+12008,96,Arrived at disk 1
+12103,97,Job arrived at CPU.
+12103,97,Job started at CPU.
+12116,97,Job finished at CPU.
+12116,97,Job complete.
+12174,35,Job finished at disk 1.
+12174,35,Returning to CPU
+12174,37,Job started at disk 1.
+12174,35,Job arrived at CPU.
+12174,35,Job started at CPU.
+12186,35,Job finished at CPU.
+12186,35,Going to disk
+12186,35,Arrived at disk 1
+12204,98,Job arrived at CPU.
+12204,98,Job started at CPU.
+12215,98,Job finished at CPU.
+12215,98,Going to disk
+12215,98,Arrived at disk 2
+12317,99,Job arrived at CPU.
+12317,99,Job started at CPU.
+12331,99,Job finished at CPU.
+12331,99,Going to disk
+12331,99,Arrived at disk 1
+12405,34,Job finished at disk 2.
+12405,34,Returning to CPU
+12405,11,Job started at disk 2.
+12405,34,Job arrived at CPU.
+12405,34,Job started at CPU.
+12415,34,Job finished at CPU.
+12415,34,Job complete.
+12419,100,Job arrived at CPU.
+12419,100,Job started at CPU.
+12434,100,Job finished at CPU.
+12434,100,Job complete.
+12533,101,Job arrived at CPU.
+12533,101,Job started at CPU.
+12545,101,Job finished at CPU.
+12545,101,Going to disk
+12545,101,Arrived at disk 2
+12673,102,Job arrived at CPU.
+12673,102,Job started at CPU.
+12687,102,Job finished at CPU.
+12687,102,Going to disk
+12687,102,Arrived at disk 2
+12803,103,Job arrived at CPU.
+12803,103,Job started at CPU.
+12818,103,Job finished at CPU.
+12818,103,Going to disk
+12818,103,Arrived at disk 1
+12870,37,Job finished at disk 1.
+12870,37,Returning to CPU
+12870,39,Job started at disk 1.
+12870,37,Job arrived at CPU.
+12870,37,Job started at CPU.
+12883,37,Job finished at CPU.
+12883,37,Job complete.
+12908,104,Job arrived at CPU.
+12908,104,Job started at CPU.
+12919,104,Job finished at CPU.
+12919,104,Going to disk
+12919,104,Arrived at disk 1
+13006,11,Job finished at disk 2.
+13006,11,Returning to CPU
+13006,36,Job started at disk 2.
+13006,11,Job arrived at CPU.
+13006,11,Job started at CPU.
+13008,105,Job arrived at CPU.
+13016,11,Job finished at CPU.
+13016,11,Going to disk
+13016,105,Job started at CPU.
+13016,11,Arrived at disk 2
+13029,105,Job finished at CPU.
+13029,105,Going to disk
+13029,105,Arrived at disk 2
+13156,106,Job arrived at CPU.
+13156,106,Job started at CPU.
+13166,106,Job finished at CPU.
+13166,106,Going to disk
+13166,106,Arrived at disk 1
+13288,107,Job arrived at CPU.
+13288,107,Job started at CPU.
+13298,107,Job finished at CPU.
+13298,107,Going to disk
+13298,107,Arrived at disk 2
+13388,108,Job arrived at CPU.
+13388,108,Job started at CPU.
+13399,108,Job finished at CPU.
+13399,108,Job complete.
+13514,109,Job arrived at CPU.
+13514,109,Job started at CPU.
+13523,39,Job finished at disk 1.
+13523,39,Returning to CPU
+13523,41,Job started at disk 1.
+13523,39,Job arrived at CPU.
+13525,109,Job finished at CPU.
+13525,109,Going to disk
+13525,39,Job started at CPU.
+13525,109,Arrived at disk 1
+13535,39,Job finished at CPU.
+13535,39,Going to disk
+13535,39,Arrived at disk 1
+13635,110,Job arrived at CPU.
+13635,110,Job started at CPU.
+13649,110,Job finished at CPU.
+13649,110,Job complete.
+13778,111,Job arrived at CPU.
+13778,111,Job started at CPU.
+13788,111,Job finished at CPU.
+13788,111,Job complete.
+13800,36,Job finished at disk 2.
+13800,36,Returning to CPU
+13800,2,Job started at disk 2.
+13800,36,Job arrived at CPU.
+13800,36,Job started at CPU.
+13812,36,Job finished at CPU.
+13812,36,Going to disk
+13812,36,Arrived at disk 2
+13893,112,Job arrived at CPU.
+13893,112,Job started at CPU.
+13906,112,Job finished at CPU.
+13906,112,Going to disk
+13906,112,Arrived at disk 2
+14029,113,Job arrived at CPU.
+14029,113,Job started at CPU.
+14044,113,Job finished at CPU.
+14044,113,Going to disk
+14044,113,Arrived at disk 1
+14129,41,Job finished at disk 1.
+14129,41,Returning to CPU
+14129,5,Job started at disk 1.
+14129,41,Job arrived at CPU.
+14129,41,Job started at CPU.
+14142,41,Job finished at CPU.
+14142,41,Going to disk
+14142,41,Arrived at disk 1
+14178,114,Job arrived at CPU.
+14178,114,Job started at CPU.
+14189,114,Job finished at CPU.
+14189,114,Going to disk
+14189,114,Arrived at disk 2
+14325,115,Job arrived at CPU.
+14325,115,Job started at CPU.
+14340,115,Job finished at CPU.
+14340,115,Going to disk
+14340,115,Arrived at disk 1
+14434,116,Job arrived at CPU.
+14434,116,Job started at CPU.
+14448,116,Job finished at CPU.
+14448,116,Going to disk
+14448,116,Arrived at disk 2
+14555,117,Job arrived at CPU.
+14555,117,Job started at CPU.
+14566,117,Job finished at CPU.
+14566,117,Going to disk
+14566,117,Arrived at disk 1
+14659,2,Job finished at disk 2.
+14659,2,Returning to CPU
+14659,40,Job started at disk 2.
+14659,2,Job arrived at CPU.
+14659,2,Job started at CPU.
+14671,2,Job finished at CPU.
+14671,2,Job complete.
+14695,118,Job arrived at CPU.
+14695,118,Job started at CPU.
+14706,118,Job finished at CPU.
+14706,118,Going to disk
+14706,118,Arrived at disk 2
+14810,119,Job arrived at CPU.
+14810,119,Job started at CPU.
+14824,119,Job finished at CPU.
+14824,119,Going to disk
+14824,119,Arrived at disk 2
+14846,5,Job finished at disk 1.
+14846,5,Returning to CPU
+14846,43,Job started at disk 1.
+14846,5,Job arrived at CPU.
+14846,5,Job started at CPU.
+14861,5,Job finished at CPU.
+14861,5,Going to disk
+14861,5,Arrived at disk 1
+14940,120,Job arrived at CPU.
+14940,120,Job started at CPU.
+14951,120,Job finished at CPU.
+14951,120,Going to disk
+14951,120,Arrived at disk 1
+15083,121,Job arrived at CPU.
+15083,121,Job started at CPU.
+15098,121,Job finished at CPU.
+15098,121,Going to disk
+15098,121,Arrived at disk 2
+15216,122,Job arrived at CPU.
+15216,122,Job started at CPU.
+15228,122,Job finished at CPU.
+15228,122,Going to disk
+15228,122,Arrived at disk 1
+15308,40,Job finished at disk 2.
+15308,40,Returning to CPU
+15308,42,Job started at disk 2.
+15308,40,Job arrived at CPU.
+15308,40,Job started at CPU.
+15322,40,Job finished at CPU.
+15322,40,Going to disk
+15322,40,Arrived at disk 2
+15325,123,Job arrived at CPU.
+15325,123,Job started at CPU.
+15339,123,Job finished at CPU.
+15339,123,Going to disk
+15339,123,Arrived at disk 2
+15469,124,Job arrived at CPU.
+15469,124,Job started at CPU.
+15479,124,Job finished at CPU.
+15479,124,Going to disk
+15479,124,Arrived at disk 1
+15573,43,Job finished at disk 1.
+15573,43,Returning to CPU
+15573,45,Job started at disk 1.
+15573,43,Job arrived at CPU.
+15573,43,Job started at CPU.
+15583,43,Job finished at CPU.
+15583,43,Going to disk
+15583,43,Arrived at disk 1
+15603,125,Job arrived at CPU.
+15603,125,Job started at CPU.
+15616,125,Job finished at CPU.
+15616,125,Going to disk
+15616,125,Arrived at disk 2
+15714,126,Job arrived at CPU.
+15714,126,Job started at CPU.
+15725,126,Job finished at CPU.
+15725,126,Job complete.
+15844,127,Job arrived at CPU.
+15844,127,Job started at CPU.
+15854,127,Job finished at CPU.
+15854,127,Going to disk
+15854,127,Arrived at disk 1
+15975,128,Job arrived at CPU.
+15975,128,Job started at CPU.
+15989,128,Job finished at CPU.
+15989,128,Going to disk
+15989,128,Arrived at disk 2
+16082,42,Job finished at disk 2.
+16082,42,Returning to CPU
+16082,44,Job started at disk 2.
+16082,42,Job arrived at CPU.
+16082,42,Job started at CPU.
+16097,42,Job finished at CPU.
+16097,42,Going to disk
+16097,42,Arrived at disk 2
+16111,129,Job arrived at CPU.
+16111,129,Job started at CPU.
+16122,129,Job finished at CPU.
+16122,129,Job complete.
+16191,45,Job finished at disk 1.
+16191,45,Returning to CPU
+16191,47,Job started at disk 1.
+16191,45,Job arrived at CPU.
+16191,45,Job started at CPU.
+16201,45,Job finished at CPU.
+16201,45,Going to disk
+16201,45,Arrived at disk 1
+16243,130,Job arrived at CPU.
+16243,130,Job started at CPU.
+16253,130,Job finished at CPU.
+16253,130,Going to disk
+16253,130,Arrived at disk 1
+16387,131,Job arrived at CPU.
+16387,131,Job started at CPU.
+16399,131,Job finished at CPU.
+16399,131,Job complete.
+16493,132,Job arrived at CPU.
+16493,132,Job started at CPU.
+16507,132,Job finished at CPU.
+16507,132,Going to disk
+16507,132,Arrived at disk 2
+16604,133,Job arrived at CPU.
+16604,133,Job started at CPU.
+16617,133,Job finished at CPU.
+16617,133,Job complete.
+16717,44,Job finished at disk 2.
+16717,44,Returning to CPU
+16717,13,Job started at disk 2.
+16717,44,Job arrived at CPU.
+16717,44,Job started at CPU.
+16731,44,Job finished at CPU.
+16731,44,Job complete.
+16745,134,Job arrived at CPU.
+16745,134,Job started at CPU.
+16760,134,Job finished at CPU.
+16760,134,Going to disk
+16760,134,Arrived at disk 2
+16815,47,Job finished at disk 1.
+16815,47,Returning to CPU
+16815,16,Job started at disk 1.
+16815,47,Job arrived at CPU.
+16815,47,Job started at CPU.
+16825,47,Job finished at CPU.
+16825,47,Going to disk
+16825,47,Arrived at disk 1
+16858,135,Job arrived at CPU.
+16858,135,Job started at CPU.
+16871,135,Job finished at CPU.
+16871,135,Going to disk
+16871,135,Arrived at disk 1
+16962,136,Job arrived at CPU.
+16962,136,Job started at CPU.
+16977,136,Job finished at CPU.
+16977,136,Job complete.
+17093,137,Job arrived at CPU.
+17093,137,Job started at CPU.
+17106,137,Job finished at CPU.
+17106,137,Job complete.
+17239,138,Job arrived at CPU.
+17239,138,Job started at CPU.
+17253,138,Job finished at CPU.
+17253,138,Job complete.
+17348,16,Job finished at disk 1.
+17348,16,Returning to CPU
+17348,50,Job started at disk 1.
+17348,16,Job arrived at CPU.
+17348,16,Job started at CPU.
+17359,16,Job finished at CPU.
+17359,16,Going to disk
+17359,16,Arrived at disk 1
+17372,139,Job arrived at CPU.
+17372,139,Job started at CPU.
+17382,139,Job finished at CPU.
+17382,139,Job complete.
+17401,13,Job finished at disk 2.
+17401,13,Returning to CPU
+17401,46,Job started at disk 2.
+17401,13,Job arrived at CPU.
+17401,13,Job started at CPU.
+17412,13,Job finished at CPU.
+17412,13,Going to disk
+17412,13,Arrived at disk 2
+17481,140,Job arrived at CPU.
+17481,140,Job started at CPU.
+17492,140,Job finished at CPU.
+17492,140,Going to disk
+17492,140,Arrived at disk 2
+17586,141,Job arrived at CPU.
+17586,141,Job started at CPU.
+17596,141,Job finished at CPU.
+17596,141,Job complete.
+17690,142,Job arrived at CPU.
+17690,142,Job started at CPU.
+17705,142,Job finished at CPU.
+17705,142,Going to disk
+17705,142,Arrived at disk 1
+17832,143,Job arrived at CPU.
+17832,143,Job started at CPU.
+17842,143,Job finished at CPU.
+17842,143,Going to disk
+17842,143,Arrived at disk 2
+17961,144,Job arrived at CPU.
+17961,144,Job started at CPU.
+17976,144,Job finished at CPU.
+17976,144,Going to disk
+17976,144,Arrived at disk 1
+18036,46,Job finished at disk 2.
+18036,46,Returning to CPU
+18036,49,Job started at disk 2.
+18036,46,Job arrived at CPU.
+18036,46,Job started at CPU.
+18048,46,Job finished at CPU.
+18048,46,Going to disk
+18048,46,Arrived at disk 2
+18097,145,Job arrived at CPU.
+18097,145,Job started at CPU.
+18107,145,Job finished at CPU.
+18107,145,Going to disk
+18107,145,Arrived at disk 2
+18143,50,Job finished at disk 1.
+18143,50,Returning to CPU
+18143,52,Job started at disk 1.
+18143,50,Job arrived at CPU.
+18143,50,Job started at CPU.
+18157,50,Job finished at CPU.
+18157,50,Going to disk
+18157,50,Arrived at disk 1
+18221,146,Job arrived at CPU.
+18221,146,Job started at CPU.
+18232,146,Job finished at CPU.
+18232,146,Job complete.
+18361,147,Job arrived at CPU.
+18361,147,Job started at CPU.
+18374,147,Job finished at CPU.
+18374,147,Going to disk
+18374,147,Arrived at disk 1
+18470,148,Job arrived at CPU.
+18470,148,Job started at CPU.
+18484,148,Job finished at CPU.
+18484,148,Going to disk
+18484,148,Arrived at disk 2
+18586,149,Job arrived at CPU.
+18586,149,Job started at CPU.
+18598,149,Job finished at CPU.
+18598,149,Going to disk
+18598,149,Arrived at disk 1
+18706,150,Job arrived at CPU.
+18706,150,Job started at CPU.
+18718,150,Job finished at CPU.
+18718,150,Going to disk
+18718,150,Arrived at disk 2
+18850,151,Job arrived at CPU.
+18850,151,Job started at CPU.
+18861,151,Job finished at CPU.
+18861,151,Job complete.
+18875,49,Job finished at disk 2.
+18875,49,Returning to CPU
+18875,51,Job started at disk 2.
+18875,49,Job arrived at CPU.
+18875,49,Job started at CPU.
+18888,49,Job finished at CPU.
+18888,49,Job complete.
+18930,52,Job finished at disk 1.
+18930,52,Returning to CPU
+18930,20,Job started at disk 1.
+18930,52,Job arrived at CPU.
+18930,52,Job started at CPU.
+18943,52,Job finished at CPU.
+18943,52,Going to disk
+18943,52,Arrived at disk 1
+18990,152,Job arrived at CPU.
+18990,152,Job started at CPU.
+19004,152,Job finished at CPU.
+19004,152,Going to disk
+19004,152,Arrived at disk 2
+19128,153,Job arrived at CPU.
+19128,153,Job started at CPU.
+19140,153,Job finished at CPU.
+19140,153,Going to disk
+19140,153,Arrived at disk 1
+19259,154,Job arrived at CPU.
+19259,154,Job started at CPU.
+19274,154,Job finished at CPU.
+19274,154,Going to disk
+19274,154,Arrived at disk 2
+19378,155,Job arrived at CPU.
+19378,155,Job started at CPU.
+19392,155,Job finished at CPU.
+19392,155,Going to disk
+19392,155,Arrived at disk 1
+19487,156,Job arrived at CPU.
+19487,156,Job started at CPU.
+19497,156,Job finished at CPU.
+19497,156,Going to disk
+19497,156,Arrived at disk 2
+19613,157,Job arrived at CPU.
+19613,157,Job started at CPU.
+19626,157,Job finished at CPU.
+19626,157,Going to disk
+19626,157,Arrived at disk 1
+19702,51,Job finished at disk 2.
+19702,51,Returning to CPU
+19702,17,Job started at disk 2.
+19702,51,Job arrived at CPU.
+19702,51,Job started at CPU.
+19714,51,Job finished at CPU.
+19714,51,Going to disk
+19714,51,Arrived at disk 2
+19720,20,Job finished at disk 1.
+19720,20,Returning to CPU
+19720,55,Job started at disk 1.
+19720,20,Job arrived at CPU.
+19720,20,Job started at CPU.
+19733,20,Job finished at CPU.
+19733,20,Going to disk
+19733,20,Arrived at disk 1
+19735,158,Job arrived at CPU.
+19735,158,Job started at CPU.
+19749,158,Job finished at CPU.
+19749,158,Going to disk
+19749,158,Arrived at disk 2
+19863,159,Job arrived at CPU.
+19863,159,Job started at CPU.
+19873,159,Job finished at CPU.
+19873,159,Going to disk
+19873,159,Arrived at disk 1
+19993,160,Job arrived at CPU.
+19993,160,Job started at CPU.
+20006,160,Job finished at CPU.
+20006,160,Going to disk
+20006,160,Arrived at disk 2
+20102,161,Job arrived at CPU.
+20102,161,Job started at CPU.
+20116,161,Job finished at CPU.
+20116,161,Going to disk
+20116,161,Arrived at disk 1
+20220,55,Job finished at disk 1.
+20220,55,Returning to CPU
+20220,58,Job started at disk 1.
+20220,55,Job arrived at CPU.
+20220,55,Job started at CPU.
+20230,55,Job finished at CPU.
+20230,55,Going to disk
+20230,55,Arrived at disk 1
+20232,162,Job arrived at CPU.
+20232,162,Job started at CPU.
+20244,162,Job finished at CPU.
+20244,162,Job complete.
+20332,163,Job arrived at CPU.
+20332,163,Job started at CPU.
+20346,163,Job finished at CPU.
+20346,163,Going to disk
+20346,163,Arrived at disk 2
+20443,164,Job arrived at CPU.
+20443,164,Job started at CPU.
+20453,164,Job finished at CPU.
+20453,164,Job complete.
+20505,17,Job finished at disk 2.
+20505,17,Returning to CPU
+20505,53,Job started at disk 2.
+20505,17,Job arrived at CPU.
+20505,17,Job started at CPU.
+20520,17,Job finished at CPU.
+20520,17,Going to disk
+20520,17,Arrived at disk 2
+20555,165,Job arrived at CPU.
+20555,165,Job started at CPU.
+20569,165,Job finished at CPU.
+20569,165,Going to disk
+20569,165,Arrived at disk 1
+20670,166,Job arrived at CPU.
+20670,166,Job started at CPU.
+20681,166,Job finished at CPU.
+20681,166,Going to disk
+20681,166,Arrived at disk 2
+20798,167,Job arrived at CPU.
+20798,167,Job started at CPU.
+20811,167,Job finished at CPU.
+20811,167,Going to disk
+20811,167,Arrived at disk 1
+20868,58,Job finished at disk 1.
+20868,58,Returning to CPU
+20868,7,Job started at disk 1.
+20868,58,Job arrived at CPU.
+20868,58,Job started at CPU.
+20880,58,Job finished at CPU.
+20880,58,Job complete.
+20918,168,Job arrived at CPU.
+20918,168,Job started at CPU.
+20929,168,Job finished at CPU.
+20929,168,Going to disk
+20929,168,Arrived at disk 1
+21030,169,Job arrived at CPU.
+21030,169,Job started at CPU.
+21040,169,Job finished at CPU.
+21040,169,Going to disk
+21040,169,Arrived at disk 2
+21153,170,Job arrived at CPU.
+21153,170,Job started at CPU.
+21164,170,Job finished at CPU.
+21164,170,Job complete.
+21171,53,Job finished at disk 2.
+21171,53,Returning to CPU
+21171,56,Job started at disk 2.
+21171,53,Job arrived at CPU.
+21171,53,Job started at CPU.
+21184,53,Job finished at CPU.
+21184,53,Going to disk
+21184,53,Arrived at disk 2
+21279,171,Job arrived at CPU.
+21279,171,Job started at CPU.
+21291,171,Job finished at CPU.
+21291,171,Going to disk
+21291,171,Arrived at disk 1
+21414,172,Job arrived at CPU.
+21414,172,Job started at CPU.
+21425,172,Job finished at CPU.
+21425,172,Going to disk
+21425,172,Arrived at disk 2
+21540,173,Job arrived at CPU.
+21540,173,Job started at CPU.
+21555,173,Job finished at CPU.
+21555,173,Job complete.
+21601,7,Job finished at disk 1.
+21601,7,Returning to CPU
+21601,60,Job started at disk 1.
+21601,7,Job arrived at CPU.
+21601,7,Job started at CPU.
+21612,7,Job finished at CPU.
+21612,7,Going to disk
+21612,7,Arrived at disk 1
+21687,174,Job arrived at CPU.
+21687,174,Job started at CPU.
+21701,174,Job finished at CPU.
+21701,174,Going to disk
+21701,174,Arrived at disk 1
+21822,175,Job arrived at CPU.
+21822,175,Job started at CPU.
+21837,175,Job finished at CPU.
+21837,175,Going to disk
+21837,175,Arrived at disk 2
+21847,56,Job finished at disk 2.
+21847,56,Returning to CPU
+21847,57,Job started at disk 2.
+21847,56,Job arrived at CPU.
+21847,56,Job started at CPU.
+21858,56,Job finished at CPU.
+21858,56,Going to disk
+21858,56,Arrived at disk 2
+21943,176,Job arrived at CPU.
+21943,176,Job started at CPU.
+21953,176,Job finished at CPU.
+21953,176,Job complete.
+22050,177,Job arrived at CPU.
+22050,177,Job started at CPU.
+22062,177,Job finished at CPU.
+22062,177,Job complete.
+22182,178,Job arrived at CPU.
+22182,178,Job started at CPU.
+22195,178,Job finished at CPU.
+22195,178,Going to disk
+22195,178,Arrived at disk 1
+22283,60,Job finished at disk 1.
+22283,60,Returning to CPU
+22283,62,Job started at disk 1.
+22283,60,Job arrived at CPU.
+22283,60,Job started at CPU.
+22293,179,Job arrived at CPU.
+22296,60,Job finished at CPU.
+22296,60,Going to disk
+22296,179,Job started at CPU.
+22296,60,Arrived at disk 1
+22306,179,Job finished at CPU.
+22306,179,Going to disk
+22306,179,Arrived at disk 2
+22407,180,Job arrived at CPU.
+22407,180,Job started at CPU.
+22421,180,Job finished at CPU.
+22421,180,Job complete.
+22511,181,Job arrived at CPU.
+22511,181,Job started at CPU.
+22526,181,Job finished at CPU.
+22526,181,Going to disk
+22526,181,Arrived at disk 1
+22603,57,Job finished at disk 2.
+22603,57,Returning to CPU
+22603,59,Job started at disk 2.
+22603,57,Job arrived at CPU.
+22603,57,Job started at CPU.
+22617,57,Job finished at CPU.
+22617,57,Going to disk
+22617,57,Arrived at disk 2
+22660,182,Job arrived at CPU.
+22660,182,Job started at CPU.
+22670,182,Job finished at CPU.
+22670,182,Going to disk
+22670,182,Arrived at disk 2
+22762,183,Job arrived at CPU.
+22762,183,Job started at CPU.
+22773,183,Job finished at CPU.
+22773,183,Job complete.
+22911,184,Job arrived at CPU.
+22911,184,Job started at CPU.
+22918,62,Job finished at disk 1.
+22918,62,Returning to CPU
+22918,22,Job started at disk 1.
+22918,62,Job arrived at CPU.
+22921,184,Job finished at CPU.
+22921,184,Job complete.
+22921,62,Job started at CPU.
+22936,62,Job finished at CPU.
+22936,62,Going to disk
+22936,62,Arrived at disk 1
+23012,185,Job arrived at CPU.
+23012,185,Job started at CPU.
+23026,185,Job finished at CPU.
+23026,185,Going to disk
+23026,185,Arrived at disk 1
+23135,186,Job arrived at CPU.
+23135,186,Job started at CPU.
+23147,186,Job finished at CPU.
+23147,186,Going to disk
+23147,186,Arrived at disk 2
+23229,59,Job finished at disk 2.
+23229,59,Returning to CPU
+23229,61,Job started at disk 2.
+23229,59,Job arrived at CPU.
+23229,59,Job started at CPU.
+23242,187,Job arrived at CPU.
+23243,59,Job finished at CPU.
+23243,59,Going to disk
+23243,187,Job started at CPU.
+23243,59,Arrived at disk 2
+23254,187,Job finished at CPU.
+23254,187,Going to disk
+23254,187,Arrived at disk 1
+23368,188,Job arrived at CPU.
+23368,188,Job started at CPU.
+23383,188,Job finished at CPU.
+23383,188,Going to disk
+23383,188,Arrived at disk 2
+23474,189,Job arrived at CPU.
+23474,189,Job started at CPU.
+23487,189,Job finished at CPU.
+23487,189,Going to disk
+23487,189,Arrived at disk 1
+23573,22,Job finished at disk 1.
+23573,22,Returning to CPU
+23573,65,Job started at disk 1.
+23573,22,Job arrived at CPU.
+23573,22,Job started at CPU.
+23587,22,Job finished at CPU.
+23587,22,Going to disk
+23587,22,Arrived at disk 1
+23602,190,Job arrived at CPU.
+23602,190,Job started at CPU.
+23614,190,Job finished at CPU.
+23614,190,Going to disk
+23614,190,Arrived at disk 2
+23748,191,Job arrived at CPU.
+23748,191,Job started at CPU.
+23760,191,Job finished at CPU.
+23760,191,Going to disk
+23760,191,Arrived at disk 1
+23855,192,Job arrived at CPU.
+23855,192,Job started at CPU.
+23870,192,Job finished at CPU.
+23870,192,Going to disk
+23870,192,Arrived at disk 2
+23955,193,Job arrived at CPU.
+23955,193,Job started at CPU.
+23970,193,Job finished at CPU.
+23970,193,Going to disk
+23970,193,Arrived at disk 1
+24068,61,Job finished at disk 2.
+24068,61,Returning to CPU
+24068,63,Job started at disk 2.
+24068,61,Job arrived at CPU.
+24068,61,Job started at CPU.
+24083,61,Job finished at CPU.
+24083,61,Going to disk
+24083,61,Arrived at disk 2
+24095,194,Job arrived at CPU.
+24095,194,Job started at CPU.
+24110,194,Job finished at CPU.
+24110,194,Going to disk
+24110,194,Arrived at disk 2
+24242,195,Job arrived at CPU.
+24242,195,Job started at CPU.
+24253,195,Job finished at CPU.
+24253,195,Job complete.
+24289,65,Job finished at disk 1.
+24289,65,Returning to CPU
+24289,67,Job started at disk 1.
+24289,65,Job arrived at CPU.
+24289,65,Job started at CPU.
+24301,65,Job finished at CPU.
+24301,65,Job complete.
+24372,196,Job arrived at CPU.
+24372,196,Job started at CPU.
+24387,196,Job finished at CPU.
+24387,196,Going to disk
+24387,196,Arrived at disk 1
+24500,197,Job arrived at CPU.
+24500,197,Job started at CPU.
+24512,197,Job finished at CPU.
+24512,197,Going to disk
+24512,197,Arrived at disk 1
+24637,198,Job arrived at CPU.
+24637,198,Job started at CPU.
+24650,198,Job finished at CPU.
+24650,198,Going to disk
+24650,198,Arrived at disk 2
+24716,63,Job finished at disk 2.
+24716,63,Returning to CPU
+24716,64,Job started at disk 2.
+24716,63,Job arrived at CPU.
+24716,63,Job started at CPU.
+24726,63,Job finished at CPU.
+24726,63,Going to disk
+24726,63,Arrived at disk 2
+24748,199,Job arrived at CPU.
+24748,199,Job started at CPU.
+24763,199,Job finished at CPU.
+24763,199,Going to disk
+24763,199,Arrived at disk 1
+24897,200,Job arrived at CPU.
+24897,200,Job started at CPU.
+24908,200,Job finished at CPU.
+24908,200,Job complete.
+25022,201,Job arrived at CPU.
+25022,201,Job started at CPU.
+25035,201,Job finished at CPU.
+25035,201,Going to disk
+25035,201,Arrived at disk 2
+25066,67,Job finished at disk 1.
+25066,67,Returning to CPU
+25066,25,Job started at disk 1.
+25066,67,Job arrived at CPU.
+25066,67,Job started at CPU.
+25081,67,Job finished at CPU.
+25081,67,Going to disk
+25081,67,Arrived at disk 1
+25163,202,Job arrived at CPU.
+25163,202,Job started at CPU.
+25176,202,Job finished at CPU.
+25176,202,Job complete.
+25263,203,Job arrived at CPU.
+25263,203,Job started at CPU.
+25276,203,Job finished at CPU.
+25276,203,Going to disk
+25276,203,Arrived at disk 1
+25396,204,Job arrived at CPU.
+25396,204,Job started at CPU.
+25408,204,Job finished at CPU.
+25408,204,Going to disk
+25408,204,Arrived at disk 2
+25483,64,Job finished at disk 2.
+25483,64,Returning to CPU
+25483,66,Job started at disk 2.
+25483,64,Job arrived at CPU.
+25483,64,Job started at CPU.
+25497,64,Job finished at CPU.
+25497,64,Job complete.
+25513,205,Job arrived at CPU.
+25513,205,Job started at CPU.
+25528,205,Job finished at CPU.
+25528,205,Job complete.
+25621,206,Job arrived at CPU.
+25621,206,Job started at CPU.
+25632,206,Job finished at CPU.
+25632,206,Going to disk
+25632,206,Arrived at disk 2
+25755,207,Job arrived at CPU.
+25755,207,Job started at CPU.
+25766,207,Job finished at CPU.
+25766,207,Going to disk
+25766,207,Arrived at disk 1
+25808,25,Job finished at disk 1.
+25808,25,Returning to CPU
+25808,69,Job started at disk 1.
+25808,25,Job arrived at CPU.
+25808,25,Job started at CPU.
+25821,25,Job finished at CPU.
+25821,25,Job complete.
+25896,208,Job arrived at CPU.
+25896,208,Job started at CPU.
+25906,208,Job finished at CPU.
+25906,208,Going to disk
+25906,208,Arrived at disk 1
+26042,209,Job arrived at CPU.
+26042,209,Job started at CPU.
+26057,209,Job finished at CPU.
+26057,209,Going to disk
+26057,209,Arrived at disk 2
+26150,210,Job arrived at CPU.
+26150,210,Job started at CPU.
+26161,210,Job finished at CPU.
+26161,210,Going to disk
+26161,210,Arrived at disk 1
+26221,66,Job finished at disk 2.
+26221,66,Returning to CPU
+26221,68,Job started at disk 2.
+26221,66,Job arrived at CPU.
+26221,66,Job started at CPU.
+26234,66,Job finished at CPU.
+26234,66,Going to disk
+26234,66,Arrived at disk 2
+26295,211,Job arrived at CPU.
+26295,211,Job started at CPU.
+26310,211,Job finished at CPU.
+26310,211,Going to disk
+26310,211,Arrived at disk 2
+26387,69,Job finished at disk 1.
+26387,69,Returning to CPU
+26387,71,Job started at disk 1.
+26387,69,Job arrived at CPU.
+26387,69,Job started at CPU.
+26396,212,Job arrived at CPU.
+26399,69,Job finished at CPU.
+26399,69,Going to disk
+26399,212,Job started at CPU.
+26399,69,Arrived at disk 1
+26410,212,Job finished at CPU.
+26410,212,Going to disk
+26410,212,Arrived at disk 1
+26544,213,Job arrived at CPU.
+26544,213,Job started at CPU.
+26557,213,Job finished at CPU.
+26557,213,Going to disk
+26557,213,Arrived at disk 2
+26663,214,Job arrived at CPU.
+26663,214,Job started at CPU.
+26673,214,Job finished at CPU.
+26673,214,Going to disk
+26673,214,Arrived at disk 1
+26768,215,Job arrived at CPU.
+26768,215,Job started at CPU.
+26783,215,Job finished at CPU.
+26783,215,Going to disk
+26783,215,Arrived at disk 2
+26891,216,Job arrived at CPU.
+26891,216,Job started at CPU.
+26899,71,Job finished at disk 1.
+26899,71,Returning to CPU
+26899,73,Job started at disk 1.
+26899,71,Job arrived at CPU.
+26906,216,Job finished at CPU.
+26906,216,Going to disk
+26906,71,Job started at CPU.
+26906,216,Arrived at disk 1
+26917,71,Job finished at CPU.
+26917,71,Going to disk
+26917,71,Arrived at disk 1
+27001,217,Job arrived at CPU.
+27001,217,Job started at CPU.
+27015,217,Job finished at CPU.
+27015,217,Going to disk
+27015,217,Arrived at disk 2
+27068,68,Job finished at disk 2.
+27068,68,Returning to CPU
+27068,23,Job started at disk 2.
+27068,68,Job arrived at CPU.
+27068,68,Job started at CPU.
+27080,68,Job finished at CPU.
+27080,68,Job complete.
+27148,218,Job arrived at CPU.
+27148,218,Job started at CPU.
+27162,218,Job finished at CPU.
+27162,218,Going to disk
+27162,218,Arrived at disk 2
+27265,219,Job arrived at CPU.
+27265,219,Job started at CPU.
+27276,219,Job finished at CPU.
+27276,219,Job complete.
+27387,220,Job arrived at CPU.
+27387,220,Job started at CPU.
+27399,220,Job finished at CPU.
+27399,220,Going to disk
+27399,220,Arrived at disk 1
+27487,73,Job finished at disk 1.
+27487,73,Returning to CPU
+27487,3,Job started at disk 1.
+27487,73,Job arrived at CPU.
+27487,73,Job started at CPU.
+27497,73,Job finished at CPU.
+27497,73,Going to disk
+27497,73,Arrived at disk 1
+27533,221,Job arrived at CPU.
+27533,221,Job started at CPU.
+27547,221,Job finished at CPU.
+27547,221,Going to disk
+27547,221,Arrived at disk 2
+27635,222,Job arrived at CPU.
+27635,222,Job started at CPU.
+27645,222,Job finished at CPU.
+27645,222,Going to disk
+27645,222,Arrived at disk 1
+27776,223,Job arrived at CPU.
+27776,223,Job started at CPU.
+27787,223,Job finished at CPU.
+27787,223,Going to disk
+27787,223,Arrived at disk 2
+27867,23,Job finished at disk 2.
+27867,23,Returning to CPU
+27867,70,Job started at disk 2.
+27867,23,Job arrived at CPU.
+27867,23,Job started at CPU.
+27877,23,Job finished at CPU.
+27877,23,Going to disk
+27877,23,Arrived at disk 2
+27917,224,Job arrived at CPU.
+27917,224,Job started at CPU.
+27929,224,Job finished at CPU.
+27929,224,Going to disk
+27929,224,Arrived at disk 1
+28056,225,Job arrived at CPU.
+28056,225,Job started at CPU.
+28067,225,Job finished at CPU.
+28067,225,Job complete.
+28189,3,Job finished at disk 1.
+28189,3,Returning to CPU
+28189,76,Job started at disk 1.
+28189,3,Job arrived at CPU.
+28189,3,Job started at CPU.
+28203,3,Job finished at CPU.
+28203,3,Going to disk
+28203,3,Arrived at disk 1
+28204,226,Job arrived at CPU.
+28204,226,Job started at CPU.
+28217,226,Job finished at CPU.
+28217,226,Going to disk
+28217,226,Arrived at disk 2
+28313,227,Job arrived at CPU.
+28313,227,Job started at CPU.
+28326,227,Job finished at CPU.
+28326,227,Going to disk
+28326,227,Arrived at disk 1
+28435,228,Job arrived at CPU.
+28435,228,Job started at CPU.
+28445,228,Job finished at CPU.
+28445,228,Job complete.
+28585,229,Job arrived at CPU.
+28585,229,Job started at CPU.
+28595,229,Job finished at CPU.
+28595,229,Going to disk
+28595,229,Arrived at disk 2
+28723,230,Job arrived at CPU.
+28723,230,Job started at CPU.
+28737,230,Job finished at CPU.
+28737,230,Going to disk
+28737,230,Arrived at disk 1
+28739,70,Job finished at disk 2.
+28739,70,Returning to CPU
+28739,72,Job started at disk 2.
+28739,70,Job arrived at CPU.
+28739,70,Job started at CPU.
+28750,70,Job finished at CPU.
+28750,70,Going to disk
+28750,70,Arrived at disk 2
+28773,76,Job finished at disk 1.
+28773,76,Returning to CPU
+28773,79,Job started at disk 1.
+28773,76,Job arrived at CPU.
+28773,76,Job started at CPU.
+28787,76,Job finished at CPU.
+28787,76,Going to disk
+28787,76,Arrived at disk 1
+28824,231,Job arrived at CPU.
+28824,231,Job started at CPU.
+28837,231,Job finished at CPU.
+28837,231,Job complete.
+28939,232,Job arrived at CPU.
+28939,232,Job started at CPU.
+28951,232,Job finished at CPU.
+28951,232,Going to disk
+28951,232,Arrived at disk 2
+29085,233,Job arrived at CPU.
+29085,233,Job started at CPU.
+29096,233,Job finished at CPU.
+29096,233,Going to disk
+29096,233,Arrived at disk 1
+29212,234,Job arrived at CPU.
+29212,234,Job started at CPU.
+29227,234,Job finished at CPU.
+29227,234,Going to disk
+29227,234,Arrived at disk 2
+29358,235,Job arrived at CPU.
+29358,235,Job started at CPU.
+29365,79,Job finished at disk 1.
+29365,79,Returning to CPU
+29365,80,Job started at disk 1.
+29365,79,Job arrived at CPU.
+29371,235,Job finished at CPU.
+29371,235,Going to disk
+29371,79,Job started at CPU.
+29371,235,Arrived at disk 1
+29385,79,Job finished at CPU.
+29385,79,Going to disk
+29385,79,Arrived at disk 1
+29503,236,Job arrived at CPU.
+29503,236,Job started at CPU.
+29514,236,Job finished at CPU.
+29514,236,Job complete.
+29611,237,Job arrived at CPU.
+29611,237,Job started at CPU.
+29622,237,Job finished at CPU.
+29622,237,Going to disk
+29622,237,Arrived at disk 2
+29630,72,Job finished at disk 2.
+29630,72,Returning to CPU
+29630,74,Job started at disk 2.
+29630,72,Job arrived at CPU.
+29630,72,Job started at CPU.
+29642,72,Job finished at CPU.
+29642,72,Going to disk
+29642,72,Arrived at disk 2
+29718,238,Job arrived at CPU.
+29718,238,Job started at CPU.
+29732,238,Job finished at CPU.
+29732,238,Job complete.
+29830,239,Job arrived at CPU.
+29830,239,Job started at CPU.
+29842,239,Job finished at CPU.
+29842,239,Going to disk
+29842,239,Arrived at disk 1
+29930,240,Job arrived at CPU.
+29930,240,Job started at CPU.
+29941,240,Job finished at CPU.
+29941,240,Going to disk
+29941,240,Arrived at disk 2
+29945,80,Job finished at disk 1.
+29945,80,Returning to CPU
+29945,83,Job started at disk 1.
+29945,80,Job arrived at CPU.
+29945,80,Job started at CPU.
+29956,80,Job finished at CPU.
+29956,80,Going to disk
+29956,80,Arrived at disk 1
+30040,241,Job arrived at CPU.
+30040,241,Job started at CPU.
+30052,241,Job finished at CPU.
+30052,241,Going to disk
+30052,241,Arrived at disk 1
+30171,242,Job arrived at CPU.
+30171,242,Job started at CPU.
+30186,242,Job finished at CPU.
+30186,242,Going to disk
+30186,242,Arrived at disk 2
+30241,74,Job finished at disk 2.
+30241,74,Returning to CPU
+30241,77,Job started at disk 2.
+30241,74,Job arrived at CPU.
+30241,74,Job started at CPU.
+30251,74,Job finished at CPU.
+30251,74,Job complete.
+30290,243,Job arrived at CPU.
+30290,243,Job started at CPU.
+30303,243,Job finished at CPU.
+30303,243,Job complete.
+30414,244,Job arrived at CPU.
+30414,244,Job started at CPU.
+30424,244,Job finished at CPU.
+30424,244,Going to disk
+30424,244,Arrived at disk 2
+30538,245,Job arrived at CPU.
+30538,245,Job started at CPU.
+30549,245,Job finished at CPU.
+30549,245,Going to disk
+30549,245,Arrived at disk 1
+30621,83,Job finished at disk 1.
+30621,83,Returning to CPU
+30621,85,Job started at disk 1.
+30621,83,Job arrived at CPU.
+30621,83,Job started at CPU.
+30634,83,Job finished at CPU.
+30634,83,Going to disk
+30634,83,Arrived at disk 1
+30641,246,Job arrived at CPU.
+30641,246,Job started at CPU.
+30651,246,Job finished at CPU.
+30651,246,Going to disk
+30651,246,Arrived at disk 2
+30763,247,Job arrived at CPU.
+30763,247,Job started at CPU.
+30773,247,Job finished at CPU.
+30773,247,Going to disk
+30773,247,Arrived at disk 1
+30870,77,Job finished at disk 2.
+30870,77,Returning to CPU
+30870,78,Job started at disk 2.
+30870,77,Job arrived at CPU.
+30870,77,Job started at CPU.
+30873,248,Job arrived at CPU.
+30883,77,Job finished at CPU.
+30883,77,Job complete.
+30883,248,Job started at CPU.
+30898,248,Job finished at CPU.
+30898,248,Going to disk
+30898,248,Arrived at disk 2
+30996,249,Job arrived at CPU.
+30996,249,Job started at CPU.
+31008,249,Job finished at CPU.
+31008,249,Job complete.
+31126,250,Job arrived at CPU.
+31126,250,Job started at CPU.
+31137,250,Job finished at CPU.
+31137,250,Going to disk
+31137,250,Arrived at disk 2
+31229,251,Job arrived at CPU.
+31229,251,Job started at CPU.
+31240,251,Job finished at CPU.
+31240,251,Going to disk
+31240,251,Arrived at disk 1
+31287,85,Job finished at disk 1.
+31287,85,Returning to CPU
+31287,86,Job started at disk 1.
+31287,85,Job arrived at CPU.
+31287,85,Job started at CPU.
+31302,85,Job finished at CPU.
+31302,85,Going to disk
+31302,85,Arrived at disk 1
+31379,252,Job arrived at CPU.
+31379,252,Job started at CPU.
+31393,252,Job finished at CPU.
+31393,252,Going to disk
+31393,252,Arrived at disk 2
+31493,253,Job arrived at CPU.
+31493,253,Job started at CPU.
+31508,253,Job finished at CPU.
+31508,253,Going to disk
+31508,253,Arrived at disk 1
+31592,78,Job finished at disk 2.
+31592,78,Returning to CPU
+31592,81,Job started at disk 2.
+31592,78,Job arrived at CPU.
+31592,78,Job started at CPU.
+31606,78,Job finished at CPU.
+31606,78,Going to disk
+31606,78,Arrived at disk 2
+31640,254,Job arrived at CPU.
+31640,254,Job started at CPU.
+31653,254,Job finished at CPU.
+31653,254,Going to disk
+31653,254,Arrived at disk 2
+31787,255,Job arrived at CPU.
+31787,255,Job started at CPU.
+31799,255,Job finished at CPU.
+31799,255,Job complete.
+31927,256,Job arrived at CPU.
+31927,256,Job started at CPU.
+31938,256,Job finished at CPU.
+31938,256,Going to disk
+31938,256,Arrived at disk 1
+31968,86,Job finished at disk 1.
+31968,86,Returning to CPU
+31968,87,Job started at disk 1.
+31968,86,Job arrived at CPU.
+31968,86,Job started at CPU.
+31981,86,Job finished at CPU.
+31981,86,Going to disk
+31981,86,Arrived at disk 1
+32034,257,Job arrived at CPU.
+32034,257,Job started at CPU.
+32044,257,Job finished at CPU.
+32044,257,Going to disk
+32044,257,Arrived at disk 2
+32139,258,Job arrived at CPU.
+32139,258,Job started at CPU.
+32150,258,Job finished at CPU.
+32150,258,Going to disk
+32150,258,Arrived at disk 1
+32248,81,Job finished at disk 2.
+32248,81,Returning to CPU
+32248,26,Job started at disk 2.
+32248,81,Job arrived at CPU.
+32248,81,Job started at CPU.
+32255,259,Job arrived at CPU.
+32260,81,Job finished at CPU.
+32260,81,Going to disk
+32260,259,Job started at CPU.
+32260,81,Arrived at disk 2
+32270,259,Job finished at CPU.
+32270,259,Going to disk
+32270,259,Arrived at disk 2
+32378,260,Job arrived at CPU.
+32378,260,Job started at CPU.
+32389,260,Job finished at CPU.
+32389,260,Going to disk
+32389,260,Arrived at disk 1
+32488,261,Job arrived at CPU.
+32488,261,Job started at CPU.
+32502,261,Job finished at CPU.
+32502,261,Going to disk
+32502,261,Arrived at disk 2
+32522,87,Job finished at disk 1.
+32522,87,Returning to CPU
+32522,89,Job started at disk 1.
+32522,87,Job arrived at CPU.
+32522,87,Job started at CPU.
+32537,87,Job finished at CPU.
+32537,87,Going to disk
+32537,87,Arrived at disk 1
+32600,262,Job arrived at CPU.
+32600,262,Job started at CPU.
+32615,262,Job finished at CPU.
+32615,262,Going to disk
+32615,262,Arrived at disk 1
+32720,263,Job arrived at CPU.
+32720,263,Job started at CPU.
+32732,263,Job finished at CPU.
+32732,263,Going to disk
+32732,263,Arrived at disk 2
+32832,264,Job arrived at CPU.
+32832,264,Job started at CPU.
+32842,264,Job finished at CPU.
+32842,264,Going to disk
+32842,264,Arrived at disk 1
+32950,26,Job finished at disk 2.
+32950,26,Returning to CPU
+32950,84,Job started at disk 2.
+32950,26,Job arrived at CPU.
+32950,26,Job started at CPU.
+32955,265,Job arrived at CPU.
+32964,26,Job finished at CPU.
+32964,26,Going to disk
+32964,265,Job started at CPU.
+32964,26,Arrived at disk 2
+32975,265,Job finished at CPU.
+32975,265,Going to disk
+32975,265,Arrived at disk 2
+33045,89,Job finished at disk 1.
+33045,89,Returning to CPU
+33045,91,Job started at disk 1.
+33045,89,Job arrived at CPU.
+33045,89,Job started at CPU.
+33059,89,Job finished at CPU.
+33059,89,Going to disk
+33059,89,Arrived at disk 1
+33075,266,Job arrived at CPU.
+33075,266,Job started at CPU.
+33089,266,Job finished at CPU.
+33089,266,Going to disk
+33089,266,Arrived at disk 1
+33182,267,Job arrived at CPU.
+33182,267,Job started at CPU.
+33194,267,Job finished at CPU.
+33194,267,Going to disk
+33194,267,Arrived at disk 2
+33331,268,Job arrived at CPU.
+33331,268,Job started at CPU.
+33342,268,Job finished at CPU.
+33342,268,Going to disk
+33342,268,Arrived at disk 1
+33458,269,Job arrived at CPU.
+33458,269,Job started at CPU.
+33472,269,Job finished at CPU.
+33472,269,Going to disk
+33472,269,Arrived at disk 2
+33566,84,Job finished at disk 2.
+33566,84,Returning to CPU
+33566,10,Job started at disk 2.
+33566,84,Job arrived at CPU.
+33566,84,Job started at CPU.
+33579,84,Job finished at CPU.
+33579,84,Job complete.
+33591,270,Job arrived at CPU.
+33591,270,Job started at CPU.
+33606,270,Job finished at CPU.
+33606,270,Job complete.
+33671,91,Job finished at disk 1.
+33671,91,Returning to CPU
+33671,32,Job started at disk 1.
+33671,91,Job arrived at CPU.
+33671,91,Job started at CPU.
+33682,91,Job finished at CPU.
+33682,91,Going to disk
+33682,91,Arrived at disk 1
+33737,271,Job arrived at CPU.
+33737,271,Job started at CPU.
+33748,271,Job finished at CPU.
+33748,271,Job complete.
+33865,272,Job arrived at CPU.
+33865,272,Job started at CPU.
+33875,272,Job finished at CPU.
+33875,272,Going to disk
+33875,272,Arrived at disk 2
+34002,273,Job arrived at CPU.
+34002,273,Job started at CPU.
+34013,273,Job finished at CPU.
+34013,273,Going to disk
+34013,273,Arrived at disk 1
+34115,274,Job arrived at CPU.
+34115,274,Job started at CPU.
+34128,274,Job finished at CPU.
+34128,274,Going to disk
+34128,274,Arrived at disk 2
+34255,275,Job arrived at CPU.
+34255,275,Job started at CPU.
+34267,275,Job finished at CPU.
+34267,275,Going to disk
+34267,275,Arrived at disk 1
+34376,32,Job finished at disk 1.
+34376,32,Returning to CPU
+34376,94,Job started at disk 1.
+34376,32,Job arrived at CPU.
+34376,32,Job started at CPU.
+34389,32,Job finished at CPU.
+34389,32,Going to disk
+34389,32,Arrived at disk 1
+34390,276,Job arrived at CPU.
+34390,276,Job started at CPU.
+34404,276,Job finished at CPU.
+34404,276,Going to disk
+34404,276,Arrived at disk 2
+34432,10,Job finished at disk 2.
+34432,10,Returning to CPU
+34432,8,Job started at disk 2.
+34432,10,Job arrived at CPU.
+34432,10,Job started at CPU.
+34444,10,Job finished at CPU.
+34444,10,Going to disk
+34444,10,Arrived at disk 2
+34536,277,Job arrived at CPU.
+34536,277,Job started at CPU.
+34548,277,Job finished at CPU.
+34548,277,Going to disk
+34548,277,Arrived at disk 1
+34656,278,Job arrived at CPU.
+34656,278,Job started at CPU.
+34669,278,Job finished at CPU.
+34669,278,Job complete.
+34794,279,Job arrived at CPU.
+34794,279,Job started at CPU.
+34809,279,Job finished at CPU.
+34809,279,Going to disk
+34809,279,Arrived at disk 2
+34907,280,Job arrived at CPU.
+34907,280,Job started at CPU.
+34917,280,Job finished at CPU.
+34917,280,Going to disk
+34917,280,Arrived at disk 1
+35037,281,Job arrived at CPU.
+35037,281,Job started at CPU.
+35049,281,Job finished at CPU.
+35049,281,Going to disk
+35049,281,Arrived at disk 2
+35074,94,Job finished at disk 1.
+35074,94,Returning to CPU
+35074,96,Job started at disk 1.
+35074,94,Job arrived at CPU.
+35074,94,Job started at CPU.
+35085,94,Job finished at CPU.
+35085,94,Going to disk
+35085,94,Arrived at disk 1
+35165,8,Job finished at disk 2.
+35165,8,Returning to CPU
+35165,88,Job started at disk 2.
+35165,8,Job arrived at CPU.
+35165,8,Job started at CPU.
+35175,282,Job arrived at CPU.
+35178,8,Job finished at CPU.
+35178,8,Going to disk
+35178,282,Job started at CPU.
+35178,8,Arrived at disk 2
+35188,282,Job finished at CPU.
+35188,282,Going to disk
+35188,282,Arrived at disk 1
+35314,283,Job arrived at CPU.
+35314,283,Job started at CPU.
+35325,283,Job finished at CPU.
+35325,283,Job complete.
+35457,284,Job arrived at CPU.
+35457,284,Job started at CPU.
+35470,284,Job finished at CPU.
+35470,284,Going to disk
+35470,284,Arrived at disk 2
+35559,285,Job arrived at CPU.
+35559,285,Job started at CPU.
+35574,285,Job finished at CPU.
+35574,285,Going to disk
+35574,285,Arrived at disk 1
+35693,286,Job arrived at CPU.
+35693,286,Job started at CPU.
+35695,96,Job finished at disk 1.
+35695,96,Returning to CPU
+35695,35,Job started at disk 1.
+35695,96,Job arrived at CPU.
+35703,286,Job finished at CPU.
+35703,286,Job complete.
+35703,96,Job started at CPU.
+35717,96,Job finished at CPU.
+35717,96,Going to disk
+35717,96,Arrived at disk 1
+35795,287,Job arrived at CPU.
+35795,287,Job started at CPU.
+35805,287,Job finished at CPU.
+35805,287,Going to disk
+35805,287,Arrived at disk 2
+35882,88,Job finished at disk 2.
+35882,88,Returning to CPU
+35882,90,Job started at disk 2.
+35882,88,Job arrived at CPU.
+35882,88,Job started at CPU.
+35894,88,Job finished at CPU.
+35894,88,Going to disk
+35894,88,Arrived at disk 2
+35924,288,Job arrived at CPU.
+35924,288,Job started at CPU.
+35936,288,Job finished at CPU.
+35936,288,Going to disk
+35936,288,Arrived at disk 1
+36058,289,Job arrived at CPU.
+36058,289,Job started at CPU.
+36073,289,Job finished at CPU.
+36073,289,Going to disk
+36073,289,Arrived at disk 2
+36170,290,Job arrived at CPU.
+36170,290,Job started at CPU.
+36181,290,Job finished at CPU.
+36181,290,Job complete.
+36297,35,Job finished at disk 1.
+36297,35,Returning to CPU
+36297,99,Job started at disk 1.
+36297,35,Job arrived at CPU.
+36297,35,Job started at CPU.
+36306,291,Job arrived at CPU.
+36312,35,Job finished at CPU.
+36312,35,Going to disk
+36312,291,Job started at CPU.
+36312,35,Arrived at disk 1
+36324,291,Job finished at CPU.
+36324,291,Going to disk
+36324,291,Arrived at disk 1
+36409,292,Job arrived at CPU.
+36409,292,Job started at CPU.
+36419,292,Job finished at CPU.
+36419,292,Going to disk
+36419,292,Arrived at disk 2
+36522,293,Job arrived at CPU.
+36522,293,Job started at CPU.
+36535,293,Job finished at CPU.
+36535,293,Job complete.
+36606,90,Job finished at disk 2.
+36606,90,Returning to CPU
+36606,92,Job started at disk 2.
+36606,90,Job arrived at CPU.
+36606,90,Job started at CPU.
+36616,90,Job finished at CPU.
+36616,90,Going to disk
+36616,90,Arrived at disk 2
+36636,294,Job arrived at CPU.
+36636,294,Job started at CPU.
+36649,294,Job finished at CPU.
+36649,294,Going to disk
+36649,294,Arrived at disk 1
+36774,295,Job arrived at CPU.
+36774,295,Job started at CPU.
+36788,295,Job finished at CPU.
+36788,295,Job complete.
+36894,296,Job arrived at CPU.
+36894,296,Job started at CPU.
+36905,296,Job finished at CPU.
+36905,296,Going to disk
+36905,296,Arrived at disk 2
+36937,99,Job finished at disk 1.
+36937,99,Returning to CPU
+36937,103,Job started at disk 1.
+36937,99,Job arrived at CPU.
+36937,99,Job started at CPU.
+36952,99,Job finished at CPU.
+36952,99,Going to disk
+36952,99,Arrived at disk 1
+37013,297,Job arrived at CPU.
+37013,297,Job started at CPU.
+37026,297,Job finished at CPU.
+37026,297,Going to disk
+37026,297,Arrived at disk 1
+37160,298,Job arrived at CPU.
+37160,298,Job started at CPU.
+37173,298,Job finished at CPU.
+37173,298,Going to disk
+37173,298,Arrived at disk 2
+37252,92,Job finished at disk 2.
+37252,92,Returning to CPU
+37252,93,Job started at disk 2.
+37252,92,Job arrived at CPU.
+37252,92,Job started at CPU.
+37262,92,Job finished at CPU.
+37262,92,Going to disk
+37262,92,Arrived at disk 2
+37287,299,Job arrived at CPU.
+37287,299,Job started at CPU.
+37297,299,Job finished at CPU.
+37297,299,Going to disk
+37297,299,Arrived at disk 1
+37395,300,Job arrived at CPU.
+37395,300,Job started at CPU.
+37407,300,Job finished at CPU.
+37407,300,Going to disk
+37407,300,Arrived at disk 2
+37531,301,Job arrived at CPU.
+37531,301,Job started at CPU.
+37546,301,Job finished at CPU.
+37546,301,Going to disk
+37546,301,Arrived at disk 1
+37575,103,Job finished at disk 1.
+37575,103,Returning to CPU
+37575,104,Job started at disk 1.
+37575,103,Job arrived at CPU.
+37575,103,Job started at CPU.
+37587,103,Job finished at CPU.
+37587,103,Going to disk
+37587,103,Arrived at disk 1
+37669,302,Job arrived at CPU.
+37669,302,Job started at CPU.
+37680,302,Job finished at CPU.
+37680,302,Going to disk
+37680,302,Arrived at disk 2
+37801,303,Job arrived at CPU.
+37801,303,Job started at CPU.
+37814,303,Job finished at CPU.
+37814,303,Job complete.
+37948,304,Job arrived at CPU.
+37948,304,Job started at CPU.
+37958,304,Job finished at CPU.
+37958,304,Job complete.
+38090,305,Job arrived at CPU.
+38090,305,Job started at CPU.
+38101,305,Job finished at CPU.
+38101,305,Going to disk
+38101,305,Arrived at disk 1
+38132,93,Job finished at disk 2.
+38132,93,Returning to CPU
+38132,95,Job started at disk 2.
+38132,93,Job arrived at CPU.
+38132,93,Job started at CPU.
+38140,104,Job finished at disk 1.
+38140,104,Returning to CPU
+38140,106,Job started at disk 1.
+38140,104,Job arrived at CPU.
+38145,93,Job finished at CPU.
+38145,93,Going to disk
+38145,104,Job started at CPU.
+38145,93,Arrived at disk 2
+38156,104,Job finished at CPU.
+38156,104,Going to disk
+38156,104,Arrived at disk 1
+38218,306,Job arrived at CPU.
+38218,306,Job started at CPU.
+38233,306,Job finished at CPU.
+38233,306,Going to disk
+38233,306,Arrived at disk 2
+38340,307,Job arrived at CPU.
+38340,307,Job started at CPU.
+38353,307,Job finished at CPU.
+38353,307,Going to disk
+38353,307,Arrived at disk 1
+38452,308,Job arrived at CPU.
+38452,308,Job started at CPU.
+38464,308,Job finished at CPU.
+38464,308,Going to disk
+38464,308,Arrived at disk 2
+38586,309,Job arrived at CPU.
+38586,309,Job started at CPU.
+38600,309,Job finished at CPU.
+38600,309,Going to disk
+38600,309,Arrived at disk 1
+38647,106,Job finished at disk 1.
+38647,106,Returning to CPU
+38647,109,Job started at disk 1.
+38647,106,Job arrived at CPU.
+38647,106,Job started at CPU.
+38659,106,Job finished at CPU.
+38659,106,Going to disk
+38659,106,Arrived at disk 1
+38734,310,Job arrived at CPU.
+38734,310,Job started at CPU.
+38745,310,Job finished at CPU.
+38745,310,Going to disk
+38745,310,Arrived at disk 2
+38851,311,Job arrived at CPU.
+38851,311,Job started at CPU.
+38864,311,Job finished at CPU.
+38864,311,Going to disk
+38864,311,Arrived at disk 1
+38972,312,Job arrived at CPU.
+38972,312,Job started at CPU.
+38975,95,Job finished at disk 2.
+38975,95,Returning to CPU
+38975,98,Job started at disk 2.
+38975,95,Job arrived at CPU.
+38985,312,Job finished at CPU.
+38985,312,Going to disk
+38985,95,Job started at CPU.
+38985,312,Arrived at disk 2
+38995,95,Job finished at CPU.
+38995,95,Going to disk
+38995,95,Arrived at disk 2
+39118,313,Job arrived at CPU.
+39118,313,Job started at CPU.
+39132,313,Job finished at CPU.
+39132,313,Going to disk
+39132,313,Arrived at disk 1
+39262,314,Job arrived at CPU.
+39262,314,Job started at CPU.
+39273,314,Job finished at CPU.
+39273,314,Going to disk
+39273,314,Arrived at disk 2
+39365,315,Job arrived at CPU.
+39365,315,Job started at CPU.
+39368,109,Job finished at disk 1.
+39368,109,Returning to CPU
+39368,39,Job started at disk 1.
+39368,109,Job arrived at CPU.
+39378,315,Job finished at CPU.
+39378,315,Going to disk
+39378,109,Job started at CPU.
+39378,315,Arrived at disk 1
+39392,109,Job finished at CPU.
+39392,109,Job complete.
+39506,316,Job arrived at CPU.
+39506,316,Job started at CPU.
+39517,316,Job finished at CPU.
+39517,316,Going to disk
+39517,316,Arrived at disk 1
+39646,317,Job arrived at CPU.
+39646,317,Job started at CPU.
+39656,317,Job finished at CPU.
+39656,317,Going to disk
+39656,317,Arrived at disk 2
+39795,318,Job arrived at CPU.
+39795,318,Job started at CPU.
+39807,318,Job finished at CPU.
+39807,318,Going to disk
+39807,318,Arrived at disk 1
+39874,98,Job finished at disk 2.
+39874,98,Returning to CPU
+39874,101,Job started at disk 2.
+39874,98,Job arrived at CPU.
+39874,98,Job started at CPU.
+39888,98,Job finished at CPU.
+39888,98,Going to disk
+39888,98,Arrived at disk 2
+39913,319,Job arrived at CPU.
+39913,319,Job started at CPU.
+39927,319,Job finished at CPU.
+39927,319,Going to disk
+39927,319,Arrived at disk 2
+40018,39,Job finished at disk 1.
+40018,39,Returning to CPU
+40018,113,Job started at disk 1.
+40018,39,Job arrived at CPU.
+40018,39,Job started at CPU.
+40031,39,Job finished at CPU.
+40031,39,Going to disk
+40031,39,Arrived at disk 1
+40052,320,Job arrived at CPU.
+40052,320,Job started at CPU.
+40062,320,Job finished at CPU.
+40062,320,Going to disk
+40062,320,Arrived at disk 1
+40167,321,Job arrived at CPU.
+40167,321,Job started at CPU.
+40177,321,Job finished at CPU.
+40177,321,Going to disk
+40177,321,Arrived at disk 2
+40278,322,Job arrived at CPU.
+40278,322,Job started at CPU.
+40290,322,Job finished at CPU.
+40290,322,Going to disk
+40290,322,Arrived at disk 1
+40398,323,Job arrived at CPU.
+40398,323,Job started at CPU.
+40411,323,Job finished at CPU.
+40411,323,Going to disk
+40411,323,Arrived at disk 2
+40503,324,Job arrived at CPU.
+40503,324,Job started at CPU.
+40513,324,Job finished at CPU.
+40513,324,Going to disk
+40513,324,Arrived at disk 1
+40601,113,Job finished at disk 1.
+40601,113,Returning to CPU
+40601,41,Job started at disk 1.
+40601,113,Job arrived at CPU.
+40601,113,Job started at CPU.
+40612,325,Job arrived at CPU.
+40614,113,Job finished at CPU.
+40614,113,Job complete.
+40614,325,Job started at CPU.
+40629,325,Job finished at CPU.
+40629,325,Going to disk
+40629,325,Arrived at disk 1
+40701,101,Job finished at disk 2.
+40701,101,Returning to CPU
+40701,102,Job started at disk 2.
+40701,101,Job arrived at CPU.
+40701,101,Job started at CPU.
+40711,101,Job finished at CPU.
+40711,101,Going to disk
+40711,101,Arrived at disk 2
+40745,326,Job arrived at CPU.
+40745,326,Job started at CPU.
+40759,326,Job finished at CPU.
+40759,326,Going to disk
+40759,326,Arrived at disk 2
+40871,327,Job arrived at CPU.
+40871,327,Job started at CPU.
+40882,327,Job finished at CPU.
+40882,327,Job complete.
+41008,328,Job arrived at CPU.
+41008,328,Job started at CPU.
+41022,328,Job finished at CPU.
+41022,328,Going to disk
+41022,328,Arrived at disk 1
+41122,329,Job arrived at CPU.
+41122,329,Job started at CPU.
+41132,329,Job finished at CPU.
+41132,329,Going to disk
+41132,329,Arrived at disk 2
+41244,330,Job arrived at CPU.
+41244,330,Job started at CPU.
+41257,330,Job finished at CPU.
+41257,330,Job complete.
+41334,41,Job finished at disk 1.
+41334,41,Returning to CPU
+41334,115,Job started at disk 1.
+41334,41,Job arrived at CPU.
+41334,41,Job started at CPU.
+41349,41,Job finished at CPU.
+41349,41,Going to disk
+41349,41,Arrived at disk 1
+41390,331,Job arrived at CPU.
+41390,331,Job started at CPU.
+41401,331,Job finished at CPU.
+41401,331,Going to disk
+41401,331,Arrived at disk 1
+41404,102,Job finished at disk 2.
+41404,102,Returning to CPU
+41404,11,Job started at disk 2.
+41404,102,Job arrived at CPU.
+41404,102,Job started at CPU.
+41418,102,Job finished at CPU.
+41418,102,Job complete.
+41527,332,Job arrived at CPU.
+41527,332,Job started at CPU.
+41542,332,Job finished at CPU.
+41542,332,Going to disk
+41542,332,Arrived at disk 2
+41644,333,Job arrived at CPU.
+41644,333,Job started at CPU.
+41659,333,Job finished at CPU.
+41659,333,Job complete.
+41772,334,Job arrived at CPU.
+41772,334,Job started at CPU.
+41783,334,Job finished at CPU.
+41783,334,Going to disk
+41783,334,Arrived at disk 2
+41886,335,Job arrived at CPU.
+41886,335,Job started at CPU.
+41897,335,Job finished at CPU.
+41897,335,Job complete.
+41978,115,Job finished at disk 1.
+41978,115,Returning to CPU
+41978,117,Job started at disk 1.
+41978,115,Job arrived at CPU.
+41978,115,Job started at CPU.
+41993,115,Job finished at CPU.
+41993,115,Going to disk
+41993,115,Arrived at disk 1
+42036,336,Job arrived at CPU.
+42036,336,Job started at CPU.
+42046,336,Job finished at CPU.
+42046,336,Going to disk
+42046,336,Arrived at disk 1
+42153,337,Job arrived at CPU.
+42153,337,Job started at CPU.
+42167,337,Job finished at CPU.
+42167,337,Going to disk
+42167,337,Arrived at disk 2
+42224,11,Job finished at disk 2.
+42224,11,Returning to CPU
+42224,105,Job started at disk 2.
+42224,11,Job arrived at CPU.
+42224,11,Job started at CPU.
+42236,11,Job finished at CPU.
+42236,11,Going to disk
+42236,11,Arrived at disk 2
+42287,338,Job arrived at CPU.
+42287,338,Job started at CPU.
+42299,338,Job finished at CPU.
+42299,338,Going to disk
+42299,338,Arrived at disk 1
+42431,339,Job arrived at CPU.
+42431,339,Job started at CPU.
+42444,339,Job finished at CPU.
+42444,339,Going to disk
+42444,339,Arrived at disk 2
+42531,340,Job arrived at CPU.
+42531,340,Job started at CPU.
+42541,340,Job finished at CPU.
+42541,340,Going to disk
+42541,340,Arrived at disk 1
+42637,341,Job arrived at CPU.
+42637,341,Job started at CPU.
+42647,341,Job finished at CPU.
+42647,341,Job complete.
+42745,117,Job finished at disk 1.
+42745,117,Returning to CPU
+42745,5,Job started at disk 1.
+42745,117,Job arrived at CPU.
+42745,117,Job started at CPU.
+42756,117,Job finished at CPU.
+42756,117,Going to disk
+42756,117,Arrived at disk 1
+42781,342,Job arrived at CPU.
+42781,342,Job started at CPU.
+42795,342,Job finished at CPU.
+42795,342,Going to disk
+42795,342,Arrived at disk 2
+42924,343,Job arrived at CPU.
+42924,343,Job started at CPU.
+42939,343,Job finished at CPU.
+42939,343,Going to disk
+42939,343,Arrived at disk 1
+43026,105,Job finished at disk 2.
+43026,105,Returning to CPU
+43026,107,Job started at disk 2.
+43026,105,Job arrived at CPU.
+43026,105,Job started at CPU.
+43039,105,Job finished at CPU.
+43039,105,Job complete.
+43074,344,Job arrived at CPU.
+43074,344,Job started at CPU.
+43087,344,Job finished at CPU.
+43087,344,Going to disk
+43087,344,Arrived at disk 2
+43199,345,Job arrived at CPU.
+43199,345,Job started at CPU.
+43214,345,Job finished at CPU.
+43214,345,Going to disk
+43214,345,Arrived at disk 2
+43324,346,Job arrived at CPU.
+43324,346,Job started at CPU.
+43338,346,Job finished at CPU.
+43338,346,Going to disk
+43338,346,Arrived at disk 1
+43412,5,Job finished at disk 1.
+43412,5,Returning to CPU
+43412,120,Job started at disk 1.
+43412,5,Job arrived at CPU.
+43412,5,Job started at CPU.
+43423,5,Job finished at CPU.
+43423,5,Job complete.
+43460,347,Job arrived at CPU.
+43460,347,Job started at CPU.
+43475,347,Job finished at CPU.
+43475,347,Going to disk
+43475,347,Arrived at disk 1
+43561,348,Job arrived at CPU.
+43561,348,Job started at CPU.
+43571,348,Job finished at CPU.
+43571,348,Going to disk
+43571,348,Arrived at disk 2
+43667,349,Job arrived at CPU.
+43667,349,Job started at CPU.
+43674,107,Job finished at disk 2.
+43674,107,Returning to CPU
+43674,36,Job started at disk 2.
+43674,107,Job arrived at CPU.
+43677,349,Job finished at CPU.
+43677,349,Going to disk
+43677,107,Job started at CPU.
+43677,349,Arrived at disk 2
+43692,107,Job finished at CPU.
+43692,107,Going to disk
+43692,107,Arrived at disk 1
+43775,350,Job arrived at CPU.
+43775,350,Job started at CPU.
+43788,350,Job finished at CPU.
+43788,350,Going to disk
+43788,350,Arrived at disk 2
+43900,351,Job arrived at CPU.
+43900,351,Job started at CPU.
+43915,351,Job finished at CPU.
+43915,351,Going to disk
+43915,351,Arrived at disk 1
+44031,352,Job arrived at CPU.
+44031,352,Job started at CPU.
+44044,352,Job finished at CPU.
+44044,352,Going to disk
+44044,352,Arrived at disk 2
+44114,120,Job finished at disk 1.
+44114,120,Returning to CPU
+44114,122,Job started at disk 1.
+44114,120,Job arrived at CPU.
+44114,120,Job started at CPU.
+44129,120,Job finished at CPU.
+44129,120,Going to disk
+44129,120,Arrived at disk 1
+44179,353,Job arrived at CPU.
+44179,353,Job started at CPU.
+44189,353,Job finished at CPU.
+44189,353,Going to disk
+44189,353,Arrived at disk 1
+44329,354,Job arrived at CPU.
+44329,354,Job started at CPU.
+44340,354,Job finished at CPU.
+44340,354,Going to disk
+44340,354,Arrived at disk 2
+44466,355,Job arrived at CPU.
+44466,355,Job started at CPU.
+44478,355,Job finished at CPU.
+44478,355,Going to disk
+44478,355,Arrived at disk 1
+44487,36,Job finished at disk 2.
+44487,36,Returning to CPU
+44487,112,Job started at disk 2.
+44487,36,Job arrived at CPU.
+44487,36,Job started at CPU.
+44499,36,Job finished at CPU.
+44499,36,Job complete.
+44583,356,Job arrived at CPU.
+44583,356,Job started at CPU.
+44596,356,Job finished at CPU.
+44596,356,Going to disk
+44596,356,Arrived at disk 2
+44720,357,Job arrived at CPU.
+44720,357,Job started at CPU.
+44734,357,Job finished at CPU.
+44734,357,Going to disk
+44734,357,Arrived at disk 2
+44827,122,Job finished at disk 1.
+44827,122,Returning to CPU
+44827,124,Job started at disk 1.
+44827,122,Job arrived at CPU.
+44827,122,Job started at CPU.
+44839,122,Job finished at CPU.
+44839,122,Going to disk
+44839,122,Arrived at disk 1
+44869,358,Job arrived at CPU.
+44869,358,Job started at CPU.
+44884,358,Job finished at CPU.
+44884,358,Going to disk
+44884,358,Arrived at disk 1
+44986,359,Job arrived at CPU.
+44986,359,Job started at CPU.
+44998,359,Job finished at CPU.
+44998,359,Going to disk
+44998,359,Arrived at disk 2
+45115,112,Job finished at disk 2.
+45115,112,Returning to CPU
+45115,114,Job started at disk 2.
+45115,360,Job arrived at CPU.
+45115,360,Job started at CPU.
+45115,112,Job arrived at CPU.
+45127,360,Job finished at CPU.
+45127,360,Going to disk
+45127,112,Job started at CPU.
+45127,360,Arrived at disk 2
+45140,112,Job finished at CPU.
+45140,112,Going to disk
+45140,112,Arrived at disk 1
+45226,361,Job arrived at CPU.
+45226,361,Job started at CPU.
+45238,361,Job finished at CPU.
+45238,361,Job complete.
+45356,362,Job arrived at CPU.
+45356,362,Job started at CPU.
+45368,362,Job finished at CPU.
+45368,362,Going to disk
+45368,362,Arrived at disk 2
+45435,124,Job finished at disk 1.
+45435,124,Returning to CPU
+45435,43,Job started at disk 1.
+45435,124,Job arrived at CPU.
+45435,124,Job started at CPU.
+45446,124,Job finished at CPU.
+45446,124,Going to disk
+45446,124,Arrived at disk 1
+45470,363,Job arrived at CPU.
+45470,363,Job started at CPU.
+45484,363,Job finished at CPU.
+45484,363,Going to disk
+45484,363,Arrived at disk 1
+45571,364,Job arrived at CPU.
+45571,364,Job started at CPU.
+45584,364,Job finished at CPU.
+45584,364,Going to disk
+45584,364,Arrived at disk 2
+45699,365,Job arrived at CPU.
+45699,365,Job started at CPU.
+45714,365,Job finished at CPU.
+45714,365,Going to disk
+45714,365,Arrived at disk 1
+45832,366,Job arrived at CPU.
+45832,366,Job started at CPU.
+45844,366,Job finished at CPU.
+45844,366,Going to disk
+45844,366,Arrived at disk 2
+45957,367,Job arrived at CPU.
+45957,367,Job started at CPU.
+45960,114,Job finished at disk 2.
+45960,114,Returning to CPU
+45960,116,Job started at disk 2.
+45960,114,Job arrived at CPU.
+45967,43,Job finished at disk 1.
+45967,43,Returning to CPU
+45967,127,Job started at disk 1.
+45967,43,Job arrived at CPU.
+45970,367,Job finished at CPU.
+45970,367,Going to disk
+45970,114,Job started at CPU.
+45970,367,Arrived at disk 1
+45981,114,Job finished at CPU.
+45981,114,Going to disk
+45981,43,Job started at CPU.
+45981,114,Arrived at disk 2
+45994,43,Job finished at CPU.
+45994,43,Going to disk
+45994,43,Arrived at disk 1
+46084,368,Job arrived at CPU.
+46084,368,Job started at CPU.
+46094,368,Job finished at CPU.
+46094,368,Going to disk
+46094,368,Arrived at disk 2
+46210,369,Job arrived at CPU.
+46210,369,Job started at CPU.
+46225,369,Job finished at CPU.
+46225,369,Job complete.
+46343,370,Job arrived at CPU.
+46343,370,Job started at CPU.
+46353,370,Job finished at CPU.
+46353,370,Going to disk
+46353,370,Arrived at disk 1
+46459,371,Job arrived at CPU.
+46459,371,Job started at CPU.
+46472,371,Job finished at CPU.
+46472,371,Going to disk
+46472,371,Arrived at disk 2
+46505,127,Job finished at disk 1.
+46505,127,Returning to CPU
+46505,45,Job started at disk 1.
+46505,127,Job arrived at CPU.
+46505,127,Job started at CPU.
+46517,127,Job finished at CPU.
+46517,127,Going to disk
+46517,127,Arrived at disk 1
+46582,116,Job finished at disk 2.
+46582,116,Returning to CPU
+46582,118,Job started at disk 2.
+46582,116,Job arrived at CPU.
+46582,116,Job started at CPU.
+46585,372,Job arrived at CPU.
+46592,116,Job finished at CPU.
+46592,116,Going to disk
+46592,372,Job started at CPU.
+46592,116,Arrived at disk 2
+46607,372,Job finished at CPU.
+46607,372,Job complete.
+46701,373,Job arrived at CPU.
+46701,373,Job started at CPU.
+46713,373,Job finished at CPU.
+46713,373,Going to disk
+46713,373,Arrived at disk 1
+46840,374,Job arrived at CPU.
+46840,374,Job started at CPU.
+46855,374,Job finished at CPU.
+46855,374,Job complete.
+46964,375,Job arrived at CPU.
+46964,375,Job started at CPU.
+46976,375,Job finished at CPU.
+46976,375,Job complete.
+47094,376,Job arrived at CPU.
+47094,376,Job started at CPU.
+47109,376,Job finished at CPU.
+47109,376,Going to disk
+47109,376,Arrived at disk 2
+47172,45,Job finished at disk 1.
+47172,45,Returning to CPU
+47172,130,Job started at disk 1.
+47172,45,Job arrived at CPU.
+47172,45,Job started at CPU.
+47184,45,Job finished at CPU.
+47184,45,Going to disk
+47184,45,Arrived at disk 1
+47242,377,Job arrived at CPU.
+47242,377,Job started at CPU.
+47253,377,Job finished at CPU.
+47253,377,Job complete.
+47326,118,Job finished at disk 2.
+47326,118,Returning to CPU
+47326,119,Job started at disk 2.
+47326,118,Job arrived at CPU.
+47326,118,Job started at CPU.
+47337,118,Job finished at CPU.
+47337,118,Going to disk
+47337,118,Arrived at disk 2
+47371,378,Job arrived at CPU.
+47371,378,Job started at CPU.
+47385,378,Job finished at CPU.
+47385,378,Going to disk
+47385,378,Arrived at disk 1
+47494,379,Job arrived at CPU.
+47494,379,Job started at CPU.
+47508,379,Job finished at CPU.
+47508,379,Going to disk
+47508,379,Arrived at disk 2
+47613,380,Job arrived at CPU.
+47613,380,Job started at CPU.
+47628,380,Job finished at CPU.
+47628,380,Going to disk
+47628,380,Arrived at disk 1
+47748,381,Job arrived at CPU.
+47748,381,Job started at CPU.
+47758,381,Job finished at CPU.
+47758,381,Going to disk
+47758,381,Arrived at disk 2
+47868,382,Job arrived at CPU.
+47868,382,Job started at CPU.
+47878,382,Job finished at CPU.
+47878,382,Going to disk
+47878,382,Arrived at disk 1
+47881,130,Job finished at disk 1.
+47881,130,Returning to CPU
+47881,47,Job started at disk 1.
+47881,130,Job arrived at CPU.
+47881,130,Job started at CPU.
+47896,130,Job finished at CPU.
+47896,130,Going to disk
+47896,130,Arrived at disk 1
+48014,383,Job arrived at CPU.
+48014,383,Job started at CPU.
+48028,383,Job finished at CPU.
+48028,383,Going to disk
+48028,383,Arrived at disk 2
+48160,384,Job arrived at CPU.
+48160,384,Job started at CPU.
+48161,119,Job finished at disk 2.
+48161,119,Returning to CPU
+48161,121,Job started at disk 2.
+48161,119,Job arrived at CPU.
+48171,384,Job finished at CPU.
+48171,384,Going to disk
+48171,119,Job started at CPU.
+48171,384,Arrived at disk 2
+48184,119,Job finished at CPU.
+48184,119,Going to disk
+48184,119,Arrived at disk 1
+48309,385,Job arrived at CPU.
+48309,385,Job started at CPU.
+48322,385,Job finished at CPU.
+48322,385,Going to disk
+48322,385,Arrived at disk 2
+48414,386,Job arrived at CPU.
+48414,386,Job started at CPU.
+48428,386,Job finished at CPU.
+48428,386,Job complete.
+48467,47,Job finished at disk 1.
+48467,47,Returning to CPU
+48467,135,Job started at disk 1.
+48467,47,Job arrived at CPU.
+48467,47,Job started at CPU.
+48479,47,Job finished at CPU.
+48479,47,Going to disk
+48479,47,Arrived at disk 1
+48531,387,Job arrived at CPU.
+48531,387,Job started at CPU.
+48541,387,Job finished at CPU.
+48541,387,Going to disk
+48541,387,Arrived at disk 1
+48675,388,Job arrived at CPU.
+48675,388,Job started at CPU.
+48685,388,Job finished at CPU.
+48685,388,Job complete.
+48814,389,Job arrived at CPU.
+48814,389,Job started at CPU.
+48828,389,Job finished at CPU.
+48828,389,Going to disk
+48828,389,Arrived at disk 2
+48943,390,Job arrived at CPU.
+48943,390,Job started at CPU.
+48956,390,Job finished at CPU.
+48956,390,Going to disk
+48956,390,Arrived at disk 1
+49001,121,Job finished at disk 2.
+49001,121,Returning to CPU
+49001,40,Job started at disk 2.
+49001,121,Job arrived at CPU.
+49001,121,Job started at CPU.
+49013,135,Job finished at disk 1.
+49013,135,Returning to CPU
+49013,16,Job started at disk 1.
+49013,135,Job arrived at CPU.
+49014,121,Job finished at CPU.
+49014,121,Going to disk
+49014,135,Job started at CPU.
+49014,121,Arrived at disk 2
+49029,135,Job finished at CPU.
+49029,135,Going to disk
+49029,135,Arrived at disk 1
+49057,391,Job arrived at CPU.
+49057,391,Job started at CPU.
+49069,391,Job finished at CPU.
+49069,391,Going to disk
+49069,391,Arrived at disk 2
+49191,392,Job arrived at CPU.
+49191,392,Job started at CPU.
+49205,392,Job finished at CPU.
+49205,392,Going to disk
+49205,392,Arrived at disk 1
+49294,393,Job arrived at CPU.
+49294,393,Job started at CPU.
+49305,393,Job finished at CPU.
+49305,393,Job complete.
+49417,394,Job arrived at CPU.
+49417,394,Job started at CPU.
+49431,394,Job finished at CPU.
+49431,394,Going to disk
+49431,394,Arrived at disk 2
+49540,395,Job arrived at CPU.
+49540,395,Job started at CPU.
+49550,395,Job finished at CPU.
+49550,395,Going to disk
+49550,395,Arrived at disk 1
+49654,396,Job arrived at CPU.
+49654,396,Job started at CPU.
+49663,16,Job finished at disk 1.
+49663,16,Returning to CPU
+49663,142,Job started at disk 1.
+49663,16,Job arrived at CPU.
+49669,396,Job finished at CPU.
+49669,396,Going to disk
+49669,16,Job started at CPU.
+49669,396,Arrived at disk 1
+49683,16,Job finished at CPU.
+49683,16,Job complete.
+49766,397,Job arrived at CPU.
+49766,397,Job started at CPU.
+49779,397,Job finished at CPU.
+49779,397,Job complete.
+49809,40,Job finished at disk 2.
+49809,40,Returning to CPU
+49809,123,Job started at disk 2.
+49809,40,Job arrived at CPU.
+49809,40,Job started at CPU.
+49822,40,Job finished at CPU.
+49822,40,Going to disk
+49822,40,Arrived at disk 2
+49916,398,Job arrived at CPU.
+49916,398,Job started at CPU.
+49931,398,Job finished at CPU.
+49931,398,Going to disk
+49931,398,Arrived at disk 2
+50062,399,Job arrived at CPU.
+50062,399,Job started at CPU.
+50076,399,Job finished at CPU.
+50076,399,Going to disk
+50076,399,Arrived at disk 1
+50180,400,Job arrived at CPU.
+50180,400,Job started at CPU.
+50193,400,Job finished at CPU.
+50193,400,Job complete.
+50222,142,Job finished at disk 1.
+50222,142,Returning to CPU
+50222,144,Job started at disk 1.
+50222,142,Job arrived at CPU.
+50222,142,Job started at CPU.
+50235,142,Job finished at CPU.
+50235,142,Going to disk
+50235,142,Arrived at disk 1
+50310,401,Job arrived at CPU.
+50310,401,Job started at CPU.
+50324,401,Job finished at CPU.
+50324,401,Going to disk
+50324,401,Arrived at disk 2
+50411,123,Job finished at disk 2.
+50411,123,Returning to CPU
+50411,125,Job started at disk 2.
+50411,123,Job arrived at CPU.
+50411,123,Job started at CPU.
+50421,123,Job finished at CPU.
+50421,123,Job complete.
+50432,402,Job arrived at CPU.
+50432,402,Job started at CPU.
+50442,402,Job finished at CPU.
+50442,402,Going to disk
+50442,402,Arrived at disk 2
+50574,403,Job arrived at CPU.
+50574,403,Job started at CPU.
+50584,403,Job finished at CPU.
+50584,403,Going to disk
+50584,403,Arrived at disk 1
+50718,404,Job arrived at CPU.
+50718,404,Job started at CPU.
+50733,404,Job finished at CPU.
+50733,404,Going to disk
+50733,404,Arrived at disk 2
+50833,405,Job arrived at CPU.
+50833,405,Job started at CPU.
+50847,405,Job finished at CPU.
+50847,405,Going to disk
+50847,405,Arrived at disk 1
+50905,144,Job finished at disk 1.
+50905,144,Returning to CPU
+50905,50,Job started at disk 1.
+50905,144,Job arrived at CPU.
+50905,144,Job started at CPU.
+50918,144,Job finished at CPU.
+50918,144,Going to disk
+50918,144,Arrived at disk 1
+50948,406,Job arrived at CPU.
+50948,406,Job started at CPU.
+50960,406,Job finished at CPU.
+50960,406,Job complete.
+51066,407,Job arrived at CPU.
+51066,407,Job started at CPU.
+51077,407,Job finished at CPU.
+51077,407,Going to disk
+51077,407,Arrived at disk 2
+51167,408,Job arrived at CPU.
+51167,408,Job started at CPU.
+51173,125,Job finished at disk 2.
+51173,125,Returning to CPU
+51173,128,Job started at disk 2.
+51173,125,Job arrived at CPU.
+51178,408,Job finished at CPU.
+51178,408,Going to disk
+51178,125,Job started at CPU.
+51178,408,Arrived at disk 2
+51190,125,Job finished at CPU.
+51190,125,Job complete.
+51280,409,Job arrived at CPU.
+51280,409,Job started at CPU.
+51295,409,Job finished at CPU.
+51295,409,Going to disk
+51295,409,Arrived at disk 1
+51420,410,Job arrived at CPU.
+51420,410,Job started at CPU.
+51431,410,Job finished at CPU.
+51431,410,Going to disk
+51431,410,Arrived at disk 2
+51497,50,Job finished at disk 1.
+51497,50,Returning to CPU
+51497,147,Job started at disk 1.
+51497,50,Job arrived at CPU.
+51497,50,Job started at CPU.
+51509,50,Job finished at CPU.
+51509,50,Job complete.
+51528,411,Job arrived at CPU.
+51528,411,Job started at CPU.
+51538,411,Job finished at CPU.
+51538,411,Going to disk
+51538,411,Arrived at disk 1
+51640,412,Job arrived at CPU.
+51640,412,Job started at CPU.
+51655,412,Job finished at CPU.
+51655,412,Going to disk
+51655,412,Arrived at disk 1
+51741,413,Job arrived at CPU.
+51741,413,Job started at CPU.
+51755,413,Job finished at CPU.
+51755,413,Job complete.
+51836,128,Job finished at disk 2.
+51836,128,Returning to CPU
+51836,42,Job started at disk 2.
+51836,128,Job arrived at CPU.
+51836,128,Job started at CPU.
+51847,128,Job finished at CPU.
+51847,128,Job complete.
+51868,414,Job arrived at CPU.
+51868,414,Job started at CPU.
+51880,414,Job finished at CPU.
+51880,414,Going to disk
+51880,414,Arrived at disk 2
+51984,415,Job arrived at CPU.
+51984,415,Job started at CPU.
+51994,415,Job finished at CPU.
+51994,415,Job complete.
+52122,416,Job arrived at CPU.
+52122,416,Job started at CPU.
+52132,416,Job finished at CPU.
+52132,416,Going to disk
+52132,416,Arrived at disk 2
+52246,417,Job arrived at CPU.
+52246,417,Job started at CPU.
+52261,417,Job finished at CPU.
+52261,417,Going to disk
+52261,417,Arrived at disk 1
+52295,147,Job finished at disk 1.
+52295,147,Returning to CPU
+52295,149,Job started at disk 1.
+52295,147,Job arrived at CPU.
+52295,147,Job started at CPU.
+52307,147,Job finished at CPU.
+52307,147,Going to disk
+52307,147,Arrived at disk 1
+52370,418,Job arrived at CPU.
+52370,418,Job started at CPU.
+52385,418,Job finished at CPU.
+52385,418,Going to disk
+52385,418,Arrived at disk 2
+52492,42,Job finished at disk 2.
+52492,42,Returning to CPU
+52492,132,Job started at disk 2.
+52492,419,Job arrived at CPU.
+52492,419,Job started at CPU.
+52492,42,Job arrived at CPU.
+52506,419,Job finished at CPU.
+52506,419,Job complete.
+52506,42,Job started at CPU.
+52516,42,Job finished at CPU.
+52516,42,Job complete.
+52596,420,Job arrived at CPU.
+52596,420,Job started at CPU.
+52608,420,Job finished at CPU.
+52608,420,Going to disk
+52608,420,Arrived at disk 2
+52725,421,Job arrived at CPU.
+52725,421,Job started at CPU.
+52735,421,Job finished at CPU.
+52735,421,Going to disk
+52735,421,Arrived at disk 1
+52865,422,Job arrived at CPU.
+52865,422,Job started at CPU.
+52876,422,Job finished at CPU.
+52876,422,Job complete.
+52978,423,Job arrived at CPU.
+52978,423,Job started at CPU.
+52991,423,Job finished at CPU.
+52991,423,Going to disk
+52991,423,Arrived at disk 2
+53040,149,Job finished at disk 1.
+53040,149,Returning to CPU
+53040,52,Job started at disk 1.
+53040,149,Job arrived at CPU.
+53040,149,Job started at CPU.
+53051,149,Job finished at CPU.
+53051,149,Going to disk
+53051,149,Arrived at disk 1
+53125,424,Job arrived at CPU.
+53125,424,Job started at CPU.
+53135,424,Job finished at CPU.
+53135,424,Going to disk
+53135,424,Arrived at disk 1
+53245,425,Job arrived at CPU.
+53245,425,Job started at CPU.
+53257,425,Job finished at CPU.
+53257,425,Going to disk
+53257,425,Arrived at disk 2
+53305,132,Job finished at disk 2.
+53305,132,Returning to CPU
+53305,134,Job started at disk 2.
+53305,132,Job arrived at CPU.
+53305,132,Job started at CPU.
+53318,132,Job finished at CPU.
+53318,132,Going to disk
+53318,132,Arrived at disk 2
+53346,426,Job arrived at CPU.
+53346,426,Job started at CPU.
+53357,426,Job finished at CPU.
+53357,426,Going to disk
+53357,426,Arrived at disk 1
+53467,427,Job arrived at CPU.
+53467,427,Job started at CPU.
+53478,427,Job finished at CPU.
+53478,427,Going to disk
+53478,427,Arrived at disk 2
+53613,428,Job arrived at CPU.
+53613,428,Job started at CPU.
+53628,428,Job finished at CPU.
+53628,428,Going to disk
+53628,428,Arrived at disk 1
+53722,52,Job finished at disk 1.
+53722,52,Returning to CPU
+53722,153,Job started at disk 1.
+53722,52,Job arrived at CPU.
+53722,52,Job started at CPU.
+53726,429,Job arrived at CPU.
+53733,52,Job finished at CPU.
+53733,52,Going to disk
+53733,429,Job started at CPU.
+53733,52,Arrived at disk 1
+53745,429,Job finished at CPU.
+53745,429,Going to disk
+53745,429,Arrived at disk 2
+53869,430,Job arrived at CPU.
+53869,430,Job started at CPU.
+53882,430,Job finished at CPU.
+53882,430,Going to disk
+53882,430,Arrived at disk 1
+54003,431,Job arrived at CPU.
+54003,431,Job started at CPU.
+54018,431,Job finished at CPU.
+54018,431,Going to disk
+54018,431,Arrived at disk 2
+54115,134,Job finished at disk 2.
+54115,134,Returning to CPU
+54115,13,Job started at disk 2.
+54115,134,Job arrived at CPU.
+54115,134,Job started at CPU.
+54129,134,Job finished at CPU.
+54129,134,Going to disk
+54129,134,Arrived at disk 2
+54149,432,Job arrived at CPU.
+54149,432,Job started at CPU.
+54159,432,Job finished at CPU.
+54159,432,Going to disk
+54159,432,Arrived at disk 1
+54292,433,Job arrived at CPU.
+54292,433,Job started at CPU.
+54303,433,Job finished at CPU.
+54303,433,Going to disk
+54303,433,Arrived at disk 2
+54438,434,Job arrived at CPU.
+54438,434,Job started at CPU.
+54448,434,Job finished at CPU.
+54448,434,Going to disk
+54448,434,Arrived at disk 1
+54505,153,Job finished at disk 1.
+54505,153,Returning to CPU
+54505,155,Job started at disk 1.
+54505,153,Job arrived at CPU.
+54505,153,Job started at CPU.
+54518,153,Job finished at CPU.
+54518,153,Going to disk
+54518,153,Arrived at disk 1
+54542,435,Job arrived at CPU.
+54542,435,Job started at CPU.
+54555,435,Job finished at CPU.
+54555,435,Going to disk
+54555,435,Arrived at disk 2
+54655,436,Job arrived at CPU.
+54655,436,Job started at CPU.
+54665,436,Job finished at CPU.
+54665,436,Job complete.
+54775,437,Job arrived at CPU.
+54775,437,Job started at CPU.
+54786,437,Job finished at CPU.
+54786,437,Going to disk
+54786,437,Arrived at disk 1
+54873,13,Job finished at disk 2.
+54873,13,Returning to CPU
+54873,140,Job started at disk 2.
+54873,13,Job arrived at CPU.
+54873,13,Job started at CPU.
+54888,13,Job finished at CPU.
+54888,13,Going to disk
+54888,13,Arrived at disk 2
+54897,438,Job arrived at CPU.
+54897,438,Job started at CPU.
+54912,438,Job finished at CPU.
+54912,438,Going to disk
+54912,438,Arrived at disk 2
+55017,439,Job arrived at CPU.
+55017,439,Job started at CPU.
+55032,439,Job finished at CPU.
+55032,439,Going to disk
+55032,439,Arrived at disk 1
+55158,440,Job arrived at CPU.
+55158,440,Job started at CPU.
+55168,440,Job finished at CPU.
+55168,440,Job complete.
+55244,155,Job finished at disk 1.
+55244,155,Returning to CPU
+55244,157,Job started at disk 1.
+55244,155,Job arrived at CPU.
+55244,155,Job started at CPU.
+55258,155,Job finished at CPU.
+55258,155,Going to disk
+55258,155,Arrived at disk 1
+55308,441,Job arrived at CPU.
+55308,441,Job started at CPU.
+55323,441,Job finished at CPU.
+55323,441,Going to disk
+55323,441,Arrived at disk 2
+55429,442,Job arrived at CPU.
+55429,442,Job started at CPU.
+55441,442,Job finished at CPU.
+55441,442,Job complete.
+55567,443,Job arrived at CPU.
+55567,443,Job started at CPU.
+55581,443,Job finished at CPU.
+55581,443,Going to disk
+55581,443,Arrived at disk 1
+55646,140,Job finished at disk 2.
+55646,140,Returning to CPU
+55646,143,Job started at disk 2.
+55646,140,Job arrived at CPU.
+55646,140,Job started at CPU.
+55658,140,Job finished at CPU.
+55658,140,Job complete.
+55669,444,Job arrived at CPU.
+55669,444,Job started at CPU.
+55680,444,Job finished at CPU.
+55680,444,Job complete.
+55779,445,Job arrived at CPU.
+55779,445,Job started at CPU.
+55792,445,Job finished at CPU.
+55792,445,Going to disk
+55792,445,Arrived at disk 2
+55903,157,Job finished at disk 1.
+55903,157,Returning to CPU
+55903,20,Job started at disk 1.
+55903,157,Job arrived at CPU.
+55903,157,Job started at CPU.
+55918,157,Job finished at CPU.
+55918,157,Going to disk
+55918,157,Arrived at disk 1
+55924,446,Job arrived at CPU.
+55924,446,Job started at CPU.
+55936,446,Job finished at CPU.
+55936,446,Going to disk
+55936,446,Arrived at disk 2
+56060,447,Job arrived at CPU.
+56060,447,Job started at CPU.
+56074,447,Job finished at CPU.
+56074,447,Going to disk
+56074,447,Arrived at disk 1
+56199,448,Job arrived at CPU.
+56199,448,Job started at CPU.
+56214,448,Job finished at CPU.
+56214,448,Job complete.
+56295,143,Job finished at disk 2.
+56295,143,Returning to CPU
+56295,46,Job started at disk 2.
+56295,143,Job arrived at CPU.
+56295,143,Job started at CPU.
+56310,143,Job finished at CPU.
+56310,143,Going to disk
+56310,143,Arrived at disk 2
+56348,449,Job arrived at CPU.
+56348,449,Job started at CPU.
+56358,449,Job finished at CPU.
+56358,449,Going to disk
+56358,449,Arrived at disk 2
+56494,450,Job arrived at CPU.
+56494,450,Job started at CPU.
+56507,450,Job finished at CPU.
+56507,450,Going to disk
+56507,450,Arrived at disk 1
+56602,451,Job arrived at CPU.
+56602,451,Job started at CPU.
+56612,451,Job finished at CPU.
+56612,451,Going to disk
+56612,451,Arrived at disk 2
+56626,20,Job finished at disk 1.
+56626,20,Returning to CPU
+56626,159,Job started at disk 1.
+56626,20,Job arrived at CPU.
+56626,20,Job started at CPU.
+56636,20,Job finished at CPU.
+56636,20,Going to disk
+56636,20,Arrived at disk 1
+56729,452,Job arrived at CPU.
+56729,452,Job started at CPU.
+56741,452,Job finished at CPU.
+56741,452,Going to disk
+56741,452,Arrived at disk 1
+56837,453,Job arrived at CPU.
+56837,453,Job started at CPU.
+56850,453,Job finished at CPU.
+56850,453,Job complete.
+56960,454,Job arrived at CPU.
+56960,454,Job started at CPU.
+56970,454,Job finished at CPU.
+56970,454,Going to disk
+56970,454,Arrived at disk 2
+57091,455,Job arrived at CPU.
+57091,455,Job started at CPU.
+57101,455,Job finished at CPU.
+57101,455,Going to disk
+57101,455,Arrived at disk 1
+57167,46,Job finished at disk 2.
+57167,46,Returning to CPU
+57167,145,Job started at disk 2.
+57167,46,Job arrived at CPU.
+57167,46,Job started at CPU.
+57178,46,Job finished at CPU.
+57178,46,Going to disk
+57178,46,Arrived at disk 2
+57198,456,Job arrived at CPU.
+57198,456,Job started at CPU.
+57212,456,Job finished at CPU.
+57212,456,Job complete.
+57331,457,Job arrived at CPU.
+57331,457,Job started at CPU.
+57341,457,Job finished at CPU.
+57341,457,Going to disk
+57341,457,Arrived at disk 2
+57406,159,Job finished at disk 1.
+57406,159,Returning to CPU
+57406,161,Job started at disk 1.
+57406,159,Job arrived at CPU.
+57406,159,Job started at CPU.
+57421,159,Job finished at CPU.
+57421,159,Going to disk
+57421,159,Arrived at disk 1
+57461,458,Job arrived at CPU.
+57461,458,Job started at CPU.
+57473,458,Job finished at CPU.
+57473,458,Job complete.
+57576,459,Job arrived at CPU.
+57576,459,Job started at CPU.
+57589,459,Job finished at CPU.
+57589,459,Going to disk
+57589,459,Arrived at disk 1
+57709,460,Job arrived at CPU.
+57709,460,Job started at CPU.
+57723,460,Job finished at CPU.
+57723,460,Going to disk
+57723,460,Arrived at disk 2
+57850,461,Job arrived at CPU.
+57850,461,Job started at CPU.
+57863,461,Job finished at CPU.
+57863,461,Going to disk
+57863,461,Arrived at disk 1
+57876,145,Job finished at disk 2.
+57876,145,Returning to CPU
+57876,148,Job started at disk 2.
+57876,145,Job arrived at CPU.
+57876,145,Job started at CPU.
+57886,145,Job finished at CPU.
+57886,145,Going to disk
+57886,145,Arrived at disk 2
+57977,462,Job arrived at CPU.
+57977,462,Job started at CPU.
+57988,462,Job finished at CPU.
+57988,462,Going to disk
+57988,462,Arrived at disk 2
+58098,161,Job finished at disk 1.
+58098,161,Returning to CPU
+58098,55,Job started at disk 1.
+58098,161,Job arrived at CPU.
+58098,161,Job started at CPU.
+58099,463,Job arrived at CPU.
+58108,161,Job finished at CPU.
+58108,161,Going to disk
+58108,463,Job started at CPU.
+58108,161,Arrived at disk 1
+58118,463,Job finished at CPU.
+58118,463,Job complete.
+58225,464,Job arrived at CPU.
+58225,464,Job started at CPU.
+58239,464,Job finished at CPU.
+58239,464,Going to disk
+58239,464,Arrived at disk 1
+58364,465,Job arrived at CPU.
+58364,465,Job started at CPU.
+58378,465,Job finished at CPU.
+58378,465,Going to disk
+58378,465,Arrived at disk 2
+58495,466,Job arrived at CPU.
+58495,466,Job started at CPU.
+58510,466,Job finished at CPU.
+58510,466,Going to disk
+58510,466,Arrived at disk 1
+58624,467,Job arrived at CPU.
+58624,467,Job started at CPU.
+58637,467,Job finished at CPU.
+58637,467,Job complete.
+58742,468,Job arrived at CPU.
+58742,468,Job started at CPU.
+58752,148,Job finished at disk 2.
+58752,148,Returning to CPU
+58752,150,Job started at disk 2.
+58752,148,Job arrived at CPU.
+58755,468,Job finished at CPU.
+58755,468,Going to disk
+58755,148,Job started at CPU.
+58755,468,Arrived at disk 2
+58769,148,Job finished at CPU.
+58769,148,Going to disk
+58769,148,Arrived at disk 2
+58777,55,Job finished at disk 1.
+58777,55,Returning to CPU
+58777,165,Job started at disk 1.
+58777,55,Job arrived at CPU.
+58777,55,Job started at CPU.
+58791,55,Job finished at CPU.
+58791,55,Going to disk
+58791,55,Arrived at disk 1
+58882,469,Job arrived at CPU.
+58882,469,Job started at CPU.
+58897,469,Job finished at CPU.
+58897,469,Going to disk
+58897,469,Arrived at disk 1
+58989,470,Job arrived at CPU.
+58989,470,Job started at CPU.
+59002,470,Job finished at CPU.
+59002,470,Going to disk
+59002,470,Arrived at disk 2
+59113,471,Job arrived at CPU.
+59113,471,Job started at CPU.
+59127,471,Job finished at CPU.
+59127,471,Going to disk
+59127,471,Arrived at disk 1
+59256,472,Job arrived at CPU.
+59256,472,Job started at CPU.
+59267,472,Job finished at CPU.
+59267,472,Going to disk
+59267,472,Arrived at disk 2
+59364,473,Job arrived at CPU.
+59364,473,Job started at CPU.
+59375,473,Job finished at CPU.
+59375,473,Going to disk
+59375,473,Arrived at disk 1
+59453,150,Job finished at disk 2.
+59453,150,Returning to CPU
+59453,152,Job started at disk 2.
+59453,150,Job arrived at CPU.
+59453,150,Job started at CPU.
+59464,474,Job arrived at CPU.
+59468,150,Job finished at CPU.
+59468,150,Job complete.
+59468,474,Job started at CPU.
+59478,474,Job finished at CPU.
+59478,474,Going to disk
+59478,474,Arrived at disk 2
+59534,165,Job finished at disk 1.
+59534,165,Returning to CPU
+59534,167,Job started at disk 1.
+59534,165,Job arrived at CPU.
+59534,165,Job started at CPU.
+59545,165,Job finished at CPU.
+59545,165,Going to disk
+59545,165,Arrived at disk 1
+59602,475,Job arrived at CPU.
+59602,475,Job started at CPU.
+59615,475,Job finished at CPU.
+59615,475,Going to disk
+59615,475,Arrived at disk 2
+59751,476,Job arrived at CPU.
+59751,476,Job started at CPU.
+59765,476,Job finished at CPU.
+59765,476,Going to disk
+59765,476,Arrived at disk 1
+59871,477,Job arrived at CPU.
+59871,477,Job started at CPU.
+59884,477,Job finished at CPU.
+59884,477,Going to disk
+59884,477,Arrived at disk 2
+60013,478,Job arrived at CPU.
+60013,478,Job started at CPU.
+60025,478,Job finished at CPU.
+60025,478,Going to disk
+60025,478,Arrived at disk 1
+60141,479,Job arrived at CPU.
+60141,479,Job started at CPU.
+60152,479,Job finished at CPU.
+60152,479,Going to disk
+60152,479,Arrived at disk 2
+60248,480,Job arrived at CPU.
+60248,480,Job started at CPU.
+60260,480,Job finished at CPU.
+60260,480,Job complete.
+60262,167,Job finished at disk 1.
+60262,167,Returning to CPU
+60262,168,Job started at disk 1.
+60262,167,Job arrived at CPU.
+60262,167,Job started at CPU.
+60267,152,Job finished at disk 2.
+60267,152,Returning to CPU
+60267,154,Job started at disk 2.
+60267,152,Job arrived at CPU.
+60275,167,Job finished at CPU.
+60275,167,Going to disk
+60275,152,Job started at CPU.
+60275,167,Arrived at disk 1
+60286,152,Job finished at CPU.
+60286,152,Going to disk
+60286,152,Arrived at disk 2
+60387,481,Job arrived at CPU.
+60387,481,Job started at CPU.
+60398,481,Job finished at CPU.
+60398,481,Going to disk
+60398,481,Arrived at disk 1
+60497,482,Job arrived at CPU.
+60497,482,Job started at CPU.
+60509,482,Job finished at CPU.
+60509,482,Job complete.
+60621,483,Job arrived at CPU.
+60621,483,Job started at CPU.
+60633,483,Job finished at CPU.
+60633,483,Going to disk
+60633,483,Arrived at disk 2
+60756,484,Job arrived at CPU.
+60756,484,Job started at CPU.
+60766,484,Job finished at CPU.
+60766,484,Going to disk
+60766,484,Arrived at disk 1
+60903,485,Job arrived at CPU.
+60903,485,Job started at CPU.
+60914,154,Job finished at disk 2.
+60914,154,Returning to CPU
+60914,156,Job started at disk 2.
+60914,154,Job arrived at CPU.
+60916,485,Job finished at CPU.
+60916,485,Job complete.
+60916,154,Job started at CPU.
+60926,154,Job finished at CPU.
+60926,154,Going to disk
+60926,154,Arrived at disk 2
+61019,486,Job arrived at CPU.
+61019,486,Job started at CPU.
+61030,486,Job finished at CPU.
+61030,486,Job complete.
+61042,168,Job finished at disk 1.
+61042,168,Returning to CPU
+61042,171,Job started at disk 1.
+61042,168,Job arrived at CPU.
+61042,168,Job started at CPU.
+61057,168,Job finished at CPU.
+61057,168,Going to disk
+61057,168,Arrived at disk 1
+61150,487,Job arrived at CPU.
+61150,487,Job started at CPU.
+61164,487,Job finished at CPU.
+61164,487,Going to disk
+61164,487,Arrived at disk 2
+61280,488,Job arrived at CPU.
+61280,488,Job started at CPU.
+61295,488,Job finished at CPU.
+61295,488,Going to disk
+61295,488,Arrived at disk 1
+61430,489,Job arrived at CPU.
+61430,489,Job started at CPU.
+61441,489,Job finished at CPU.
+61441,489,Going to disk
+61441,489,Arrived at disk 2
+61535,490,Job arrived at CPU.
+61535,490,Job started at CPU.
+61550,490,Job finished at CPU.
+61550,490,Going to disk
+61550,490,Arrived at disk 1
+61675,491,Job arrived at CPU.
+61675,491,Job started at CPU.
+61685,491,Job finished at CPU.
+61685,491,Going to disk
+61685,491,Arrived at disk 2
+61745,156,Job finished at disk 2.
+61745,156,Returning to CPU
+61745,51,Job started at disk 2.
+61745,156,Job arrived at CPU.
+61745,156,Job started at CPU.
+61760,156,Job finished at CPU.
+61760,156,Going to disk
+61760,156,Arrived at disk 2
+61789,492,Job arrived at CPU.
+61789,492,Job started at CPU.
+61801,492,Job finished at CPU.
+61801,492,Going to disk
+61801,492,Arrived at disk 1
+61818,171,Job finished at disk 1.
+61818,171,Returning to CPU
+61818,7,Job started at disk 1.
+61818,171,Job arrived at CPU.
+61818,171,Job started at CPU.
+61833,171,Job finished at CPU.
+61833,171,Going to disk
+61833,171,Arrived at disk 1
+61902,493,Job arrived at CPU.
+61902,493,Job started at CPU.
+61917,493,Job finished at CPU.
+61917,493,Going to disk
+61917,493,Arrived at disk 2
+62004,494,Job arrived at CPU.
+62004,494,Job started at CPU.
+62019,494,Job finished at CPU.
+62019,494,Going to disk
+62019,494,Arrived at disk 1
+62112,495,Job arrived at CPU.
+62112,495,Job started at CPU.
+62125,495,Job finished at CPU.
+62125,495,Going to disk
+62125,495,Arrived at disk 2
+62247,496,Job arrived at CPU.
+62247,496,Job started at CPU.
+62261,496,Job finished at CPU.
+62261,496,Going to disk
+62261,496,Arrived at disk 1
+62369,497,Job arrived at CPU.
+62369,497,Job started at CPU.
+62382,497,Job finished at CPU.
+62382,497,Going to disk
+62382,497,Arrived at disk 2
+62452,51,Job finished at disk 2.
+62452,51,Returning to CPU
+62452,158,Job started at disk 2.
+62452,51,Job arrived at CPU.
+62452,51,Job started at CPU.
+62464,51,Job finished at CPU.
+62464,51,Going to disk
+62464,51,Arrived at disk 2
+62493,7,Job finished at disk 1.
+62493,7,Returning to CPU
+62493,174,Job started at disk 1.
+62493,7,Job arrived at CPU.
+62493,7,Job started at CPU.
+62506,7,Job finished at CPU.
+62506,7,Going to disk
+62506,7,Arrived at disk 1
+62511,498,Job arrived at CPU.
+62511,498,Job started at CPU.
+62522,498,Job finished at CPU.
+62522,498,Going to disk
+62522,498,Arrived at disk 1
+62653,499,Job arrived at CPU.
+62653,499,Job started at CPU.
+62668,499,Job finished at CPU.
+62668,499,Going to disk
+62668,499,Arrived at disk 2
+62753,500,Job arrived at CPU.
+62753,500,Job started at CPU.
+62764,500,Job finished at CPU.
+62764,500,Going to disk
+62764,500,Arrived at disk 1
+62880,501,Job arrived at CPU.
+62880,501,Job started at CPU.
+62891,501,Job finished at CPU.
+62891,501,Going to disk
+62891,501,Arrived at disk 2
+63002,502,Job arrived at CPU.
+63002,502,Job started at CPU.
+63014,502,Job finished at CPU.
+63014,502,Going to disk
+63014,502,Arrived at disk 1
+63133,158,Job finished at disk 2.
+63133,158,Returning to CPU
+63133,160,Job started at disk 2.
+63133,158,Job arrived at CPU.
+63133,158,Job started at CPU.
+63138,174,Job finished at disk 1.
+63138,174,Returning to CPU
+63138,178,Job started at disk 1.
+63138,174,Job arrived at CPU.
+63143,158,Job finished at CPU.
+63143,158,Going to disk
+63143,174,Job started at CPU.
+63143,158,Arrived at disk 2
+63149,503,Job arrived at CPU.
+63153,174,Job finished at CPU.
+63153,174,Going to disk
+63153,503,Job started at CPU.
+63153,174,Arrived at disk 1
+63164,503,Job finished at CPU.
+63164,503,Going to disk
+63164,503,Arrived at disk 2
+63265,504,Job arrived at CPU.
+63265,504,Job started at CPU.
+63275,504,Job finished at CPU.
+63275,504,Job complete.
+63388,505,Job arrived at CPU.
+63388,505,Job started at CPU.
+63398,505,Job finished at CPU.
+63398,505,Going to disk
+63398,505,Arrived at disk 1
+63509,506,Job arrived at CPU.
+63509,506,Job started at CPU.
+63521,506,Job finished at CPU.
+63521,506,Going to disk
+63521,506,Arrived at disk 2
+63647,507,Job arrived at CPU.
+63647,507,Job started at CPU.
+63661,507,Job finished at CPU.
+63661,507,Going to disk
+63661,507,Arrived at disk 1
+63703,178,Job finished at disk 1.
+63703,178,Returning to CPU
+63703,60,Job started at disk 1.
+63703,178,Job arrived at CPU.
+63703,178,Job started at CPU.
+63718,178,Job finished at CPU.
+63718,178,Going to disk
+63718,178,Arrived at disk 1
+63756,508,Job arrived at CPU.
+63756,508,Job started at CPU.
+63770,508,Job finished at CPU.
+63770,508,Job complete.
+63775,160,Job finished at disk 2.
+63775,160,Returning to CPU
+63775,163,Job started at disk 2.
+63775,160,Job arrived at CPU.
+63775,160,Job started at CPU.
+63787,160,Job finished at CPU.
+63787,160,Going to disk
+63787,160,Arrived at disk 2
+63860,509,Job arrived at CPU.
+63860,509,Job started at CPU.
+63875,509,Job finished at CPU.
+63875,509,Job complete.
+63982,510,Job arrived at CPU.
+63982,510,Job started at CPU.
+63995,510,Job finished at CPU.
+63995,510,Going to disk
+63995,510,Arrived at disk 2
+64130,511,Job arrived at CPU.
+64130,511,Job started at CPU.
+64140,511,Job finished at CPU.
+64140,511,Going to disk
+64140,511,Arrived at disk 1
+64239,512,Job arrived at CPU.
+64239,512,Job started at CPU.
+64249,512,Job finished at CPU.
+64249,512,Going to disk
+64249,512,Arrived at disk 2
+64344,513,Job arrived at CPU.
+64344,513,Job started at CPU.
+64354,513,Job finished at CPU.
+64354,513,Going to disk
+64354,513,Arrived at disk 1
+64457,60,Job finished at disk 1.
+64457,60,Returning to CPU
+64457,181,Job started at disk 1.
+64457,60,Job arrived at CPU.
+64457,60,Job started at CPU.
+64467,60,Job finished at CPU.
+64467,60,Job complete.
+64483,514,Job arrived at CPU.
+64483,514,Job started at CPU.
+64497,514,Job finished at CPU.
+64497,514,Going to disk
+64497,514,Arrived at disk 1
+64566,163,Job finished at disk 2.
+64566,163,Returning to CPU
+64566,17,Job started at disk 2.
+64566,163,Job arrived at CPU.
+64566,163,Job started at CPU.
+64579,163,Job finished at CPU.
+64579,163,Going to disk
+64579,163,Arrived at disk 2
+64611,515,Job arrived at CPU.
+64611,515,Job started at CPU.
+64626,515,Job finished at CPU.
+64626,515,Going to disk
+64626,515,Arrived at disk 2
+64730,516,Job arrived at CPU.
+64730,516,Job started at CPU.
+64744,516,Job finished at CPU.
+64744,516,Going to disk
+64744,516,Arrived at disk 1
+64841,517,Job arrived at CPU.
+64841,517,Job started at CPU.
+64852,517,Job finished at CPU.
+64852,517,Going to disk
+64852,517,Arrived at disk 2
+64955,518,Job arrived at CPU.
+64955,518,Job started at CPU.
+64969,518,Job finished at CPU.
+64969,518,Going to disk
+64969,518,Arrived at disk 1
+65077,519,Job arrived at CPU.
+65077,519,Job started at CPU.
+65090,519,Job finished at CPU.
+65090,519,Job complete.
+65182,520,Job arrived at CPU.
+65182,520,Job started at CPU.
+65190,181,Job finished at disk 1.
+65190,181,Returning to CPU
+65190,62,Job started at disk 1.
+65190,181,Job arrived at CPU.
+65196,520,Job finished at CPU.
+65196,520,Job complete.
+65196,181,Job started at CPU.
+65211,181,Job finished at CPU.
+65211,181,Going to disk
+65211,181,Arrived at disk 1
+65327,521,Job arrived at CPU.
+65327,521,Job started at CPU.
+65338,521,Job finished at CPU.
+65338,521,Going to disk
+65338,521,Arrived at disk 2
+65440,17,Job finished at disk 2.
+65440,17,Returning to CPU
+65440,166,Job started at disk 2.
+65440,17,Job arrived at CPU.
+65440,17,Job started at CPU.
+65450,17,Job finished at CPU.
+65450,17,Going to disk
+65450,17,Arrived at disk 2
+65458,522,Job arrived at CPU.
+65458,522,Job started at CPU.
+65469,522,Job finished at CPU.
+65469,522,Going to disk
+65469,522,Arrived at disk 1
+65590,523,Job arrived at CPU.
+65590,523,Job started at CPU.
+65603,523,Job finished at CPU.
+65603,523,Going to disk
+65603,523,Arrived at disk 2
+65732,524,Job arrived at CPU.
+65732,524,Job started at CPU.
+65747,524,Job finished at CPU.
+65747,524,Going to disk
+65747,524,Arrived at disk 1
+65843,525,Job arrived at CPU.
+65843,525,Job started at CPU.
+65856,525,Job finished at CPU.
+65856,525,Going to disk
+65856,525,Arrived at disk 2
+65949,62,Job finished at disk 1.
+65949,62,Returning to CPU
+65949,185,Job started at disk 1.
+65949,62,Job arrived at CPU.
+65949,62,Job started at CPU.
+65962,62,Job finished at CPU.
+65962,62,Going to disk
+65962,62,Arrived at disk 1
+65988,526,Job arrived at CPU.
+65988,526,Job started at CPU.
+65999,526,Job finished at CPU.
+65999,526,Going to disk
+65999,526,Arrived at disk 1
+66103,166,Job finished at disk 2.
+66103,166,Returning to CPU
+66103,169,Job started at disk 2.
+66103,166,Job arrived at CPU.
+66103,166,Job started at CPU.
+66114,527,Job arrived at CPU.
+66117,166,Job finished at CPU.
+66117,166,Going to disk
+66117,527,Job started at CPU.
+66117,166,Arrived at disk 2
+66128,527,Job finished at CPU.
+66128,527,Going to disk
+66128,527,Arrived at disk 2
+66227,528,Job arrived at CPU.
+66227,528,Job started at CPU.
+66238,528,Job finished at CPU.
+66238,528,Going to disk
+66238,528,Arrived at disk 1
+66355,529,Job arrived at CPU.
+66355,529,Job started at CPU.
+66368,529,Job finished at CPU.
+66368,529,Going to disk
+66368,529,Arrived at disk 2
+66460,185,Job finished at disk 1.
+66460,185,Returning to CPU
+66460,187,Job started at disk 1.
+66460,185,Job arrived at CPU.
+66460,185,Job started at CPU.
+66475,185,Job finished at CPU.
+66475,185,Going to disk
+66475,185,Arrived at disk 1
+66497,530,Job arrived at CPU.
+66497,530,Job started at CPU.
+66510,530,Job finished at CPU.
+66510,530,Going to disk
+66510,530,Arrived at disk 1
+66621,531,Job arrived at CPU.
+66621,531,Job started at CPU.
+66633,531,Job finished at CPU.
+66633,531,Going to disk
+66633,531,Arrived at disk 2
+66722,532,Job arrived at CPU.
+66722,532,Job started at CPU.
+66736,532,Job finished at CPU.
+66736,532,Going to disk
+66736,532,Arrived at disk 1
+66825,533,Job arrived at CPU.
+66825,533,Job started at CPU.
+66838,533,Job finished at CPU.
+66838,533,Going to disk
+66838,533,Arrived at disk 2
+66938,169,Job finished at disk 2.
+66938,169,Returning to CPU
+66938,53,Job started at disk 2.
+66938,169,Job arrived at CPU.
+66938,169,Job started at CPU.
+66948,169,Job finished at CPU.
+66948,169,Job complete.
+66960,534,Job arrived at CPU.
+66960,534,Job started at CPU.
+66972,534,Job finished at CPU.
+66972,534,Going to disk
+66972,534,Arrived at disk 2
+67011,187,Job finished at disk 1.
+67011,187,Returning to CPU
+67011,189,Job started at disk 1.
+67011,187,Job arrived at CPU.
+67011,187,Job started at CPU.
+67024,187,Job finished at CPU.
+67024,187,Job complete.
+67062,535,Job arrived at CPU.
+67062,535,Job started at CPU.
+67073,535,Job finished at CPU.
+67073,535,Going to disk
+67073,535,Arrived at disk 1
+67180,536,Job arrived at CPU.
+67180,536,Job started at CPU.
+67195,536,Job finished at CPU.
+67195,536,Going to disk
+67195,536,Arrived at disk 1
+67304,537,Job arrived at CPU.
+67304,537,Job started at CPU.
+67315,537,Job finished at CPU.
+67315,537,Going to disk
+67315,537,Arrived at disk 2
+67422,538,Job arrived at CPU.
+67422,538,Job started at CPU.
+67434,538,Job finished at CPU.
+67434,538,Job complete.
+67564,539,Job arrived at CPU.
+67564,539,Job started at CPU.
+67566,189,Job finished at disk 1.
+67566,189,Returning to CPU
+67566,22,Job started at disk 1.
+67566,189,Job arrived at CPU.
+67577,539,Job finished at CPU.
+67577,539,Going to disk
+67577,189,Job started at CPU.
+67577,539,Arrived at disk 1
+67590,189,Job finished at CPU.
+67590,189,Going to disk
+67590,189,Arrived at disk 1
+67665,53,Job finished at disk 2.
+67665,53,Returning to CPU
+67665,172,Job started at disk 2.
+67665,53,Job arrived at CPU.
+67665,53,Job started at CPU.
+67675,53,Job finished at CPU.
+67675,53,Job complete.
+67703,540,Job arrived at CPU.
+67703,540,Job started at CPU.
+67715,540,Job finished at CPU.
+67715,540,Going to disk
+67715,540,Arrived at disk 2
+67847,541,Job arrived at CPU.
+67847,541,Job started at CPU.
+67857,541,Job finished at CPU.
+67857,541,Going to disk
+67857,541,Arrived at disk 2
+67954,542,Job arrived at CPU.
+67954,542,Job started at CPU.
+67965,542,Job finished at CPU.
+67965,542,Going to disk
+67965,542,Arrived at disk 1
+68099,543,Job arrived at CPU.
+68099,543,Job started at CPU.
+68110,543,Job finished at CPU.
+68110,543,Going to disk
+68110,543,Arrived at disk 2
+68167,22,Job finished at disk 1.
+68167,22,Returning to CPU
+68167,191,Job started at disk 1.
+68167,22,Job arrived at CPU.
+68167,22,Job started at CPU.
+68178,22,Job finished at CPU.
+68178,22,Going to disk
+68178,22,Arrived at disk 1
+68231,544,Job arrived at CPU.
+68231,544,Job started at CPU.
+68244,544,Job finished at CPU.
+68244,544,Going to disk
+68244,544,Arrived at disk 1
+68268,172,Job finished at disk 2.
+68268,172,Returning to CPU
+68268,175,Job started at disk 2.
+68268,172,Job arrived at CPU.
+68268,172,Job started at CPU.
+68282,172,Job finished at CPU.
+68282,172,Going to disk
+68282,172,Arrived at disk 2
+68356,545,Job arrived at CPU.
+68356,545,Job started at CPU.
+68367,545,Job finished at CPU.
+68367,545,Going to disk
+68367,545,Arrived at disk 2
+68474,546,Job arrived at CPU.
+68474,546,Job started at CPU.
+68485,546,Job finished at CPU.
+68485,546,Going to disk
+68485,546,Arrived at disk 1
+68609,547,Job arrived at CPU.
+68609,547,Job started at CPU.
+68621,547,Job finished at CPU.
+68621,547,Going to disk
+68621,547,Arrived at disk 2
+68749,548,Job arrived at CPU.
+68749,548,Job started at CPU.
+68760,548,Job finished at CPU.
+68760,548,Going to disk
+68760,548,Arrived at disk 1
+68869,175,Job finished at disk 2.
+68869,175,Returning to CPU
+68869,56,Job started at disk 2.
+68869,175,Job arrived at CPU.
+68869,175,Job started at CPU.
+68884,175,Job finished at CPU.
+68884,175,Going to disk
+68884,175,Arrived at disk 2
+68893,549,Job arrived at CPU.
+68893,549,Job started at CPU.
+68908,549,Job finished at CPU.
+68908,549,Going to disk
+68908,549,Arrived at disk 2
+68966,191,Job finished at disk 1.
+68966,191,Returning to CPU
+68966,193,Job started at disk 1.
+68966,191,Job arrived at CPU.
+68966,191,Job started at CPU.
+68981,191,Job finished at CPU.
+68981,191,Going to disk
+68981,191,Arrived at disk 1
+69001,550,Job arrived at CPU.
+69001,550,Job started at CPU.
+69015,550,Job finished at CPU.
+69015,550,Job complete.
+69117,551,Job arrived at CPU.
+69117,551,Job started at CPU.
+69131,551,Job finished at CPU.
+69131,551,Going to disk
+69131,551,Arrived at disk 1
+69222,552,Job arrived at CPU.
+69222,552,Job started at CPU.
+69233,552,Job finished at CPU.
+69233,552,Going to disk
+69233,552,Arrived at disk 2
+69362,553,Job arrived at CPU.
+69362,553,Job started at CPU.
+69375,553,Job finished at CPU.
+69375,553,Going to disk
+69375,553,Arrived at disk 1
+69505,554,Job arrived at CPU.
+69505,554,Job started at CPU.
+69516,554,Job finished at CPU.
+69516,554,Going to disk
+69516,554,Arrived at disk 2
+69524,56,Job finished at disk 2.
+69524,56,Returning to CPU
+69524,179,Job started at disk 2.
+69524,56,Job arrived at CPU.
+69524,56,Job started at CPU.
+69539,56,Job finished at CPU.
+69539,56,Going to disk
+69539,56,Arrived at disk 2
+69648,193,Job finished at disk 1.
+69648,193,Returning to CPU
+69648,196,Job started at disk 1.
+69648,193,Job arrived at CPU.
+69648,193,Job started at CPU.
+69650,555,Job arrived at CPU.
+69659,193,Job finished at CPU.
+69659,193,Going to disk
+69659,555,Job started at CPU.
+69659,193,Arrived at disk 1
+69669,555,Job finished at CPU.
+69669,555,Going to disk
+69669,555,Arrived at disk 1
+69791,556,Job arrived at CPU.
+69791,556,Job started at CPU.
+69801,556,Job finished at CPU.
+69801,556,Going to disk
+69801,556,Arrived at disk 2
+69929,557,Job arrived at CPU.
+69929,557,Job started at CPU.
+69944,557,Job finished at CPU.
+69944,557,Going to disk
+69944,557,Arrived at disk 1
+70056,558,Job arrived at CPU.
+70056,558,Job started at CPU.
+70067,558,Job finished at CPU.
+70067,558,Going to disk
+70067,558,Arrived at disk 2
+70170,196,Job finished at disk 1.
+70170,196,Returning to CPU
+70170,197,Job started at disk 1.
+70170,196,Job arrived at CPU.
+70170,196,Job started at CPU.
+70176,559,Job arrived at CPU.
+70185,196,Job finished at CPU.
+70185,196,Job complete.
+70185,559,Job started at CPU.
+70197,559,Job finished at CPU.
+70197,559,Going to disk
+70197,559,Arrived at disk 1
+70259,179,Job finished at disk 2.
+70259,179,Returning to CPU
+70259,57,Job started at disk 2.
+70259,179,Job arrived at CPU.
+70259,179,Job started at CPU.
+70274,179,Job finished at CPU.
+70274,179,Going to disk
+70274,179,Arrived at disk 2
+70297,560,Job arrived at CPU.
+70297,560,Job started at CPU.
+70308,560,Job finished at CPU.
+70308,560,Going to disk
+70308,560,Arrived at disk 1
+70404,561,Job arrived at CPU.
+70404,561,Job started at CPU.
+70419,561,Job finished at CPU.
+70419,561,Going to disk
+70419,561,Arrived at disk 2
+70539,562,Job arrived at CPU.
+70539,562,Job started at CPU.
+70549,562,Job finished at CPU.
+70549,562,Going to disk
+70549,562,Arrived at disk 1
+70667,563,Job arrived at CPU.
+70667,563,Job started at CPU.
+70679,563,Job finished at CPU.
+70679,563,Going to disk
+70679,563,Arrived at disk 2
+70805,564,Job arrived at CPU.
+70805,564,Job started at CPU.
+70820,564,Job finished at CPU.
+70820,564,Going to disk
+70820,564,Arrived at disk 1
+70928,197,Job finished at disk 1.
+70928,197,Returning to CPU
+70928,199,Job started at disk 1.
+70928,197,Job arrived at CPU.
+70928,197,Job started at CPU.
+70942,197,Job finished at CPU.
+70942,197,Going to disk
+70942,197,Arrived at disk 1
+70955,565,Job arrived at CPU.
+70955,565,Job started at CPU.
+70967,565,Job finished at CPU.
+70967,565,Going to disk
+70967,565,Arrived at disk 2
+71048,57,Job finished at disk 2.
+71048,57,Returning to CPU
+71048,182,Job started at disk 2.
+71048,57,Job arrived at CPU.
+71048,57,Job started at CPU.
+71058,57,Job finished at CPU.
+71058,57,Going to disk
+71058,57,Arrived at disk 2
+71101,566,Job arrived at CPU.
+71101,566,Job started at CPU.
+71116,566,Job finished at CPU.
+71116,566,Going to disk
+71116,566,Arrived at disk 1
+71231,567,Job arrived at CPU.
+71231,567,Job started at CPU.
+71245,567,Job finished at CPU.
+71245,567,Going to disk
+71245,567,Arrived at disk 2
+71333,568,Job arrived at CPU.
+71333,568,Job started at CPU.
+71347,568,Job finished at CPU.
+71347,568,Going to disk
+71347,568,Arrived at disk 1
+71464,569,Job arrived at CPU.
+71464,569,Job started at CPU.
+71474,569,Job finished at CPU.
+71474,569,Going to disk
+71474,569,Arrived at disk 2
+71585,570,Job arrived at CPU.
+71585,570,Job started at CPU.
+71600,570,Job finished at CPU.
+71600,570,Going to disk
+71600,570,Arrived at disk 1
+71666,199,Job finished at disk 1.
+71666,199,Returning to CPU
+71666,67,Job started at disk 1.
+71666,199,Job arrived at CPU.
+71666,199,Job started at CPU.
+71677,199,Job finished at CPU.
+71677,199,Going to disk
+71677,199,Arrived at disk 1
+71734,571,Job arrived at CPU.
+71734,571,Job started at CPU.
+71747,571,Job finished at CPU.
+71747,571,Going to disk
+71747,571,Arrived at disk 2
+71840,182,Job finished at disk 2.
+71840,182,Returning to CPU
+71840,186,Job started at disk 2.
+71840,182,Job arrived at CPU.
+71840,182,Job started at CPU.
+71850,182,Job finished at CPU.
+71850,182,Going to disk
+71850,182,Arrived at disk 2
+71860,572,Job arrived at CPU.
+71860,572,Job started at CPU.
+71870,572,Job finished at CPU.
+71870,572,Going to disk
+71870,572,Arrived at disk 1
+71967,573,Job arrived at CPU.
+71967,573,Job started at CPU.
+71980,573,Job finished at CPU.
+71980,573,Going to disk
+71980,573,Arrived at disk 2
+72117,574,Job arrived at CPU.
+72117,574,Job started at CPU.
+72128,574,Job finished at CPU.
+72128,574,Going to disk
+72128,574,Arrived at disk 1
+72181,67,Job finished at disk 1.
+72181,67,Returning to CPU
+72181,203,Job started at disk 1.
+72181,67,Job arrived at CPU.
+72181,67,Job started at CPU.
+72192,67,Job finished at CPU.
+72192,67,Going to disk
+72192,67,Arrived at disk 1
+72222,575,Job arrived at CPU.
+72222,575,Job started at CPU.
+72236,575,Job finished at CPU.
+72236,575,Going to disk
+72236,575,Arrived at disk 2
+72338,576,Job arrived at CPU.
+72338,576,Job started at CPU.
+72353,576,Job finished at CPU.
+72353,576,Job complete.
+72454,577,Job arrived at CPU.
+72454,577,Job started at CPU.
+72465,577,Job finished at CPU.
+72465,577,Going to disk
+72465,577,Arrived at disk 1
+72568,578,Job arrived at CPU.
+72568,578,Job started at CPU.
+72582,578,Job finished at CPU.
+72582,578,Going to disk
+72582,578,Arrived at disk 2
+72607,186,Job finished at disk 2.
+72607,186,Returning to CPU
+72607,59,Job started at disk 2.
+72607,186,Job arrived at CPU.
+72607,186,Job started at CPU.
+72617,186,Job finished at CPU.
+72617,186,Going to disk
+72617,186,Arrived at disk 2
+72706,579,Job arrived at CPU.
+72706,579,Job started at CPU.
+72721,579,Job finished at CPU.
+72721,579,Going to disk
+72721,579,Arrived at disk 1
+72795,203,Job finished at disk 1.
+72795,203,Returning to CPU
+72795,207,Job started at disk 1.
+72795,203,Job arrived at CPU.
+72795,203,Job started at CPU.
+72809,203,Job finished at CPU.
+72809,203,Going to disk
+72809,203,Arrived at disk 1
+72829,580,Job arrived at CPU.
+72829,580,Job started at CPU.
+72843,580,Job finished at CPU.
+72843,580,Going to disk
+72843,580,Arrived at disk 2
+72978,581,Job arrived at CPU.
+72978,581,Job started at CPU.
+72989,581,Job finished at CPU.
+72989,581,Going to disk
+72989,581,Arrived at disk 1
+73121,582,Job arrived at CPU.
+73121,582,Job started at CPU.
+73135,582,Job finished at CPU.
+73135,582,Going to disk
+73135,582,Arrived at disk 2
+73260,583,Job arrived at CPU.
+73260,583,Job started at CPU.
+73269,59,Job finished at disk 2.
+73269,59,Returning to CPU
+73269,188,Job started at disk 2.
+73269,59,Job arrived at CPU.
+73271,583,Job finished at CPU.
+73271,583,Going to disk
+73271,59,Job started at CPU.
+73271,583,Arrived at disk 2
+73285,59,Job finished at CPU.
+73285,59,Going to disk
+73285,59,Arrived at disk 1
+73371,584,Job arrived at CPU.
+73371,584,Job started at CPU.
+73383,584,Job finished at CPU.
+73383,584,Going to disk
+73383,584,Arrived at disk 2
+73442,207,Job finished at disk 1.
+73442,207,Returning to CPU
+73442,208,Job started at disk 1.
+73442,207,Job arrived at CPU.
+73442,207,Job started at CPU.
+73452,207,Job finished at CPU.
+73452,207,Going to disk
+73452,207,Arrived at disk 1
+73491,585,Job arrived at CPU.
+73491,585,Job started at CPU.
+73505,585,Job finished at CPU.
+73505,585,Going to disk
+73505,585,Arrived at disk 1
+73637,586,Job arrived at CPU.
+73637,586,Job started at CPU.
+73649,586,Job finished at CPU.
+73649,586,Going to disk
+73649,586,Arrived at disk 2
+73772,587,Job arrived at CPU.
+73772,587,Job started at CPU.
+73783,587,Job finished at CPU.
+73783,587,Going to disk
+73783,587,Arrived at disk 1
+73897,588,Job arrived at CPU.
+73897,588,Job started at CPU.
+73911,588,Job finished at CPU.
+73911,588,Job complete.
+74011,188,Job finished at disk 2.
+74011,188,Returning to CPU
+74011,190,Job started at disk 2.
+74011,188,Job arrived at CPU.
+74011,188,Job started at CPU.
+74016,589,Job arrived at CPU.
+74023,188,Job finished at CPU.
+74023,188,Going to disk
+74023,589,Job started at CPU.
+74023,188,Arrived at disk 2
+74036,589,Job finished at CPU.
+74036,589,Going to disk
+74036,589,Arrived at disk 2
+74102,208,Job finished at disk 1.
+74102,208,Returning to CPU
+74102,210,Job started at disk 1.
+74102,208,Job arrived at CPU.
+74102,208,Job started at CPU.
+74113,208,Job finished at CPU.
+74113,208,Going to disk
+74113,208,Arrived at disk 1
+74145,590,Job arrived at CPU.
+74145,590,Job started at CPU.
+74159,590,Job finished at CPU.
+74159,590,Going to disk
+74159,590,Arrived at disk 1
+74288,591,Job arrived at CPU.
+74288,591,Job started at CPU.
+74298,591,Job finished at CPU.
+74298,591,Job complete.
+74426,592,Job arrived at CPU.
+74426,592,Job started at CPU.
+74437,592,Job finished at CPU.
+74437,592,Going to disk
+74437,592,Arrived at disk 2
+74526,593,Job arrived at CPU.
+74526,593,Job started at CPU.
+74541,593,Job finished at CPU.
+74541,593,Going to disk
+74541,593,Arrived at disk 1
+74639,594,Job arrived at CPU.
+74639,594,Job started at CPU.
+74644,190,Job finished at disk 2.
+74644,190,Returning to CPU
+74644,192,Job started at disk 2.
+74644,190,Job arrived at CPU.
+74653,594,Job finished at CPU.
+74653,594,Going to disk
+74653,190,Job started at CPU.
+74653,594,Arrived at disk 2
+74666,190,Job finished at CPU.
+74666,190,Going to disk
+74666,190,Arrived at disk 2
+74737,210,Job finished at disk 1.
+74737,210,Returning to CPU
+74737,69,Job started at disk 1.
+74737,210,Job arrived at CPU.
+74737,210,Job started at CPU.
+74752,210,Job finished at CPU.
+74752,210,Job complete.
+74768,595,Job arrived at CPU.
+74768,595,Job started at CPU.
+74781,595,Job finished at CPU.
+74781,595,Going to disk
+74781,595,Arrived at disk 1
+74882,596,Job arrived at CPU.
+74882,596,Job started at CPU.
+74897,596,Job finished at CPU.
+74897,596,Going to disk
+74897,596,Arrived at disk 1
+75009,597,Job arrived at CPU.
+75009,597,Job started at CPU.
+75023,597,Job finished at CPU.
+75023,597,Going to disk
+75023,597,Arrived at disk 2
+75158,598,Job arrived at CPU.
+75158,598,Job started at CPU.
+75172,598,Job finished at CPU.
+75172,598,Going to disk
+75172,598,Arrived at disk 1
+75242,69,Job finished at disk 1.
+75242,69,Returning to CPU
+75242,212,Job started at disk 1.
+75242,69,Job arrived at CPU.
+75242,69,Job started at CPU.
+75255,69,Job finished at CPU.
+75255,69,Going to disk
+75255,69,Arrived at disk 1
+75288,599,Job arrived at CPU.
+75288,599,Job started at CPU.
+75298,599,Job finished at CPU.
+75298,599,Going to disk
+75298,599,Arrived at disk 2
+75315,192,Job finished at disk 2.
+75315,192,Returning to CPU
+75315,61,Job started at disk 2.
+75315,192,Job arrived at CPU.
+75315,192,Job started at CPU.
+75329,192,Job finished at CPU.
+75329,192,Going to disk
+75329,192,Arrived at disk 2
+75395,600,Job arrived at CPU.
+75395,600,Job started at CPU.
+75408,600,Job finished at CPU.
+75408,600,Going to disk
+75408,600,Arrived at disk 1
+75526,601,Job arrived at CPU.
+75526,601,Job started at CPU.
+75538,601,Job finished at CPU.
+75538,601,Going to disk
+75538,601,Arrived at disk 2
+75653,602,Job arrived at CPU.
+75653,602,Job started at CPU.
+75663,602,Job finished at CPU.
+75663,602,Job complete.
+75765,603,Job arrived at CPU.
+75765,603,Job started at CPU.
+75780,603,Job finished at CPU.
+75780,603,Going to disk
+75780,603,Arrived at disk 1
+75894,604,Job arrived at CPU.
+75894,604,Job started at CPU.
+75904,604,Job finished at CPU.
+75904,604,Going to disk
+75904,604,Arrived at disk 2
+75955,212,Job finished at disk 1.
+75955,212,Returning to CPU
+75955,214,Job started at disk 1.
+75955,212,Job arrived at CPU.
+75955,212,Job started at CPU.
+75965,212,Job finished at CPU.
+75965,212,Job complete.
+76007,605,Job arrived at CPU.
+76007,605,Job started at CPU.
+76017,605,Job finished at CPU.
+76017,605,Job complete.
+76029,61,Job finished at disk 2.
+76029,61,Returning to CPU
+76029,194,Job started at disk 2.
+76029,61,Job arrived at CPU.
+76029,61,Job started at CPU.
+76043,61,Job finished at CPU.
+76043,61,Going to disk
+76043,61,Arrived at disk 1
+76129,606,Job arrived at CPU.
+76129,606,Job started at CPU.
+76139,606,Job finished at CPU.
+76139,606,Going to disk
+76139,606,Arrived at disk 2
+76262,607,Job arrived at CPU.
+76262,607,Job started at CPU.
+76276,607,Job finished at CPU.
+76276,607,Going to disk
+76276,607,Arrived at disk 1
+76382,608,Job arrived at CPU.
+76382,608,Job started at CPU.
+76393,608,Job finished at CPU.
+76393,608,Going to disk
+76393,608,Arrived at disk 2
+76494,609,Job arrived at CPU.
+76494,609,Job started at CPU.
+76509,609,Job finished at CPU.
+76509,609,Going to disk
+76509,609,Arrived at disk 1
+76555,214,Job finished at disk 1.
+76555,214,Returning to CPU
+76555,216,Job started at disk 1.
+76555,214,Job arrived at CPU.
+76555,214,Job started at CPU.
+76567,214,Job finished at CPU.
+76567,214,Going to disk
+76567,214,Arrived at disk 1
+76600,610,Job arrived at CPU.
+76600,610,Job started at CPU.
+76614,610,Job finished at CPU.
+76614,610,Going to disk
+76614,610,Arrived at disk 2
+76672,194,Job finished at disk 2.
+76672,194,Returning to CPU
+76672,198,Job started at disk 2.
+76672,194,Job arrived at CPU.
+76672,194,Job started at CPU.
+76682,194,Job finished at CPU.
+76682,194,Going to disk
+76682,194,Arrived at disk 2
+76717,611,Job arrived at CPU.
+76717,611,Job started at CPU.
+76727,611,Job finished at CPU.
+76727,611,Going to disk
+76727,611,Arrived at disk 1
+76825,612,Job arrived at CPU.
+76825,612,Job started at CPU.
+76835,612,Job finished at CPU.
+76835,612,Going to disk
+76835,612,Arrived at disk 2
+76933,613,Job arrived at CPU.
+76933,613,Job started at CPU.
+76943,613,Job finished at CPU.
+76943,613,Going to disk
+76943,613,Arrived at disk 1
+77036,614,Job arrived at CPU.
+77036,614,Job started at CPU.
+77048,614,Job finished at CPU.
+77048,614,Going to disk
+77048,614,Arrived at disk 2
+77183,216,Job finished at disk 1.
+77183,216,Returning to CPU
+77183,71,Job started at disk 1.
+77183,216,Job arrived at CPU.
+77183,216,Job started at CPU.
+77184,615,Job arrived at CPU.
+77193,216,Job finished at CPU.
+77193,216,Going to disk
+77193,615,Job started at CPU.
+77193,216,Arrived at disk 1
+77203,615,Job finished at CPU.
+77203,615,Job complete.
+77323,616,Job arrived at CPU.
+77323,616,Job started at CPU.
+77325,198,Job finished at disk 2.
+77325,198,Returning to CPU
+77325,63,Job started at disk 2.
+77325,198,Job arrived at CPU.
+77336,616,Job finished at CPU.
+77336,616,Going to disk
+77336,198,Job started at CPU.
+77336,616,Arrived at disk 2
+77348,198,Job finished at CPU.
+77348,198,Going to disk
+77348,198,Arrived at disk 1
+77434,617,Job arrived at CPU.
+77434,617,Job started at CPU.
+77447,617,Job finished at CPU.
+77447,617,Going to disk
+77447,617,Arrived at disk 2
+77537,618,Job arrived at CPU.
+77537,618,Job started at CPU.
+77548,618,Job finished at CPU.
+77548,618,Job complete.
+77643,619,Job arrived at CPU.
+77643,619,Job started at CPU.
+77656,619,Job finished at CPU.
+77656,619,Going to disk
+77656,619,Arrived at disk 1
+77699,71,Job finished at disk 1.
+77699,71,Returning to CPU
+77699,220,Job started at disk 1.
+77699,71,Job arrived at CPU.
+77699,71,Job started at CPU.
+77714,71,Job finished at CPU.
+77714,71,Going to disk
+77714,71,Arrived at disk 1
+77761,620,Job arrived at CPU.
+77761,620,Job started at CPU.
+77771,620,Job finished at CPU.
+77771,620,Going to disk
+77771,620,Arrived at disk 2
+77891,621,Job arrived at CPU.
+77891,621,Job started at CPU.
+77904,621,Job finished at CPU.
+77904,621,Going to disk
+77904,621,Arrived at disk 1
+78021,622,Job arrived at CPU.
+78021,622,Job started at CPU.
+78036,622,Job finished at CPU.
+78036,622,Going to disk
+78036,622,Arrived at disk 2
+78126,63,Job finished at disk 2.
+78126,63,Returning to CPU
+78126,201,Job started at disk 2.
+78126,63,Job arrived at CPU.
+78126,63,Job started at CPU.
+78137,623,Job arrived at CPU.
+78137,63,Job finished at CPU.
+78137,63,Going to disk
+78137,623,Job started at CPU.
+78137,63,Arrived at disk 2
+78150,623,Job finished at CPU.
+78150,623,Going to disk
+78150,623,Arrived at disk 1
+78274,624,Job arrived at CPU.
+78274,624,Job started at CPU.
+78289,624,Job finished at CPU.
+78289,624,Going to disk
+78289,624,Arrived at disk 2
+78398,625,Job arrived at CPU.
+78398,625,Job started at CPU.
+78409,625,Job finished at CPU.
+78409,625,Going to disk
+78409,625,Arrived at disk 1
+78480,220,Job finished at disk 1.
+78480,220,Returning to CPU
+78480,73,Job started at disk 1.
+78480,220,Job arrived at CPU.
+78480,220,Job started at CPU.
+78495,220,Job finished at CPU.
+78495,220,Going to disk
+78495,220,Arrived at disk 1
+78498,626,Job arrived at CPU.
+78498,626,Job started at CPU.
+78510,626,Job finished at CPU.
+78510,626,Going to disk
+78510,626,Arrived at disk 2
+78630,627,Job arrived at CPU.
+78630,627,Job started at CPU.
+78643,627,Job finished at CPU.
+78643,627,Going to disk
+78643,627,Arrived at disk 1
+78760,628,Job arrived at CPU.
+78760,628,Job started at CPU.
+78774,628,Job finished at CPU.
+78774,628,Going to disk
+78774,628,Arrived at disk 2
+78886,629,Job arrived at CPU.
+78886,629,Job started at CPU.
+78896,629,Job finished at CPU.
+78896,629,Going to disk
+78896,629,Arrived at disk 1
+78991,201,Job finished at disk 2.
+78991,201,Returning to CPU
+78991,204,Job started at disk 2.
+78991,201,Job arrived at CPU.
+78991,201,Job started at CPU.
+79003,201,Job finished at CPU.
+79003,201,Going to disk
+79003,201,Arrived at disk 2
+79026,630,Job arrived at CPU.
+79026,630,Job started at CPU.
+79037,630,Job finished at CPU.
+79037,630,Going to disk
+79037,630,Arrived at disk 2
+79175,631,Job arrived at CPU.
+79175,631,Job started at CPU.
+79189,631,Job finished at CPU.
+79189,631,Job complete.
+79247,73,Job finished at disk 1.
+79247,73,Returning to CPU
+79247,222,Job started at disk 1.
+79247,73,Job arrived at CPU.
+79247,73,Job started at CPU.
+79258,73,Job finished at CPU.
+79258,73,Going to disk
+79258,73,Arrived at disk 1
+79294,632,Job arrived at CPU.
+79294,632,Job started at CPU.
+79309,632,Job finished at CPU.
+79309,632,Going to disk
+79309,632,Arrived at disk 1
+79417,633,Job arrived at CPU.
+79417,633,Job started at CPU.
+79431,633,Job finished at CPU.
+79431,633,Going to disk
+79431,633,Arrived at disk 2
+79535,634,Job arrived at CPU.
+79535,634,Job started at CPU.
+79550,634,Job finished at CPU.
+79550,634,Going to disk
+79550,634,Arrived at disk 1
+79603,204,Job finished at disk 2.
+79603,204,Returning to CPU
+79603,206,Job started at disk 2.
+79603,204,Job arrived at CPU.
+79603,204,Job started at CPU.
+79614,204,Job finished at CPU.
+79614,204,Going to disk
+79614,204,Arrived at disk 2
+79667,635,Job arrived at CPU.
+79667,635,Job started at CPU.
+79681,635,Job finished at CPU.
+79681,635,Going to disk
+79681,635,Arrived at disk 2
+79800,636,Job arrived at CPU.
+79800,636,Job started at CPU.
+79811,636,Job finished at CPU.
+79811,636,Going to disk
+79811,636,Arrived at disk 1
+79839,222,Job finished at disk 1.
+79839,222,Returning to CPU
+79839,224,Job started at disk 1.
+79839,222,Job arrived at CPU.
+79839,222,Job started at CPU.
+79853,222,Job finished at CPU.
+79853,222,Job complete.
+79926,637,Job arrived at CPU.
+79926,637,Job started at CPU.
+79936,637,Job finished at CPU.
+79936,637,Going to disk
+79936,637,Arrived at disk 1
+80045,638,Job arrived at CPU.
+80045,638,Job started at CPU.
+80058,638,Job finished at CPU.
+80058,638,Going to disk
+80058,638,Arrived at disk 2
+80147,639,Job arrived at CPU.
+80147,639,Job started at CPU.
+80157,639,Job finished at CPU.
+80157,639,Going to disk
+80157,639,Arrived at disk 1
+80233,206,Job finished at disk 2.
+80233,206,Returning to CPU
+80233,209,Job started at disk 2.
+80233,206,Job arrived at CPU.
+80233,206,Job started at CPU.
+80243,206,Job finished at CPU.
+80243,206,Going to disk
+80243,206,Arrived at disk 2
+80264,640,Job arrived at CPU.
+80264,640,Job started at CPU.
+80277,640,Job finished at CPU.
+80277,640,Going to disk
+80277,640,Arrived at disk 2
+80401,641,Job arrived at CPU.
+80401,641,Job started at CPU.
+80412,641,Job finished at CPU.
+80412,641,Job complete.
+80520,642,Job arrived at CPU.
+80520,642,Job started at CPU.
+80533,642,Job finished at CPU.
+80533,642,Going to disk
+80533,642,Arrived at disk 1
+80620,224,Job finished at disk 1.
+80620,224,Returning to CPU
+80620,3,Job started at disk 1.
+80620,224,Job arrived at CPU.
+80620,224,Job started at CPU.
+80629,643,Job arrived at CPU.
+80630,224,Job finished at CPU.
+80630,224,Going to disk
+80630,643,Job started at CPU.
+80630,224,Arrived at disk 1
+80640,643,Job finished at CPU.
+80640,643,Going to disk
+80640,643,Arrived at disk 2
+80752,644,Job arrived at CPU.
+80752,644,Job started at CPU.
+80764,644,Job finished at CPU.
+80764,644,Job complete.
+80900,645,Job arrived at CPU.
+80900,645,Job started at CPU.
+80912,645,Job finished at CPU.
+80912,645,Job complete.
+80981,209,Job finished at disk 2.
+80981,209,Returning to CPU
+80981,66,Job started at disk 2.
+80981,209,Job arrived at CPU.
+80981,209,Job started at CPU.
+80992,209,Job finished at CPU.
+80992,209,Going to disk
+80992,209,Arrived at disk 2
+81008,646,Job arrived at CPU.
+81008,646,Job started at CPU.
+81020,646,Job finished at CPU.
+81020,646,Job complete.
+81154,647,Job arrived at CPU.
+81154,647,Job started at CPU.
+81169,647,Job finished at CPU.
+81169,647,Job complete.
+81267,3,Job finished at disk 1.
+81267,3,Returning to CPU
+81267,227,Job started at disk 1.
+81267,3,Job arrived at CPU.
+81267,3,Job started at CPU.
+81278,3,Job finished at CPU.
+81278,3,Going to disk
+81278,3,Arrived at disk 1
+81287,648,Job arrived at CPU.
+81287,648,Job started at CPU.
+81297,648,Job finished at CPU.
+81297,648,Going to disk
+81297,648,Arrived at disk 1
+81398,649,Job arrived at CPU.
+81398,649,Job started at CPU.
+81412,649,Job finished at CPU.
+81412,649,Going to disk
+81412,649,Arrived at disk 2
+81521,650,Job arrived at CPU.
+81521,650,Job started at CPU.
+81531,650,Job finished at CPU.
+81531,650,Going to disk
+81531,650,Arrived at disk 1
+81637,651,Job arrived at CPU.
+81637,651,Job started at CPU.
+81647,651,Job finished at CPU.
+81647,651,Going to disk
+81647,651,Arrived at disk 2
+81720,66,Job finished at disk 2.
+81720,66,Returning to CPU
+81720,211,Job started at disk 2.
+81720,66,Job arrived at CPU.
+81720,66,Job started at CPU.
+81733,66,Job finished at CPU.
+81733,66,Going to disk
+81733,66,Arrived at disk 2
+81738,652,Job arrived at CPU.
+81738,652,Job started at CPU.
+81750,652,Job finished at CPU.
+81750,652,Going to disk
+81750,652,Arrived at disk 1
+81841,653,Job arrived at CPU.
+81841,653,Job started at CPU.
+81855,653,Job finished at CPU.
+81855,653,Going to disk
+81855,653,Arrived at disk 2
+81976,654,Job arrived at CPU.
+81976,654,Job started at CPU.
+81984,227,Job finished at disk 1.
+81984,227,Returning to CPU
+81984,230,Job started at disk 1.
+81984,227,Job arrived at CPU.
+81987,654,Job finished at CPU.
+81987,654,Job complete.
+81987,227,Job started at CPU.
+82002,227,Job finished at CPU.
+82002,227,Going to disk
+82002,227,Arrived at disk 1
+82084,655,Job arrived at CPU.
+82084,655,Job started at CPU.
+82096,655,Job finished at CPU.
+82096,655,Going to disk
+82096,655,Arrived at disk 1
+82224,656,Job arrived at CPU.
+82224,656,Job started at CPU.
+82234,656,Job finished at CPU.
+82234,656,Going to disk
+82234,656,Arrived at disk 2
+82324,657,Job arrived at CPU.
+82324,657,Job started at CPU.
+82338,657,Job finished at CPU.
+82338,657,Going to disk
+82338,657,Arrived at disk 1
+82404,211,Job finished at disk 2.
+82404,211,Returning to CPU
+82404,213,Job started at disk 2.
+82404,211,Job arrived at CPU.
+82404,211,Job started at CPU.
+82414,211,Job finished at CPU.
+82414,211,Going to disk
+82414,211,Arrived at disk 2
+82429,658,Job arrived at CPU.
+82429,658,Job started at CPU.
+82444,658,Job finished at CPU.
+82444,658,Job complete.
+82572,659,Job arrived at CPU.
+82572,659,Job started at CPU.
+82582,659,Job finished at CPU.
+82582,659,Going to disk
+82582,659,Arrived at disk 2
+82607,230,Job finished at disk 1.
+82607,230,Returning to CPU
+82607,76,Job started at disk 1.
+82607,230,Job arrived at CPU.
+82607,230,Job started at CPU.
+82617,230,Job finished at CPU.
+82617,230,Going to disk
+82617,230,Arrived at disk 1
+82720,660,Job arrived at CPU.
+82720,660,Job started at CPU.
+82732,660,Job finished at CPU.
+82732,660,Job complete.
+82822,661,Job arrived at CPU.
+82822,661,Job started at CPU.
+82835,661,Job finished at CPU.
+82835,661,Going to disk
+82835,661,Arrived at disk 1
+82949,662,Job arrived at CPU.
+82949,662,Job started at CPU.
+82961,662,Job finished at CPU.
+82961,662,Going to disk
+82961,662,Arrived at disk 2
+83093,663,Job arrived at CPU.
+83093,663,Job started at CPU.
+83104,663,Job finished at CPU.
+83104,663,Going to disk
+83104,663,Arrived at disk 1
+83228,664,Job arrived at CPU.
+83228,664,Job started at CPU.
+83240,664,Job finished at CPU.
+83240,664,Going to disk
+83240,664,Arrived at disk 2
+83276,213,Job finished at disk 2.
+83276,213,Returning to CPU
+83276,215,Job started at disk 2.
+83276,213,Job arrived at CPU.
+83276,213,Job started at CPU.
+83287,213,Job finished at CPU.
+83287,213,Going to disk
+83287,213,Arrived at disk 2
+83354,76,Job finished at disk 1.
+83354,76,Returning to CPU
+83354,233,Job started at disk 1.
+83354,76,Job arrived at CPU.
+83354,76,Job started at CPU.
+83363,665,Job arrived at CPU.
+83366,76,Job finished at CPU.
+83366,76,Going to disk
+83366,665,Job started at CPU.
+83366,76,Arrived at disk 1
+83380,665,Job finished at CPU.
+83380,665,Job complete.
+83487,666,Job arrived at CPU.
+83487,666,Job started at CPU.
+83497,666,Job finished at CPU.
+83497,666,Going to disk
+83497,666,Arrived at disk 1
+83628,667,Job arrived at CPU.
+83628,667,Job started at CPU.
+83642,667,Job finished at CPU.
+83642,667,Job complete.
+83776,668,Job arrived at CPU.
+83776,668,Job started at CPU.
+83786,668,Job finished at CPU.
+83786,668,Going to disk
+83786,668,Arrived at disk 2
+83912,669,Job arrived at CPU.
+83912,669,Job started at CPU.
+83923,669,Job finished at CPU.
+83923,669,Going to disk
+83923,669,Arrived at disk 1
+84022,670,Job arrived at CPU.
+84022,670,Job started at CPU.
+84034,670,Job finished at CPU.
+84034,670,Job complete.
+84107,215,Job finished at disk 2.
+84107,215,Returning to CPU
+84107,217,Job started at disk 2.
+84107,215,Job arrived at CPU.
+84107,215,Job started at CPU.
+84114,233,Job finished at disk 1.
+84114,233,Returning to CPU
+84114,235,Job started at disk 1.
+84114,233,Job arrived at CPU.
+84122,215,Job finished at CPU.
+84122,215,Going to disk
+84122,233,Job started at CPU.
+84122,215,Arrived at disk 2
+84131,671,Job arrived at CPU.
+84136,233,Job finished at CPU.
+84136,233,Going to disk
+84136,671,Job started at CPU.
+84136,233,Arrived at disk 1
+84149,671,Job finished at CPU.
+84149,671,Job complete.
+84243,672,Job arrived at CPU.
+84243,672,Job started at CPU.
+84256,672,Job finished at CPU.
+84256,672,Going to disk
+84256,672,Arrived at disk 2
+84354,673,Job arrived at CPU.
+84354,673,Job started at CPU.
+84364,673,Job finished at CPU.
+84364,673,Going to disk
+84364,673,Arrived at disk 1
+84494,674,Job arrived at CPU.
+84494,674,Job started at CPU.
+84508,674,Job finished at CPU.
+84508,674,Going to disk
+84508,674,Arrived at disk 2
+84643,675,Job arrived at CPU.
+84643,675,Job started at CPU.
+84653,675,Job finished at CPU.
+84653,675,Job complete.
+84750,217,Job finished at disk 2.
+84750,217,Returning to CPU
+84750,218,Job started at disk 2.
+84750,217,Job arrived at CPU.
+84750,217,Job started at CPU.
+84761,217,Job finished at CPU.
+84761,217,Going to disk
+84761,217,Arrived at disk 2
+84766,676,Job arrived at CPU.
+84766,676,Job started at CPU.
+84777,676,Job finished at CPU.
+84777,676,Going to disk
+84777,676,Arrived at disk 1
+84834,235,Job finished at disk 1.
+84834,235,Returning to CPU
+84834,79,Job started at disk 1.
+84834,235,Job arrived at CPU.
+84834,235,Job started at CPU.
+84845,235,Job finished at CPU.
+84845,235,Going to disk
+84845,235,Arrived at disk 1
+84903,677,Job arrived at CPU.
+84903,677,Job started at CPU.
+84916,677,Job finished at CPU.
+84916,677,Going to disk
+84916,677,Arrived at disk 2
+85015,678,Job arrived at CPU.
+85015,678,Job started at CPU.
+85030,678,Job finished at CPU.
+85030,678,Going to disk
+85030,678,Arrived at disk 1
+85163,679,Job arrived at CPU.
+85163,679,Job started at CPU.
+85174,679,Job finished at CPU.
+85174,679,Going to disk
+85174,679,Arrived at disk 2
+85303,680,Job arrived at CPU.
+85303,680,Job started at CPU.
+85318,680,Job finished at CPU.
+85318,680,Going to disk
+85318,680,Arrived at disk 1
+85410,681,Job arrived at CPU.
+85410,681,Job started at CPU.
+85424,681,Job finished at CPU.
+85424,681,Going to disk
+85424,681,Arrived at disk 2
+85522,682,Job arrived at CPU.
+85522,682,Job started at CPU.
+85525,79,Job finished at disk 1.
+85525,79,Returning to CPU
+85525,239,Job started at disk 1.
+85525,79,Job arrived at CPU.
+85535,682,Job finished at CPU.
+85535,682,Job complete.
+85535,79,Job started at CPU.
+85550,79,Job finished at CPU.
+85550,79,Going to disk
+85550,79,Arrived at disk 1
+85601,218,Job finished at disk 2.
+85601,218,Returning to CPU
+85601,221,Job started at disk 2.
+85601,218,Job arrived at CPU.
+85601,218,Job started at CPU.
+85611,218,Job finished at CPU.
+85611,218,Going to disk
+85611,218,Arrived at disk 2
+85658,683,Job arrived at CPU.
+85658,683,Job started at CPU.
+85669,683,Job finished at CPU.
+85669,683,Going to disk
+85669,683,Arrived at disk 1
+85773,684,Job arrived at CPU.
+85773,684,Job started at CPU.
+85788,684,Job finished at CPU.
+85788,684,Job complete.
+85877,685,Job arrived at CPU.
+85877,685,Job started at CPU.
+85888,685,Job finished at CPU.
+85888,685,Going to disk
+85888,685,Arrived at disk 2
+85996,686,Job arrived at CPU.
+85996,686,Job started at CPU.
+86009,686,Job finished at CPU.
+86009,686,Going to disk
+86009,686,Arrived at disk 1
+86129,687,Job arrived at CPU.
+86129,687,Job started at CPU.
+86143,687,Job finished at CPU.
+86143,687,Going to disk
+86143,687,Arrived at disk 2
+86225,239,Job finished at disk 1.
+86225,239,Returning to CPU
+86225,80,Job started at disk 1.
+86225,239,Job arrived at CPU.
+86225,239,Job started at CPU.
+86239,239,Job finished at CPU.
+86239,239,Going to disk
+86239,239,Arrived at disk 1
+86242,688,Job arrived at CPU.
+86242,688,Job started at CPU.
+86257,688,Job finished at CPU.
+86257,688,Going to disk
+86257,688,Arrived at disk 1
+86387,689,Job arrived at CPU.
+86387,689,Job started at CPU.
+86401,689,Job finished at CPU.
+86401,689,Going to disk
+86401,689,Arrived at disk 2
+86428,221,Job finished at disk 2.
+86428,221,Returning to CPU
+86428,223,Job started at disk 2.
+86428,221,Job arrived at CPU.
+86428,221,Job started at CPU.
+86439,221,Job finished at CPU.
+86439,221,Going to disk
+86439,221,Arrived at disk 2
+86523,690,Job arrived at CPU.
+86523,690,Job started at CPU.
+86538,690,Job finished at CPU.
+86538,690,Going to disk
+86538,690,Arrived at disk 1
+86630,691,Job arrived at CPU.
+86630,691,Job started at CPU.
+86645,691,Job finished at CPU.
+86645,691,Going to disk
+86645,691,Arrived at disk 2
+86770,692,Job arrived at CPU.
+86770,692,Job started at CPU.
+86778,80,Job finished at disk 1.
+86778,80,Returning to CPU
+86778,241,Job started at disk 1.
+86778,80,Job arrived at CPU.
+86783,692,Job finished at CPU.
+86783,692,Going to disk
+86783,80,Job started at CPU.
+86783,692,Arrived at disk 1
+86795,80,Job finished at CPU.
+86795,80,Going to disk
+86795,80,Arrived at disk 1
+86915,693,Job arrived at CPU.
+86915,693,Job started at CPU.
+86927,693,Job finished at CPU.
+86927,693,Going to disk
+86927,693,Arrived at disk 2
+87019,694,Job arrived at CPU.
+87019,694,Job started at CPU.
+87032,694,Job finished at CPU.
+87032,694,Going to disk
+87032,694,Arrived at disk 1
+87128,695,Job arrived at CPU.
+87128,695,Job started at CPU.
+87141,695,Job finished at CPU.
+87141,695,Going to disk
+87141,695,Arrived at disk 2
+87185,223,Job finished at disk 2.
+87185,223,Returning to CPU
+87185,23,Job started at disk 2.
+87185,223,Job arrived at CPU.
+87185,223,Job started at CPU.
+87196,223,Job finished at CPU.
+87196,223,Going to disk
+87196,223,Arrived at disk 2
+87230,696,Job arrived at CPU.
+87230,696,Job started at CPU.
+87243,696,Job finished at CPU.
+87243,696,Going to disk
+87243,696,Arrived at disk 1
+87300,241,Job finished at disk 1.
+87300,241,Returning to CPU
+87300,245,Job started at disk 1.
+87300,241,Job arrived at CPU.
+87300,241,Job started at CPU.
+87315,241,Job finished at CPU.
+87315,241,Job complete.
+87330,697,Job arrived at CPU.
+87330,697,Job started at CPU.
+87342,697,Job finished at CPU.
+87342,697,Going to disk
+87342,697,Arrived at disk 1
+87438,698,Job arrived at CPU.
+87438,698,Job started at CPU.
+87451,698,Job finished at CPU.
+87451,698,Job complete.
+87540,699,Job arrived at CPU.
+87540,699,Job started at CPU.
+87551,699,Job finished at CPU.
+87551,699,Going to disk
+87551,699,Arrived at disk 2
+87667,700,Job arrived at CPU.
+87667,700,Job started at CPU.
+87680,700,Job finished at CPU.
+87680,700,Job complete.
+87790,701,Job arrived at CPU.
+87790,701,Job started at CPU.
+87805,701,Job finished at CPU.
+87805,701,Going to disk
+87805,701,Arrived at disk 1
+87927,702,Job arrived at CPU.
+87927,702,Job started at CPU.
+87937,702,Job finished at CPU.
+87937,702,Job complete.
+87965,245,Job finished at disk 1.
+87965,245,Returning to CPU
+87965,83,Job started at disk 1.
+87965,245,Job arrived at CPU.
+87965,245,Job started at CPU.
+87977,245,Job finished at CPU.
+87977,245,Going to disk
+87977,245,Arrived at disk 1
+88043,703,Job arrived at CPU.
+88043,703,Job started at CPU.
+88053,703,Job finished at CPU.
+88053,703,Going to disk
+88053,703,Arrived at disk 2
+88056,23,Job finished at disk 2.
+88056,23,Returning to CPU
+88056,226,Job started at disk 2.
+88056,23,Job arrived at CPU.
+88056,23,Job started at CPU.
+88070,23,Job finished at CPU.
+88070,23,Going to disk
+88070,23,Arrived at disk 2
+88187,704,Job arrived at CPU.
+88187,704,Job started at CPU.
+88197,704,Job finished at CPU.
+88197,704,Job complete.
+88304,705,Job arrived at CPU.
+88304,705,Job started at CPU.
+88317,705,Job finished at CPU.
+88317,705,Going to disk
+88317,705,Arrived at disk 1
+88425,706,Job arrived at CPU.
+88425,706,Job started at CPU.
+88438,706,Job finished at CPU.
+88438,706,Going to disk
+88438,706,Arrived at disk 2
+88566,707,Job arrived at CPU.
+88566,707,Job started at CPU.
+88579,707,Job finished at CPU.
+88579,707,Going to disk
+88579,707,Arrived at disk 1
+88600,83,Job finished at disk 1.
+88600,83,Returning to CPU
+88600,247,Job started at disk 1.
+88600,83,Job arrived at CPU.
+88600,83,Job started at CPU.
+88613,83,Job finished at CPU.
+88613,83,Going to disk
+88613,83,Arrived at disk 1
+88697,708,Job arrived at CPU.
+88697,708,Job started at CPU.
+88707,708,Job finished at CPU.
+88707,708,Job complete.
+88767,226,Job finished at disk 2.
+88767,226,Returning to CPU
+88767,229,Job started at disk 2.
+88767,226,Job arrived at CPU.
+88767,226,Job started at CPU.
+88782,226,Job finished at CPU.
+88782,226,Going to disk
+88782,226,Arrived at disk 2
+88826,709,Job arrived at CPU.
+88826,709,Job started at CPU.
+88837,709,Job finished at CPU.
+88837,709,Job complete.
+88972,710,Job arrived at CPU.
+88972,710,Job started at CPU.
+88982,710,Job finished at CPU.
+88982,710,Going to disk
+88982,710,Arrived at disk 2
+89119,711,Job arrived at CPU.
+89119,711,Job started at CPU.
+89129,711,Job finished at CPU.
+89129,711,Going to disk
+89129,711,Arrived at disk 1
+89141,247,Job finished at disk 1.
+89141,247,Returning to CPU
+89141,251,Job started at disk 1.
+89141,247,Job arrived at CPU.
+89141,247,Job started at CPU.
+89155,247,Job finished at CPU.
+89155,247,Job complete.
+89254,712,Job arrived at CPU.
+89254,712,Job started at CPU.
+89268,712,Job finished at CPU.
+89268,712,Going to disk
+89268,712,Arrived at disk 1
+89391,713,Job arrived at CPU.
+89391,713,Job started at CPU.
+89401,713,Job finished at CPU.
+89401,713,Job complete.
+89530,714,Job arrived at CPU.
+89530,714,Job started at CPU.
+89541,714,Job finished at CPU.
+89541,714,Going to disk
+89541,714,Arrived at disk 2
+89560,229,Job finished at disk 2.
+89560,229,Returning to CPU
+89560,70,Job started at disk 2.
+89560,229,Job arrived at CPU.
+89560,229,Job started at CPU.
+89574,229,Job finished at CPU.
+89574,229,Going to disk
+89574,229,Arrived at disk 2
+89672,715,Job arrived at CPU.
+89672,715,Job started at CPU.
+89683,715,Job finished at CPU.
+89683,715,Going to disk
+89683,715,Arrived at disk 1
+89707,251,Job finished at disk 1.
+89707,251,Returning to CPU
+89707,85,Job started at disk 1.
+89707,251,Job arrived at CPU.
+89707,251,Job started at CPU.
+89718,251,Job finished at CPU.
+89718,251,Job complete.
+89783,716,Job arrived at CPU.
+89783,716,Job started at CPU.
+89793,716,Job finished at CPU.
+89793,716,Going to disk
+89793,716,Arrived at disk 1
+89885,717,Job arrived at CPU.
+89885,717,Job started at CPU.
+89897,717,Job finished at CPU.
+89897,717,Going to disk
+89897,717,Arrived at disk 2
+90024,718,Job arrived at CPU.
+90024,718,Job started at CPU.
+90037,718,Job finished at CPU.
+90037,718,Going to disk
+90037,718,Arrived at disk 1
+90159,719,Job arrived at CPU.
+90159,719,Job started at CPU.
+90174,719,Job finished at CPU.
+90174,719,Going to disk
+90174,719,Arrived at disk 2
+90223,85,Job finished at disk 1.
+90223,85,Returning to CPU
+90223,253,Job started at disk 1.
+90223,85,Job arrived at CPU.
+90223,85,Job started at CPU.
+90236,85,Job finished at CPU.
+90236,85,Going to disk
+90236,85,Arrived at disk 1
+90262,720,Job arrived at CPU.
+90262,720,Job started at CPU.
+90263,70,Job finished at disk 2.
+90263,70,Returning to CPU
+90263,232,Job started at disk 2.
+90263,70,Job arrived at CPU.
+90273,720,Job finished at CPU.
+90273,720,Going to disk
+90273,70,Job started at CPU.
+90273,720,Arrived at disk 2
+90288,70,Job finished at CPU.
+90288,70,Going to disk
+90288,70,Arrived at disk 1
+90392,721,Job arrived at CPU.
+90392,721,Job started at CPU.
+90406,721,Job finished at CPU.
+90406,721,Going to disk
+90406,721,Arrived at disk 2
+90510,722,Job arrived at CPU.
+90510,722,Job started at CPU.
+90524,722,Job finished at CPU.
+90524,722,Going to disk
+90524,722,Arrived at disk 1
+90649,723,Job arrived at CPU.
+90649,723,Job started at CPU.
+90659,723,Job finished at CPU.
+90659,723,Going to disk
+90659,723,Arrived at disk 2
+90756,724,Job arrived at CPU.
+90756,724,Job started at CPU.
+90767,724,Job finished at CPU.
+90767,724,Going to disk
+90767,724,Arrived at disk 1
+90900,725,Job arrived at CPU.
+90900,725,Job started at CPU.
+90912,725,Job finished at CPU.
+90912,725,Job complete.
+90937,253,Job finished at disk 1.
+90937,253,Returning to CPU
+90937,256,Job started at disk 1.
+90937,253,Job arrived at CPU.
+90937,253,Job started at CPU.
+90950,253,Job finished at CPU.
+90950,253,Going to disk
+90950,253,Arrived at disk 1
+91006,232,Job finished at disk 2.
+91006,232,Returning to CPU
+91006,234,Job started at disk 2.
+91006,232,Job arrived at CPU.
+91006,232,Job started at CPU.
+91016,232,Job finished at CPU.
+91016,232,Going to disk
+91016,232,Arrived at disk 2
+91029,726,Job arrived at CPU.
+91029,726,Job started at CPU.
+91043,726,Job finished at CPU.
+91043,726,Job complete.
+91146,727,Job arrived at CPU.
+91146,727,Job started at CPU.
+91159,727,Job finished at CPU.
+91159,727,Job complete.
+91262,728,Job arrived at CPU.
+91262,728,Job started at CPU.
+91273,728,Job finished at CPU.
+91273,728,Going to disk
+91273,728,Arrived at disk 2
+91384,729,Job arrived at CPU.
+91384,729,Job started at CPU.
+91397,729,Job finished at CPU.
+91397,729,Going to disk
+91397,729,Arrived at disk 1
+91511,730,Job arrived at CPU.
+91511,730,Job started at CPU.
+91522,730,Job finished at CPU.
+91522,730,Going to disk
+91522,730,Arrived at disk 2
+91630,731,Job arrived at CPU.
+91630,731,Job started at CPU.
+91643,731,Job finished at CPU.
+91643,731,Going to disk
+91643,731,Arrived at disk 1
+91702,256,Job finished at disk 1.
+91702,256,Returning to CPU
+91702,86,Job started at disk 1.
+91702,256,Job arrived at CPU.
+91702,256,Job started at CPU.
+91716,256,Job finished at CPU.
+91716,256,Going to disk
+91716,256,Arrived at disk 1
+91730,234,Job finished at disk 2.
+91730,234,Returning to CPU
+91730,237,Job started at disk 2.
+91730,234,Job arrived at CPU.
+91730,234,Job started at CPU.
+91741,234,Job finished at CPU.
+91741,234,Going to disk
+91741,234,Arrived at disk 2
+91776,732,Job arrived at CPU.
+91776,732,Job started at CPU.
+91786,732,Job finished at CPU.
+91786,732,Job complete.
+91895,733,Job arrived at CPU.
+91895,733,Job started at CPU.
+91906,733,Job finished at CPU.
+91906,733,Going to disk
+91906,733,Arrived at disk 2
+92013,734,Job arrived at CPU.
+92013,734,Job started at CPU.
+92025,734,Job finished at CPU.
+92025,734,Going to disk
+92025,734,Arrived at disk 1
+92157,735,Job arrived at CPU.
+92157,735,Job started at CPU.
+92167,735,Job finished at CPU.
+92167,735,Going to disk
+92167,735,Arrived at disk 2
+92250,86,Job finished at disk 1.
+92250,86,Returning to CPU
+92250,258,Job started at disk 1.
+92250,86,Job arrived at CPU.
+92250,86,Job started at CPU.
+92264,86,Job finished at CPU.
+92264,86,Going to disk
+92264,86,Arrived at disk 1
+92278,736,Job arrived at CPU.
+92278,736,Job started at CPU.
+92293,736,Job finished at CPU.
+92293,736,Going to disk
+92293,736,Arrived at disk 1
+92351,237,Job finished at disk 2.
+92351,237,Returning to CPU
+92351,72,Job started at disk 2.
+92351,237,Job arrived at CPU.
+92351,237,Job started at CPU.
+92363,237,Job finished at CPU.
+92363,237,Job complete.
+92391,737,Job arrived at CPU.
+92391,737,Job started at CPU.
+92403,737,Job finished at CPU.
+92403,737,Going to disk
+92403,737,Arrived at disk 2
+92540,738,Job arrived at CPU.
+92540,738,Job started at CPU.
+92550,738,Job finished at CPU.
+92550,738,Going to disk
+92550,738,Arrived at disk 2
+92650,739,Job arrived at CPU.
+92650,739,Job started at CPU.
+92664,739,Job finished at CPU.
+92664,739,Going to disk
+92664,739,Arrived at disk 1
+92797,740,Job arrived at CPU.
+92797,740,Job started at CPU.
+92810,740,Job finished at CPU.
+92810,740,Job complete.
+92901,741,Job arrived at CPU.
+92901,741,Job started at CPU.
+92911,741,Job finished at CPU.
+92911,741,Job complete.
+92987,258,Job finished at disk 1.
+92987,258,Returning to CPU
+92987,260,Job started at disk 1.
+92987,258,Job arrived at CPU.
+92987,258,Job started at CPU.
+92997,258,Job finished at CPU.
+92997,258,Going to disk
+92997,258,Arrived at disk 1
+93011,742,Job arrived at CPU.
+93011,742,Job started at CPU.
+93023,742,Job finished at CPU.
+93023,742,Going to disk
+93023,742,Arrived at disk 2
+93118,743,Job arrived at CPU.
+93118,743,Job started at CPU.
+93133,743,Job finished at CPU.
+93133,743,Going to disk
+93133,743,Arrived at disk 1
+93135,72,Job finished at disk 2.
+93135,72,Returning to CPU
+93135,240,Job started at disk 2.
+93135,72,Job arrived at CPU.
+93135,72,Job started at CPU.
+93147,72,Job finished at CPU.
+93147,72,Going to disk
+93147,72,Arrived at disk 2
+93250,744,Job arrived at CPU.
+93250,744,Job started at CPU.
+93260,744,Job finished at CPU.
+93260,744,Going to disk
+93260,744,Arrived at disk 2
+93377,745,Job arrived at CPU.
+93377,745,Job started at CPU.
+93387,745,Job finished at CPU.
+93387,745,Going to disk
+93387,745,Arrived at disk 1
+93513,746,Job arrived at CPU.
+93513,746,Job started at CPU.
+93525,746,Job finished at CPU.
+93525,746,Going to disk
+93525,746,Arrived at disk 2
+93591,260,Job finished at disk 1.
+93591,260,Returning to CPU
+93591,87,Job started at disk 1.
+93591,260,Job arrived at CPU.
+93591,260,Job started at CPU.
+93604,260,Job finished at CPU.
+93604,260,Going to disk
+93604,260,Arrived at disk 1
+93648,747,Job arrived at CPU.
+93648,747,Job started at CPU.
+93662,747,Job finished at CPU.
+93662,747,Going to disk
+93662,747,Arrived at disk 1
+93788,748,Job arrived at CPU.
+93788,748,Job started at CPU.
+93802,748,Job finished at CPU.
+93802,748,Job complete.
+93928,749,Job arrived at CPU.
+93928,749,Job started at CPU.
+93943,749,Job finished at CPU.
+93943,749,Going to disk
+93943,749,Arrived at disk 2
+93948,240,Job finished at disk 2.
+93948,240,Returning to CPU
+93948,242,Job started at disk 2.
+93948,240,Job arrived at CPU.
+93948,240,Job started at CPU.
+93961,240,Job finished at CPU.
+93961,240,Going to disk
+93961,240,Arrived at disk 2
+94078,750,Job arrived at CPU.
+94078,750,Job started at CPU.
+94092,750,Job finished at CPU.
+94092,750,Going to disk
+94092,750,Arrived at disk 1
+94160,87,Job finished at disk 1.
+94160,87,Returning to CPU
+94160,262,Job started at disk 1.
+94160,87,Job arrived at CPU.
+94160,87,Job started at CPU.
+94172,87,Job finished at CPU.
+94172,87,Going to disk
+94172,87,Arrived at disk 1
+94199,751,Job arrived at CPU.
+94199,751,Job started at CPU.
+94210,751,Job finished at CPU.
+94210,751,Job complete.
+94327,752,Job arrived at CPU.
+94327,752,Job started at CPU.
+94341,752,Job finished at CPU.
+94341,752,Job complete.
+94458,753,Job arrived at CPU.
+94458,753,Job started at CPU.
+94473,753,Job finished at CPU.
+94473,753,Going to disk
+94473,753,Arrived at disk 2
+94571,754,Job arrived at CPU.
+94571,754,Job started at CPU.
+94582,754,Job finished at CPU.
+94582,754,Going to disk
+94582,754,Arrived at disk 1
+94689,755,Job arrived at CPU.
+94689,755,Job started at CPU.
+94701,755,Job finished at CPU.
+94701,755,Going to disk
+94701,755,Arrived at disk 2
+94728,262,Job finished at disk 1.
+94728,262,Returning to CPU
+94728,264,Job started at disk 1.
+94728,262,Job arrived at CPU.
+94728,262,Job started at CPU.
+94730,242,Job finished at disk 2.
+94730,242,Returning to CPU
+94730,244,Job started at disk 2.
+94730,242,Job arrived at CPU.
+94738,262,Job finished at CPU.
+94738,262,Going to disk
+94738,242,Job started at CPU.
+94738,262,Arrived at disk 1
+94751,242,Job finished at CPU.
+94751,242,Going to disk
+94751,242,Arrived at disk 2
+94814,756,Job arrived at CPU.
+94814,756,Job started at CPU.
+94826,756,Job finished at CPU.
+94826,756,Going to disk
+94826,756,Arrived at disk 1
+94945,757,Job arrived at CPU.
+94945,757,Job started at CPU.
+94958,757,Job finished at CPU.
+94958,757,Going to disk
+94958,757,Arrived at disk 2
+95062,758,Job arrived at CPU.
+95062,758,Job started at CPU.
+95072,758,Job finished at CPU.
+95072,758,Going to disk
+95072,758,Arrived at disk 1
+95182,759,Job arrived at CPU.
+95182,759,Job started at CPU.
+95193,759,Job finished at CPU.
+95193,759,Going to disk
+95193,759,Arrived at disk 2
+95301,760,Job arrived at CPU.
+95301,760,Job started at CPU.
+95311,760,Job finished at CPU.
+95311,760,Going to disk
+95311,760,Arrived at disk 1
+95381,264,Job finished at disk 1.
+95381,264,Returning to CPU
+95381,89,Job started at disk 1.
+95381,264,Job arrived at CPU.
+95381,264,Job started at CPU.
+95394,264,Job finished at CPU.
+95394,264,Going to disk
+95394,264,Arrived at disk 1
+95409,761,Job arrived at CPU.
+95409,761,Job started at CPU.
+95422,761,Job finished at CPU.
+95422,761,Going to disk
+95422,761,Arrived at disk 2
+95522,762,Job arrived at CPU.
+95522,762,Job started at CPU.
+95534,762,Job finished at CPU.
+95534,762,Going to disk
+95534,762,Arrived at disk 1
+95550,244,Job finished at disk 2.
+95550,244,Returning to CPU
+95550,246,Job started at disk 2.
+95550,244,Job arrived at CPU.
+95550,244,Job started at CPU.
+95564,244,Job finished at CPU.
+95564,244,Going to disk
+95564,244,Arrived at disk 2
+95629,763,Job arrived at CPU.
+95629,763,Job started at CPU.
+95641,763,Job finished at CPU.
+95641,763,Going to disk
+95641,763,Arrived at disk 2
+95744,764,Job arrived at CPU.
+95744,764,Job started at CPU.
+95756,764,Job finished at CPU.
+95756,764,Going to disk
+95756,764,Arrived at disk 1
+95871,765,Job arrived at CPU.
+95871,765,Job started at CPU.
+95885,765,Job finished at CPU.
+95885,765,Going to disk
+95885,765,Arrived at disk 2
+96007,766,Job arrived at CPU.
+96007,766,Job started at CPU.
+96021,766,Job finished at CPU.
+96021,766,Going to disk
+96021,766,Arrived at disk 1
+96150,767,Job arrived at CPU.
+96150,767,Job started at CPU.
+96162,767,Job finished at CPU.
+96162,767,Going to disk
+96162,767,Arrived at disk 2
+96170,89,Job finished at disk 1.
+96170,89,Returning to CPU
+96170,266,Job started at disk 1.
+96170,89,Job arrived at CPU.
+96170,89,Job started at CPU.
+96180,89,Job finished at CPU.
+96180,89,Going to disk
+96180,89,Arrived at disk 1
+96268,768,Job arrived at CPU.
+96268,768,Job started at CPU.
+96283,768,Job finished at CPU.
+96283,768,Going to disk
+96283,768,Arrived at disk 1
+96358,246,Job finished at disk 2.
+96358,246,Returning to CPU
+96358,248,Job started at disk 2.
+96358,246,Job arrived at CPU.
+96358,246,Job started at CPU.
+96373,246,Job finished at CPU.
+96373,246,Going to disk
+96373,246,Arrived at disk 2
+96406,769,Job arrived at CPU.
+96406,769,Job started at CPU.
+96418,769,Job finished at CPU.
+96418,769,Going to disk
+96418,769,Arrived at disk 2
+96526,770,Job arrived at CPU.
+96526,770,Job started at CPU.
+96538,770,Job finished at CPU.
+96538,770,Job complete.
+96643,771,Job arrived at CPU.
+96643,771,Job started at CPU.
+96653,771,Job finished at CPU.
+96653,771,Going to disk
+96653,771,Arrived at disk 1
+96673,266,Job finished at disk 1.
+96673,266,Returning to CPU
+96673,268,Job started at disk 1.
+96673,266,Job arrived at CPU.
+96673,266,Job started at CPU.
+96688,266,Job finished at CPU.
+96688,266,Going to disk
+96688,266,Arrived at disk 1
+96771,772,Job arrived at CPU.
+96771,772,Job started at CPU.
+96784,772,Job finished at CPU.
+96784,772,Going to disk
+96784,772,Arrived at disk 2
+96887,773,Job arrived at CPU.
+96887,773,Job started at CPU.
+96897,773,Job finished at CPU.
+96897,773,Going to disk
+96897,773,Arrived at disk 1
+97004,774,Job arrived at CPU.
+97004,774,Job started at CPU.
+97014,774,Job finished at CPU.
+97014,774,Job complete.
+97069,248,Job finished at disk 2.
+97069,248,Returning to CPU
+97069,250,Job started at disk 2.
+97069,248,Job arrived at CPU.
+97069,248,Job started at CPU.
+97081,248,Job finished at CPU.
+97081,248,Going to disk
+97081,248,Arrived at disk 2
+97110,775,Job arrived at CPU.
+97110,775,Job started at CPU.
+97125,775,Job finished at CPU.
+97125,775,Going to disk
+97125,775,Arrived at disk 2
+97221,268,Job finished at disk 1.
+97221,268,Returning to CPU
+97221,91,Job started at disk 1.
+97221,776,Job arrived at CPU.
+97221,776,Job started at CPU.
+97221,268,Job arrived at CPU.
+97232,776,Job finished at CPU.
+97232,776,Going to disk
+97232,268,Job started at CPU.
+97232,776,Arrived at disk 1
+97246,268,Job finished at CPU.
+97246,268,Going to disk
+97246,268,Arrived at disk 1
+97324,777,Job arrived at CPU.
+97324,777,Job started at CPU.
+97336,777,Job finished at CPU.
+97336,777,Going to disk
+97336,777,Arrived at disk 2
+97464,778,Job arrived at CPU.
+97464,778,Job started at CPU.
+97478,778,Job finished at CPU.
+97478,778,Going to disk
+97478,778,Arrived at disk 1
+97599,779,Job arrived at CPU.
+97599,779,Job started at CPU.
+97613,779,Job finished at CPU.
+97613,779,Going to disk
+97613,779,Arrived at disk 2
+97734,780,Job arrived at CPU.
+97734,780,Job started at CPU.
+97745,780,Job finished at CPU.
+97745,780,Going to disk
+97745,780,Arrived at disk 1
+97816,250,Job finished at disk 2.
+97816,250,Returning to CPU
+97816,252,Job started at disk 2.
+97816,250,Job arrived at CPU.
+97816,250,Job started at CPU.
+97827,250,Job finished at CPU.
+97827,250,Job complete.
+97840,91,Job finished at disk 1.
+97840,91,Returning to CPU
+97840,273,Job started at disk 1.
+97840,91,Job arrived at CPU.
+97840,91,Job started at CPU.
+97852,91,Job finished at CPU.
+97852,91,Going to disk
+97852,91,Arrived at disk 2
+97879,781,Job arrived at CPU.
+97879,781,Job started at CPU.
+97890,781,Job finished at CPU.
+97890,781,Going to disk
+97890,781,Arrived at disk 1
+98001,782,Job arrived at CPU.
+98001,782,Job started at CPU.
+98011,782,Job finished at CPU.
+98011,782,Going to disk
+98011,782,Arrived at disk 2
+98131,783,Job arrived at CPU.
+98131,783,Job started at CPU.
+98142,783,Job finished at CPU.
+98142,783,Going to disk
+98142,783,Arrived at disk 1
+98248,784,Job arrived at CPU.
+98248,784,Job started at CPU.
+98262,784,Job finished at CPU.
+98262,784,Going to disk
+98262,784,Arrived at disk 2
+98380,785,Job arrived at CPU.
+98380,785,Job started at CPU.
+98391,785,Job finished at CPU.
+98391,785,Going to disk
+98391,785,Arrived at disk 1
+98430,252,Job finished at disk 2.
+98430,252,Returning to CPU
+98430,78,Job started at disk 2.
+98430,252,Job arrived at CPU.
+98430,252,Job started at CPU.
+98442,273,Job finished at disk 1.
+98442,273,Returning to CPU
+98442,275,Job started at disk 1.
+98442,273,Job arrived at CPU.
+98445,252,Job finished at CPU.
+98445,252,Job complete.
+98445,273,Job started at CPU.
+98456,273,Job finished at CPU.
+98456,273,Going to disk
+98456,273,Arrived at disk 2
+98524,786,Job arrived at CPU.
+98524,786,Job started at CPU.
+98536,786,Job finished at CPU.
+98536,786,Going to disk
+98536,786,Arrived at disk 1
+98648,787,Job arrived at CPU.
+98648,787,Job started at CPU.
+98663,787,Job finished at CPU.
+98663,787,Going to disk
+98663,787,Arrived at disk 2
+98749,788,Job arrived at CPU.
+98749,788,Job started at CPU.
+98763,788,Job finished at CPU.
+98763,788,Going to disk
+98763,788,Arrived at disk 1
+98877,789,Job arrived at CPU.
+98877,789,Job started at CPU.
+98889,789,Job finished at CPU.
+98889,789,Going to disk
+98889,789,Arrived at disk 2
+99022,790,Job arrived at CPU.
+99022,790,Job started at CPU.
+99032,790,Job finished at CPU.
+99032,790,Going to disk
+99032,790,Arrived at disk 1
+99153,791,Job arrived at CPU.
+99153,791,Job started at CPU.
+99163,791,Job finished at CPU.
+99163,791,Going to disk
+99163,791,Arrived at disk 2
+99240,275,Job finished at disk 1.
+99240,275,Returning to CPU
+99240,32,Job started at disk 1.
+99240,275,Job arrived at CPU.
+99240,275,Job started at CPU.
+99252,275,Job finished at CPU.
+99252,275,Going to disk
+99252,275,Arrived at disk 1
+99283,792,Job arrived at CPU.
+99283,792,Job started at CPU.
+99288,78,Job finished at disk 2.
+99288,78,Returning to CPU
+99288,254,Job started at disk 2.
+99288,78,Job arrived at CPU.
+99295,792,Job finished at CPU.
+99295,792,Going to disk
+99295,78,Job started at CPU.
+99295,792,Arrived at disk 2
+99307,78,Job finished at CPU.
+99307,78,Going to disk
+99307,78,Arrived at disk 1
+99420,793,Job arrived at CPU.
+99420,793,Job started at CPU.
+99431,793,Job finished at CPU.
+99431,793,Going to disk
+99431,793,Arrived at disk 2
+99525,794,Job arrived at CPU.
+99525,794,Job started at CPU.
+99538,794,Job finished at CPU.
+99538,794,Going to disk
+99538,794,Arrived at disk 1
+99634,795,Job arrived at CPU.
+99634,795,Job started at CPU.
+99645,795,Job finished at CPU.
+99645,795,Job complete.
+99754,796,Job arrived at CPU.
+99754,796,Job started at CPU.
+99769,796,Job finished at CPU.
+99769,796,Going to disk
+99769,796,Arrived at disk 2
+99902,797,Job arrived at CPU.
+99902,797,Job started at CPU.
+99912,797,Job finished at CPU.
+99912,797,Job complete.
+99935,32,Job finished at disk 1.
+99935,32,Returning to CPU
+99935,277,Job started at disk 1.
+99935,32,Job arrived at CPU.
+99935,32,Job started at CPU.
+99939,254,Job finished at disk 2.
+99939,254,Returning to CPU
+99939,257,Job started at disk 2.
+99939,254,Job arrived at CPU.
+99948,32,Job finished at CPU.
+99948,32,Job complete.
+99948,254,Job started at CPU.
+99958,254,Job finished at CPU.
+99958,254,Going to disk
+99958,254,Arrived at disk 1
